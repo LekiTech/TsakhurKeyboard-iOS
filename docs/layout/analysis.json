@@ -1,0 +1,514 @@
+{
+ "sources": {
+  "newspaper_sample": "docs/layout/nur_sample.json",
+  "word_list": "TsakhurKeyboard/TsakhurKeyboardExtension/tsakhur_words.sqlite"
+ },
+ "statistics": {
+  "newspaper_sample": {
+   "articles": 42,
+   "words": 20326,
+   "letters": 150195,
+   "letters_per_word": 7.39,
+   "letter_percent": {
+    "а": 15.7,
+    "и": 7.68,
+    "н": 7.24,
+    "е": 5.99,
+    "ы": 4.61,
+    "д": 3.84,
+    "л": 3.53,
+    "м": 3.4,
+    "р": 3.4,
+    "б": 3.37,
+    "ъ": 3.33,
+    "к": 3.28,
+    "г": 3.25,
+    "х": 3.24,
+    "с": 3.1,
+    "й": 2.86,
+    "в": 2.76,
+    "ш": 2.68,
+    "ь": 2.66,
+    "у": 2.6,
+    "Ӏ": 2.41,
+    "т": 2.4,
+    "о": 1.89,
+    "ж": 0.82,
+    "з": 0.79,
+    "ч": 0.71,
+    "ʼ": 0.51,
+    "я": 0.49,
+    "п": 0.34,
+    "ц": 0.32,
+    "ф": 0.28,
+    "э": 0.25,
+    "ю": 0.16,
+    "ё": 0.07,
+    "щ": 0.03
+   },
+   "per_100_words": {
+    "ъ": 24.63,
+    "Ӏ": 17.83,
+    "ʼ": 3.76,
+    "ы": 34.07,
+    "э": 1.86,
+    "ю": 1.19,
+    "щ": 0.2,
+    "ё": 0.49,
+    "ф": 2.04,
+    "ц": 2.33,
+    "п": 2.54
+   },
+   "digraphs_per_100_words": {
+    "гь": 11.41,
+    "аӀ": 9.35,
+    "хъ": 8.39,
+    "гъ": 5.87,
+    "дж": 5.86,
+    "хь": 5.73,
+    "къ": 4.07,
+    "лʼ": 3.5,
+    "кӀ": 2.97,
+    "кь": 1.93,
+    "цӀ": 1.65,
+    "оӀ": 0.92,
+    "чӀ": 0.85,
+    "ыӀ": 0.84,
+    "тӀ": 0.72,
+    "уӀ": 0.42,
+    "гӀ": 0.04,
+    "пӀ": 0.03,
+    "хӀ": 0.01,
+    "иӀ": 0.0,
+    "еӀ": 0.0,
+    "аь": 0.0,
+    "оь": 0.0,
+    "уь": 0.0
+   },
+   "alphabet_digraphs_per_100_words": 61.0,
+   "letter_before_palochka": {
+    "а": 1900,
+    "к": 604,
+    "ц": 335,
+    "о": 186,
+    "ч": 172,
+    "ы": 170,
+    "т": 146,
+    "у": 85,
+    "г": 9,
+    "п": 6,
+    "ъ": 3,
+    "ь": 3,
+    "х": 2,
+    "м": 2,
+    "я": 1,
+    "и": 1
+   },
+   "letter_before_mark": {
+    "л": 712,
+    "к": 13,
+    "з": 11,
+    "д": 11,
+    "т": 7,
+    "с": 6,
+    "Ӏ": 3,
+    "х": 1
+   },
+   "words_with_mark_percent": 3.74,
+   "doubled_vowels_per_100_words": {
+    "аа": 3.45,
+    "ее": 4.6,
+    "оо": 0.94,
+    "ии": 0.03
+   }
+  },
+  "word_list": {
+   "words": 1355,
+   "letters": 8468,
+   "note": "1,355 dictionary forms of the IDS list, each counted once: infinitives and nouns in the citation form, so the shares differ from running text",
+   "letter_percent": {
+    "а": 17.32,
+    "к": 5.72,
+    "и": 5.26,
+    "н": 4.76,
+    "с": 4.48,
+    "Ӏ": 4.22,
+    "г": 4.0,
+    "е": 3.99,
+    "х": 3.98,
+    "р": 3.85,
+    "ы": 3.72,
+    "ь": 3.54,
+    "д": 3.39,
+    "ъ": 3.29,
+    "у": 3.18,
+    "л": 2.95,
+    "т": 2.78,
+    "м": 2.57,
+    "й": 2.54,
+    "о": 1.94,
+    "в": 1.91,
+    "б": 1.84,
+    "п": 1.55,
+    "ш": 1.52,
+    "ч": 1.31,
+    "з": 0.81,
+    "ʼ": 0.79,
+    "ж": 0.74,
+    "я": 0.68,
+    "ц": 0.59,
+    "э": 0.3,
+    "ф": 0.24,
+    "ю": 0.19,
+    "щ": 0.05
+   },
+   "digraph_words": {
+    "аӀ": 72,
+    "гъ": 74,
+    "гь": 117,
+    "гӀ": 12,
+    "дж": 58,
+    "къ": 83,
+    "кь": 74,
+    "кӀ": 95,
+    "оӀ": 18,
+    "пӀ": 3,
+    "тӀ": 42,
+    "уӀ": 12,
+    "хъ": 68,
+    "хь": 94,
+    "цӀ": 21,
+    "чӀ": 31,
+    "ыӀ": 29
+   },
+   "words_with_mark": 67,
+   "words_with_palochka": 314,
+   "doubled_vowel_words": 58,
+   "doubled_consonants": {
+    "лл": 16,
+    "хх": 14,
+    "кк": 11,
+    "тт": 8,
+    "сс": 8,
+    "нн": 6,
+    "пп": 3,
+    "мм": 2,
+    "чч": 2,
+    "шш": 2,
+    "рр": 2,
+    "дд": 2,
+    "зз": 1
+   }
+  }
+ },
+ "model": {
+  "long_press_delay_s": 0.3,
+  "tap_s": 0.25,
+  "screen_pt": 402.0
+ },
+ "chosen": "B",
+ "candidates": {
+  "A": {
+   "title": "Russian iOS keyboard; ъ, Ӏ and ʼ under a long press on ь",
+   "rows": [
+    "йцукенгшщзх",
+    "фывапролджэ",
+    "ячсмитьбю"
+   ],
+   "keys_per_row": [
+    11,
+    11,
+    9
+   ],
+   "narrowest_letter_key_pt": {
+    "402 pt screen": 29.91,
+    "375 pt screen": 27.45
+   },
+   "letters_moved_from_the_russian_layout": [],
+   "letters_without_a_key": [
+    "ʼ",
+    "ъ",
+    "ё",
+    "Ӏ"
+   ],
+   "newspaper_sample": {
+    "long_presses_per_100_words": 46.71,
+    "long_presses_per_100_letters": 6.32,
+    "by_letter_per_100_words": {
+     "ъ": 24.63,
+     "Ӏ": 17.83,
+     "ʼ": 3.76,
+     "ё": 0.49
+    },
+    "seconds_per_100_words": 198.7
+   },
+   "word_list": {
+    "long_presses_per_100_words": 51.88,
+    "words_needing_a_long_press_percent": 40.59,
+    "thumb_travel_pt_per_letter": 52.64,
+    "same_thumb_transitions_percent": 44.55
+   }
+  },
+  "B": {
+   "title": "ъ on щ's key, Ӏ on э's key; ʼ under ь (the layout shipped)",
+   "rows": [
+    "йцукенгшъзх",
+    "фывапролджӀ",
+    "ячсмитьбю"
+   ],
+   "keys_per_row": [
+    11,
+    11,
+    9
+   ],
+   "narrowest_letter_key_pt": {
+    "402 pt screen": 29.91,
+    "375 pt screen": 27.45
+   },
+   "letters_moved_from_the_russian_layout": [
+    "ъ",
+    "Ӏ"
+   ],
+   "letters_without_a_key": [
+    "ʼ",
+    "щ",
+    "э",
+    "ё"
+   ],
+   "newspaper_sample": {
+    "long_presses_per_100_words": 6.31,
+    "long_presses_per_100_letters": 0.85,
+    "by_letter_per_100_words": {
+     "ʼ": 3.76,
+     "э": 1.86,
+     "ё": 0.49,
+     "щ": 0.2
+    },
+    "seconds_per_100_words": 186.6
+   },
+   "word_list": {
+    "long_presses_per_100_words": 7.08,
+    "words_needing_a_long_press_percent": 6.94,
+    "thumb_travel_pt_per_letter": 55.42,
+    "same_thumb_transitions_percent": 44.55
+   }
+  },
+  "B-ю": {
+   "title": "ъ on щ's key, Ӏ on ю's key; ʼ under ь",
+   "rows": [
+    "йцукенгшъзх",
+    "фывапролджэ",
+    "ячсмитьбӀ"
+   ],
+   "keys_per_row": [
+    11,
+    11,
+    9
+   ],
+   "narrowest_letter_key_pt": {
+    "402 pt screen": 29.91,
+    "375 pt screen": 27.45
+   },
+   "letters_moved_from_the_russian_layout": [
+    "ъ",
+    "Ӏ"
+   ],
+   "letters_without_a_key": [
+    "ʼ",
+    "щ",
+    "ю",
+    "ё"
+   ],
+   "newspaper_sample": {
+    "long_presses_per_100_words": 5.64,
+    "long_presses_per_100_letters": 0.76,
+    "by_letter_per_100_words": {
+     "ʼ": 3.76,
+     "ю": 1.19,
+     "ё": 0.49,
+     "щ": 0.2
+    },
+    "seconds_per_100_words": 186.4
+   },
+   "word_list": {
+    "long_presses_per_100_words": 6.42,
+    "words_needing_a_long_press_percent": 6.27,
+    "thumb_travel_pt_per_letter": 54.56,
+    "same_thumb_transitions_percent": 44.55
+   }
+  },
+  "S": {
+   "title": "ъ on щ's key, Ӏ on ы's key (Dargwa, Tabasaran, Aghul); ʼ under ь",
+   "rows": [
+    "йцукенгшъзх",
+    "фӀвапролджэ",
+    "ячсмитьбю"
+   ],
+   "keys_per_row": [
+    11,
+    11,
+    9
+   ],
+   "narrowest_letter_key_pt": {
+    "402 pt screen": 29.91,
+    "375 pt screen": 27.45
+   },
+   "letters_moved_from_the_russian_layout": [
+    "ъ",
+    "Ӏ"
+   ],
+   "letters_without_a_key": [
+    "ʼ",
+    "щ",
+    "ы",
+    "ё"
+   ],
+   "newspaper_sample": {
+    "long_presses_per_100_words": 38.52,
+    "long_presses_per_100_letters": 5.21,
+    "by_letter_per_100_words": {
+     "ы": 34.07,
+     "ʼ": 3.76,
+     "ё": 0.49,
+     "щ": 0.2
+    },
+    "seconds_per_100_words": 196.3
+   },
+   "word_list": {
+    "long_presses_per_100_words": 28.49,
+    "words_needing_a_long_press_percent": 23.47,
+    "thumb_travel_pt_per_letter": 52.57,
+    "same_thumb_transitions_percent": 48.81
+   }
+  },
+  "L": {
+   "title": "Ӏ on ы's key, ъ on э's key (Lak); ʼ under ь",
+   "rows": [
+    "йцукенгшщзх",
+    "фӀвапролджъ",
+    "ячсмитьбю"
+   ],
+   "keys_per_row": [
+    11,
+    11,
+    9
+   ],
+   "narrowest_letter_key_pt": {
+    "402 pt screen": 29.91,
+    "375 pt screen": 27.45
+   },
+   "letters_moved_from_the_russian_layout": [
+    "ъ",
+    "Ӏ"
+   ],
+   "letters_without_a_key": [
+    "ʼ",
+    "ы",
+    "э",
+    "ё"
+   ],
+   "newspaper_sample": {
+    "long_presses_per_100_words": 40.18,
+    "long_presses_per_100_letters": 5.44,
+    "by_letter_per_100_words": {
+     "ы": 34.07,
+     "ʼ": 3.76,
+     "э": 1.86,
+     "ё": 0.49
+    },
+    "seconds_per_100_words": 196.8
+   },
+   "word_list": {
+    "long_presses_per_100_words": 30.04,
+    "words_needing_a_long_press_percent": 24.65,
+    "thumb_travel_pt_per_letter": 54.12,
+    "same_thumb_transitions_percent": 48.81
+   }
+  },
+  "C": {
+   "title": "as B, and ʼ on ю's key",
+   "rows": [
+    "йцукенгшъзх",
+    "фывапролджӀ",
+    "ячсмитьбʼ"
+   ],
+   "keys_per_row": [
+    11,
+    11,
+    9
+   ],
+   "narrowest_letter_key_pt": {
+    "402 pt screen": 29.91,
+    "375 pt screen": 27.45
+   },
+   "letters_moved_from_the_russian_layout": [
+    "ʼ",
+    "ъ",
+    "Ӏ"
+   ],
+   "letters_without_a_key": [
+    "щ",
+    "э",
+    "ю",
+    "ё"
+   ],
+   "newspaper_sample": {
+    "long_presses_per_100_words": 3.74,
+    "long_presses_per_100_letters": 0.51,
+    "by_letter_per_100_words": {
+     "э": 1.86,
+     "ю": 1.19,
+     "ё": 0.49,
+     "щ": 0.2
+    },
+    "seconds_per_100_words": 185.9
+   },
+   "word_list": {
+    "long_presses_per_100_words": 3.32,
+    "words_needing_a_long_press_percent": 3.17,
+    "thumb_travel_pt_per_letter": 55.61,
+    "same_thumb_transitions_percent": 44.27
+   }
+  },
+  "D": {
+   "title": "twelve keys in two rows: the Russian letters and ъ, Ӏ; ʼ under ь",
+   "rows": [
+    "йцукенгшщзхъ",
+    "фывапролджэӀ",
+    "ячсмитьбю"
+   ],
+   "keys_per_row": [
+    12,
+    12,
+    9
+   ],
+   "narrowest_letter_key_pt": {
+    "402 pt screen": 26.92,
+    "375 pt screen": 24.67
+   },
+   "letters_moved_from_the_russian_layout": [
+    "ъ",
+    "Ӏ"
+   ],
+   "letters_without_a_key": [
+    "ʼ",
+    "ё"
+   ],
+   "newspaper_sample": {
+    "long_presses_per_100_words": 4.25,
+    "long_presses_per_100_letters": 0.58,
+    "by_letter_per_100_words": {
+     "ʼ": 3.76,
+     "ё": 0.49
+    },
+    "seconds_per_100_words": 186.0
+   },
+   "word_list": {
+    "long_presses_per_100_words": 4.94,
+    "words_needing_a_long_press_percent": 4.94,
+    "thumb_travel_pt_per_letter": 56.31,
+    "same_thumb_transitions_percent": 51.69
+   }
+  }
+ }
+}

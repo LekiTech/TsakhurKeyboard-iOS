@@ -1,0 +1,23 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Show «цӀаӀх» on the space bar" : {
+      "comment" : "Settings subtitle under «‹цӀаӀх› на пробеле»",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show «цӀаӀх» on the space bar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показывать «цӀаӀх» на пробеле"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.1"
+}

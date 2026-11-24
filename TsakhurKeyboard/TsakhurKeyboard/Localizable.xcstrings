@@ -1,0 +1,502 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "About 1,350 Tsakhur words, fully offline; the keyboard learns the rest from you" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About 1,350 Tsakhur words, fully offline; the keyboard learns the rest from you"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Около 1 350 цахурских слов, полностью офлайн; остальному клавиатура учится у вас"
+          }
+        }
+      }
+    },
+    "Developed by LekiTech" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Developed by LekiTech"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разработано LekiTech"
+          }
+        }
+      }
+    },
+    "Dictionary" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dictionary"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Словарь"
+          }
+        }
+      }
+    },
+    "Every one of them can also be typed key by key: к, then Ӏ; г, then ъ. Doubled letters (аа, ее, лл, кк) are typed by tapping the key twice." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every one of them can also be typed key by key: к, then Ӏ; г, then ъ. Doubled letters (аа, ее, лл, кк) are typed by tapping the key twice."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Любую из них можно набрать и по буквам: к, затем Ӏ; г, затем ъ. Удвоенные буквы (аа, ее, лл, кк) набираются двойным нажатием клавиши."
+          }
+        }
+      }
+    },
+    "Feels native" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feels native"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Как системная"
+          }
+        }
+      }
+    },
+    "Full Tsakhur alphabet" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Full Tsakhur alphabet"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Полный цахурский алфавит"
+          }
+        }
+      }
+    },
+    "Hold a key to see more letters, then slide to the one you need." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hold a key to see more letters, then slide to the one you need."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удерживайте клавишу, чтобы увидеть другие буквы, и проведите пальцем к нужной."
+          }
+        }
+      }
+    },
+    "How to install" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How to install"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Как установить"
+          }
+        }
+      }
+    },
+    "It comes from a single list of dictionary forms, so it is small and does not know yet which words are common. Native speakers have not reviewed it. The keyboard learns the words you type and suggests them next time." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It comes from a single list of dictionary forms, so it is small and does not know yet which words are common. Native speakers have not reviewed it. The keyboard learns the words you type and suggests them next time."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Он собран по одному списку словарных форм, поэтому невелик и пока не знает, какие слова употребляются чаще. Носители языка его ещё не проверяли. Клавиатура запоминает слова, которые вы набираете, и подсказывает их в следующий раз."
+          }
+        }
+      }
+    },
+    "Keyboard settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keyboard settings"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройки клавиатуры"
+          }
+        }
+      }
+    },
+    "Layout" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Layout"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Раскладка"
+          }
+        }
+      }
+    },
+    "Long press" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Long press"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Долгое нажатие"
+          }
+        }
+      }
+    },
+    "Matches the iOS keyboard down to the details, in light and dark mode" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matches the iOS keyboard down to the details, in light and dark mode"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Повторяет клавиатуру iOS до мелочей — в светлой и тёмной теме"
+          }
+        }
+      }
+    },
+    "Never asks for Full Access and sends nothing anywhere — word learning stays on this device and can be reset from the keyboard" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Never asks for Full Access and sends nothing anywhere — word learning stays on this device and can be reset from the keyboard"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не требует полного доступа и ничего никуда не отправляет — выученные слова остаются на этом устройстве, их можно удалить в настройках клавиатуры"
+          }
+        }
+      }
+    },
+    "Open Settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Settings"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открыть Настройки"
+          }
+        }
+      }
+    },
+    "Private by design" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Private by design"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приватная по умолчанию"
+          }
+        }
+      }
+    },
+    "Switch languages using the 🌐 key on the keyboard" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Switch languages using the 🌐 key on the keyboard"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Для переключения между языками нажимайте кнопку 🌐 на клавиатуре"
+          }
+        }
+      }
+    },
+    "Tap **Keyboards**" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap **Keyboards**"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выберите **Клавиатуры**"
+          }
+        }
+      }
+    },
+    "Tap **Open Settings** below" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap **Open Settings** below"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нажмите **«Открыть Настройки»** ниже"
+          }
+        }
+      }
+    },
+    "Tap the ⚙︎ key on the keyboard to change word suggestions, next-word suggestions, learning speed, the long-press delay and the theme. Settings are saved on this device." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap the ⚙︎ key on the keyboard to change word suggestions, next-word suggestions, learning speed, the long-press delay and the theme. Settings are saved on this device."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нажмите клавишу ⚙︎ на клавиатуре, чтобы настроить подсказки слов, подсказку следующего слова, скорость обучения, задержку долгого нажатия и тему. Настройки сохраняются на этом устройстве."
+          }
+        }
+      }
+    },
+    "The Russian layout with two changes: the hard sign (ъ) and the palochka (Ӏ) have their own keys, where щ and э are on the Russian keyboard." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Russian layout with two changes: the hard sign (ъ) and the palochka (Ӏ) have their own keys, where щ and э are on the Russian keyboard."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Русская раскладка с двумя отличиями: твёрдый знак (ъ) и палочка (Ӏ) — на отдельных клавишах, там, где на русской клавиатуре щ и э."
+          }
+        }
+      }
+    },
+    "The built-in dictionary has about 1,350 Tsakhur words. It works offline and is the same for everyone; your own words are kept separately." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The built-in dictionary has about 1,350 Tsakhur words. It works offline and is the same for everyone; your own words are kept separately."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Во встроенном словаре около 1 350 цахурских слов. Он работает офлайн и одинаков для всех; ваши собственные слова хранятся отдельно."
+          }
+        }
+      }
+    },
+    "The keyboard learns the words you type. Its **Dictionary** page lists them; you can delete one word or all of them there." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The keyboard learns the words you type. Its **Dictionary** page lists them; you can delete one word or all of them there."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Клавиатура запоминает слова, которые вы набираете. Они перечислены на странице **«Словарь»** в её настройках; там можно удалить одно слово или все сразу."
+          }
+        }
+      }
+    },
+    "The mark ʼ after a soft consonant (йигъылʼ, мизʼ) is under ь, and лʼ is under л." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The mark ʼ after a soft consonant (йигъылʼ, мизʼ) is under ь, and лʼ is under л."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Знак ʼ после мягкого согласного (йигъылʼ, мизʼ) — долгое нажатие на ь, а лʼ — на л."
+          }
+        }
+      }
+    },
+    "Tip: you can also add the keyboard via **Settings → General → Keyboard → Keyboards**" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tip: you can also add the keyboard via **Settings → General → Keyboard → Keyboards**"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подсказка: клавиатуру также можно добавить через **Настройки → Основные → Клавиатура → Клавиатуры**"
+          }
+        }
+      }
+    },
+    "Tsakhur Keyboard" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tsakhur Keyboard"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Цахурская клавиатура"
+          }
+        }
+      }
+    },
+    "Turn on **Tsakhur**" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn on **Tsakhur**"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Включите **Цахурский**"
+          }
+        }
+      }
+    },
+    "Type in your native language" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type in your native language"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пишите на родном языке"
+          }
+        }
+      }
+    },
+    "Word suggestions" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Word suggestions"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подсказки слов"
+          }
+        }
+      }
+    },
+    "щ and э, which are rare in Tsakhur, are under ш and Ӏ." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "щ and э, which are rare in Tsakhur, are under ш and Ӏ."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Буквы щ и э, редкие в цахурском, — долгое нажатие на ш и Ӏ."
+          }
+        }
+      }
+    },
+    "Ӏ and ъ on their own keys; аӀ, гъ, гь, гӀ, дж, къ, кь, кӀ, оӀ, пӀ, тӀ, уӀ, хъ, хь, цӀ, чӀ, ыӀ key by key or with one long press" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ӏ and ъ on their own keys; аӀ, гъ, гь, гӀ, дж, къ, кь, кӀ, оӀ, пӀ, тӀ, уӀ, хъ, хь, цӀ, чӀ, ыӀ key by key or with one long press"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ӏ и ъ на отдельных клавишах; аӀ, гъ, гь, гӀ, дж, къ, кь, кӀ, оӀ, пӀ, тӀ, уӀ, хъ, хь, цӀ, чӀ, ыӀ — по буквам или одним долгим нажатием"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

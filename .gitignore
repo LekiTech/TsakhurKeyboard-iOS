@@ -1,0 +1,32 @@
+# Xcode
+*.xcuserstate
+*.xcbkptlist
+xcuserdata/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager (the test package's build products)
+.build/
+.swiftpm/
+Package.resolved
+
+# Python
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Local Claude Code settings
+.claude/settings.local.json
+
+# Working folder of this checkout: upstream clones, the cached newspaper
+# sample, DerivedData of command-line builds
+/build/
+
+# The two general files of keyboard_data_v0.zip (all nine languages); the
+# Tsakhur files beside them are tracked
+/dictionary-source/original-v0/README.md
+/dictionary-source/original-v0/build_kb_data.py

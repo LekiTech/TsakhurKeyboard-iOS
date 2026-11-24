@@ -1,0 +1,143 @@
+{
+ "input": {
+  "v0_generated_at": "2026-10-11T17:00:57+00:00",
+  "v0_sources": {
+   "ids": {
+    "kind": "lexicon",
+    "words": 1396
+   }
+  },
+  "ids_rows": 1440,
+  "ids_forms_read_differently": 309,
+  "ids_forms_set_aside": 4
+ },
+ "audit": {
+  "words": 1396,
+  "bigrams": 0,
+  "character_inventory": {
+   "а U+0430": 1427,
+   "и U+0438": 587,
+   "к U+043A": 470,
+   "н U+043D": 378,
+   "с U+0441": 376,
+   "ӏ U+04CF": 348,
+   "е U+0435": 335,
+   "г U+0433": 334,
+   "х U+0445": 334,
+   "р U+0440": 325,
+   "ы U+044B": 314,
+   "ь U+044C": 300,
+   "д U+0434": 278,
+   "ъ U+044A": 272,
+   "у U+0443": 268,
+   "л U+043B": 237,
+   "т U+0442": 235,
+   "м U+043C": 215,
+   "о U+043E": 161,
+   "б U+0431": 155,
+   "в U+0432": 155,
+   "п U+043F": 130,
+   "ш U+0448": 130,
+   "ч U+0447": 109,
+   "з U+0437": 69,
+   "ж U+0436": 63,
+   "я U+044F": 58,
+   "ц U+0446": 50,
+   "э U+044D": 25,
+   "ф U+0444": 20,
+   "ю U+044E": 16,
+   "- U+002D": 4,
+   "щ U+0449": 4
+  },
+  "palochka_after": {
+   "к": 99,
+   "а": 70,
+   "т": 45,
+   "ч": 30,
+   "ы": 29,
+   "ц": 23,
+   "о": 18,
+   "у": 12,
+   "г": 11,
+   "х": 5,
+   "п": 3,
+   "е": 2,
+   "и": 1
+  },
+  "not_nfc": [],
+  "not_lowercase": [],
+  "not_canonical": [],
+  "canonical_collisions": [],
+  "contract_invalid": [],
+  "outside_alphabet": [],
+  "latin_letters": [],
+  "visible_palochka_u04c0": [],
+  "replacement_or_control_chars": [],
+  "hyphenated": [
+   "са-кьолле",
+   "тӏянкӏ-тӏянкӏ",
+   "цык-цык",
+   "экӏда-экӏда"
+  ],
+  "with_palochka": 309,
+  "with_palatalization_mark": 0,
+  "with_short_i": 0,
+  "doubled_palochka": [],
+  "same_letter_three_times": [],
+  "score_formula_mismatch": [],
+  "count_mismatch": [],
+  "words_with_a_frequency": 0,
+  "word_lists_only": 1396,
+  "bigram_orphans": 0
+ },
+ "changes": {
+  "by_rule_and_action": {
+   "B1 pair added": 134,
+   "P1 row removed": 310,
+   "R1 row added": 273,
+   "X1 form set aside": 4,
+   "X1 row removed": 4
+  },
+  "rows_removed": 314,
+  "rows_added": 273,
+  "restored_by_cause": {
+   "й": 201,
+   "ʼ": 58,
+   "й + ʼ": 13,
+   "Latin c": 1
+  },
+  "pairs_added": 134,
+  "respelled": 0,
+  "merged": 0
+ },
+ "flags": {
+  "listed": 102,
+  "entries": 98,
+  "forms_set_aside": 4,
+  "high_priority": 28,
+  "by_category": {
+   "written with the palatalization mark": 67,
+   "«й» + vowel where the newspaper writes я, ю, е": 17,
+   "«хӏ», not a letter of the 1990 alphabet": 5,
+   "hyphenated entry": 4,
+   "«аь» / «оь», not letters of the 1990 alphabet": 3,
+   "«еӏ» / «иӏ», not letters of the 1990 alphabet": 3,
+   "a name: capitalized in the source": 2,
+   "typed with a Latin «c» in the source": 1,
+   "«хʼ» where the newspaper writes «хь»": 1
+  }
+ },
+ "output": {
+  "words": 1355,
+  "bigrams": 134,
+  "words_unchanged_from_v0": 1082,
+  "words_with_palochka": 314,
+  "words_with_palatalization_mark": 67,
+  "words_with_short_i": 210,
+  "words_with_a_frequency": 0,
+  "base_score_total": 1355,
+  "base_score_total_v0": 1396,
+  "bigram_weight_total": 137,
+  "bigram_weight_total_v0": 0
+ }
+}

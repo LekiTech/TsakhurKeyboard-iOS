@@ -1,0 +1,6 @@
+step,words,base_score_total,bigrams,bigram_weight_total
+"v0 (keyboard_data_v0.zip, tkr)",1396,1396,0,0
+P1 + X1: pieces of cut words removed,-314,-314,0,0
+R1: words of the IDS list restored,273,273,0,0
+B1: pairs of the multiword IDS forms,0,0,134,137
+this dictionary,1355,1355,134,137

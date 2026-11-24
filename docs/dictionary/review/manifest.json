@@ -1,0 +1,45 @@
+{
+ "archive": {
+  "file": "keyboard_data_v0.zip",
+  "sha256": "8cec9c22b314373386dbcbbbe1680d765b4f212de655162197af019402b8ac31",
+  "folder": "keyboard_data/",
+  "built": "2026-10-11T17:00:57+00:00",
+  "language": "tkr"
+ },
+ "v0_files": {
+  "tkr_words.sqlite": "396d6a476c3305656425573f98c79cc0d2f86996f99dd3e157df3f00f3db76b8",
+  "tkr_bigrams.sqlite": "a8b4bebc9b718f7d9ac13b877932541ebcd5945e03fdb025624c3c067fc82c55",
+  "tkr_words.tsv": "4f30f4510faa0337b31952831aa02bbf6079c73cdbb462647cf82871e1f4c625",
+  "tkr_bigrams.tsv": "964fc2a22e40d22aa4bdafe2ea8183c8c3285ac20dcc7f43d401b11ed87e6304",
+  "tkr_stats.json": "50987f420baba93f40995725a61556377e1f67147e8ffc9dea225fa43896f148"
+ },
+ "v0_sources": {
+  "ids": {
+   "kind": "lexicon",
+   "words": 1396
+  }
+ },
+ "upstream": {
+  "repository": "https://github.com/intercontinental-dictionary-series/ids",
+  "commit": "bf6c9f8c7d25c15e61e338f3ed29ae46b844c0f8",
+  "commit_date": "2026-10-09",
+  "file": "cldf/forms.csv",
+  "file_sha256": "1ff6caa439d27d05c0ce7e72b656bfae5595bc5d12ae57b494e481e90e4e9968",
+  "rows": "Language_ID 70 «Tsakhur» (author Madzhid Khalilov, data entry Stefan Lange), 1,440 rows",
+  "extract": "dictionary-source/upstream/ids-bf6c9f8/forms_tsakhur_70.csv",
+  "extract_sha256": "e3c3a6701f90eda728ea23820469caaf0bb25cbc131cc7d41e6e30130cb161f1",
+  "licence": "CC BY 4.0",
+  "citation": "Key, Mary Ritchie & Comrie, Bernard (eds.) 2023. The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology. https://ids.clld.org"
+ },
+ "repair_tables": {
+  "ids_repaired_forms.tsv": "4fe7cb62688a3a790834b48f06b85e573a6fdc78b6e70d72645f0c8cd2b36c10",
+  "ids_restored_words.tsv": "cdd1c900c7c51b5aa995d520f35c30cb1740ac8347f694cad07fe0f24df2c633",
+  "v0_cut_pieces.tsv": "e821dbd29c07656a690619424aae2beb9c3c14f7c32b310e33974f7a8ed1b492",
+  "ids_excluded_forms.tsv": "544f4e41ad6d01186285fca4e5c909718d1944c0e2a0be30312976cfcbbe7abd",
+  "ids_phrase_pairs.tsv": "48b617eb18391ff1cc60c61fc20010d5fe16ad2480159a6451e0b64ad84b7f39"
+ },
+ "not_used": {
+  "ids_532": "IDS list 532 «Tsakhur (Gelmets dialect)», 1,381 forms: another dialect; v0 did not read it and neither does this build",
+  "nur_newspaper": "the Tsakhur pages of the newspaper «Нур» (nur-05.ru): read as evidence of the literary spelling and for letter statistics only"
+ }
+}

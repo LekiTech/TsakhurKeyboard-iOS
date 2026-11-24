@@ -1,0 +1,726 @@
+rule,action,entry,result,ids_rows,note
+B1 word pair of a multiword IDS form,pair added,авудун ганз,авудун ганз,1,IDS 70-1-342-1
+B1 word pair of a multiword IDS form,pair added,адамийс гьаркӏыний,адамийс гьаркӏыний,1,IDS 70-2-330-2
+B1 word pair of a multiword IDS form,pair added,албишда къарий,албишда къарий,1,IDS 70-22-430-1
+B1 word pair of a multiword IDS form,pair added,аллгьас арагука,аллгьас арагука,1,IDS 70-10-320-2
+B1 word pair of a multiword IDS form,pair added,амыр гьевлес,амыр гьевлес,1,IDS 70-19-450-1
+B1 word pair of a multiword IDS form,pair added,аӏхъа нагьаъа,аӏхъа нагьаъа,1,IDS 70-16-250-1
+B1 word pair of a multiword IDS form,pair added,аӏхъа наъаъа,аӏхъа наъаъа,1,IDS 70-16-251-1
+B1 word pair of a multiword IDS form,pair added,балканыл аӏпягьас,балканыл аӏпягьас,1,IDS 70-10-660-1
+B1 word pair of a multiword IDS form,pair added,банана йив,банана йив,1,IDS 70-8-840-1
+B1 word pair of a multiword IDS form,pair added,богъаз быгытк,богъаз быгытк,1,IDS 70-4-290-1
+B1 word pair of a multiword IDS form,pair added,борджес алятӏуй,борджес алятӏуй,1,IDS 70-11-620-1
+B1 word pair of a multiword IDS form,pair added,борджес гьивой,борджес гьивой,1,IDS 70-11-610-1
+B1 word pair of a multiword IDS form,pair added,бухарайн гал,бухарайн гал,1,IDS 70-7-330-1
+B1 word pair of a multiword IDS form,pair added,быркьыӏна кӏуне,быркьыӏна кӏуне,1,IDS 70-4-371-1
+B1 word pair of a multiword IDS form,pair added,вара аъъес,вара аъъес,1,IDS 70-8-340-1
+B1 word pair of a multiword IDS form,pair added,ганабад парче,ганабад парче,1,IDS 70-6-230-1
+B1 word pair of a multiword IDS form,pair added,гарданахъа апятӏуй,гарданахъа апятӏуй,1,IDS 70-18-330-1
+B1 word pair of a multiword IDS form,pair added,гыранна кае,гыранна кае,1,IDS 70-6-720-1
+B1 word pair of a multiword IDS form,pair added,гьапяуй гъаляас,гьапяуй гъаляас,1,IDS 70-4-570-1
+B1 word pair of a multiword IDS form,pair added,даватбы гьауна,даватбы гьауна,1,IDS 70-2-380-1
+B1 word pair of a multiword IDS form,pair added,даватбы гьыуй,даватбы гьыуй,1,IDS 70-2-330-1
+B1 word pair of a multiword IDS form,pair added,давъийн якӏв,давъийн якӏв,1,IDS 70-20-222-1
+B1 word pair of a multiword IDS form,pair added,дайи огълый,дайи огълый,1,IDS 70-2-550-2
+B1 word pair of a multiword IDS form,pair added,дакина дак,дакина дак,1,IDS 70-2-560-1
+B1 word pair of a multiword IDS form,pair added,дамах хьад,дамах хьад,1,IDS 70-16-480-1
+B1 word pair of a multiword IDS form,pair added,двухна дек,двухна дек,1,IDS 70-2-710-1
+B1 word pair of a multiword IDS form,pair added,двухна едʼ,двухна едʼ,1,IDS 70-2-720-1
+B1 word pair of a multiword IDS form,pair added,двухна йиш,двухна йиш,1,IDS 70-2-740-1
+B1 word pair of a multiword IDS form,pair added,декий едʼ,декий едʼ,1,IDS 70-2-370-1
+B1 word pair of a multiword IDS form,pair added,джаваб гьепес,джаваб гьепес,1,IDS 70-18-320-1
+B1 word pair of a multiword IDS form,pair added,джадубы гьауй,джадубы гьауй,1,IDS 70-22-420-1
+B1 word pair of a multiword IDS form,pair added,джегьил инсан,джегьил инсан,1,IDS 70-2-251-1
+B1 word pair of a multiword IDS form,pair added,джуваб гьелес,джуваб гьелес,1,IDS 70-18-360-1
+B1 word pair of a multiword IDS form,pair added,диндаранг гиндаранг,диндаранг гиндаранг,1,IDS 70-3-818-1
+B1 word pair of a multiword IDS form,pair added,дустагъ гирхьуй,дустагъ гирхьуй,1,IDS 70-20-460-1
+B1 word pair of a multiword IDS form,pair added,дюзна деш,дюзна деш,1,IDS 70-16-740-1
+B1 word pair of a multiword IDS form,pair added,дюнейн парге,дюнейн парге,1,IDS 70-1-260-1
+B1 word pair of a multiword IDS form,pair added,дяцӏан кар,дяцӏан кар,1,IDS 70-17-350-1
+B1 word pair of a multiword IDS form,pair added,дяцӏана инсан,дяцӏана инсан,1,IDS 70-19-550-1
+B1 word pair of a multiword IDS form,pair added,едике ыхьай,едике ыхьай,1,IDS 70-4-720-1
+B1 word pair of a multiword IDS form,pair added,ешемишхьес сагъна,ешемишхьес сагъна,1,IDS 70-4-740-1
+B1 word pair of a multiword IDS form,pair added,зиян гьаъас,зиян гьаъас,1,IDS 70-11-280-1
+B1 word pair of a multiword IDS form,pair added,зома цец,зома цец,1,IDS 70-4-352-1
+B1 word pair of a multiword IDS form,pair added,иджаза гьелес,иджаза гьелес,1,IDS 70-19-470-1
+B1 word pair of a multiword IDS form,pair added,иман гьацӏад,иман гьацӏад,1,IDS 70-22-190-1
+B1 word pair of a multiword IDS form,pair added,инжилʼа йив,инжилʼа йив,1,IDS 70-8-850-1
+B1 word pair of a multiword IDS form,pair added,инкар гьаъас,инкар гьаъас,1,IDS 70-18-370-1
+B1 word pair of a multiword IDS form,pair added,ихтияр гьепес,ихтияр гьепес,1,IDS 70-22-230-1
+B1 word pair of a multiword IDS form,pair added,иш гьевлес,иш гьевлес,1,IDS 70-21-160-1
+B1 word pair of a multiword IDS form,pair added,йикьалхъа хъахьес,йикьалхъа хъахьес,1,IDS 70-20-450-1
+B1 word pair of a multiword IDS form,pair added,йубка тарт,йубка тарт,2,IDS 70-6-460-1 70-6-461-1
+B1 word pair of a multiword IDS form,pair added,кʼар идодхуни,кʼар идодхуни,1,IDS 70-5-141-2
+B1 word pair of a multiword IDS form,pair added,капейп хъиккес,капейп хъиккес,1,IDS 70-10-614-1
+B1 word pair of a multiword IDS form,pair added,кар охьаныс,кар охьаныс,1,IDS 70-5-410-1
+B1 word pair of a multiword IDS form,pair added,карбы иӏхъапа,карбы иӏхъапа,1,IDS 70-6-130-1
+B1 word pair of a multiword IDS form,pair added,карна качир,карна качир,1,IDS 70-3-586-1
+B1 word pair of a multiword IDS form,pair added,касти дакина,касти дакина,1,IDS 70-2-560-1
+B1 word pair of a multiword IDS form,pair added,котасын чина,котасын чина,1,IDS 70-6-930-1
+B1 word pair of a multiword IDS form,pair added,кухна дега,кухна дега,1,IDS 70-7-170-1
+B1 word pair of a multiword IDS form,pair added,къаста дидей,къаста дидей,1,IDS 70-2-460-2
+B1 word pair of a multiword IDS form,pair added,къоппагъ кулʼ,къоппагъ кулʼ,1,IDS 70-1-222-2
+B1 word pair of a multiword IDS form,pair added,къушена баӏдже,къушена баӏдже,1,IDS 70-4-231-1
+B1 word pair of a multiword IDS form,pair added,кьаӏсда едʼ,кьаӏсда едʼ,1,IDS 70-2-470-2
+B1 word pair of a multiword IDS form,pair added,кьынʼ гьаъас,кьынʼ гьаъас,1,IDS 70-21-240-1
+B1 word pair of a multiword IDS form,pair added,кӏалыб гьачӏиеъас,кӏалыб гьачӏиеъас,2,IDS 70-9-630-1 70-9-720-1
+B1 word pair of a multiword IDS form,pair added,кӏосса гьавъуй,кӏосса гьавъуй,1,IDS 70-4-530-1
+B1 word pair of a multiword IDS form,pair added,кӏыл хъаъас,кӏыл хъаъас,1,IDS 70-9-221-1
+B1 word pair of a multiword IDS form,pair added,кӏылʼна йичи,кӏылʼна йичи,1,IDS 70-2-455-1
+B1 word pair of a multiword IDS form,pair added,кӏылʼна чодж,кӏылʼна чодж,1,IDS 70-2-445-1
+B1 word pair of a multiword IDS form,pair added,кӏырейна митӏ,кӏырейна митӏ,1,IDS 70-4-221-1
+B1 word pair of a multiword IDS form,pair added,кӏырог гяххъый,кӏырог гяххъый,1,IDS 70-15-420-1
+B1 word pair of a multiword IDS form,pair added,маалиджу гьауй,маалиджу гьауй,1,IDS 70-4-860-1
+B1 word pair of a multiword IDS form,pair added,масса гьивой,масса гьивой,1,IDS 70-11-820-1
+B1 word pair of a multiword IDS form,pair added,машине аӏпягьас,машине аӏпягьас,1,IDS 70-10-650-1
+B1 word pair of a multiword IDS form,pair added,миз ывхыӏй,миз ывхыӏй,1,IDS 70-4-590-1
+B1 word pair of a multiword IDS form,pair added,мичӏейдин отхупи,мичӏейдин отхупи,1,IDS 70-5-420-1
+B1 word pair of a multiword IDS form,pair added,мыгабишил хъиккес,мыгабишил хъиккес,1,IDS 70-10-613-1
+B1 word pair of a multiword IDS form,pair added,мыгама тна,мыгама тна,1,IDS 70-4-302-1
+B1 word pair of a multiword IDS form,pair added,мыгылʼен телебы,мыгылʼен телебы,1,IDS 70-4-162-1
+B1 word pair of a multiword IDS form,pair added,мыкь эвхас,мыкь эвхас,1,IDS 70-10-431-1
+B1 word pair of a multiword IDS form,pair added,мыц гьаъас,мыц гьаъас,1,IDS 70-9-791-1
+B1 word pair of a multiword IDS form,pair added,мюкӏур гьаъас,мюкӏур гьаъас,1,IDS 70-19-460-1
+B1 word pair of a multiword IDS form,pair added,нафас алятас,нафас алятас,1,IDS 70-4-510-1
+B1 word pair of a multiword IDS form,pair added,някӏ къаджий,някӏ къаджий,1,IDS 70-4-620-1
+B1 word pair of a multiword IDS form,pair added,няъас ивгье,няъас ивгье,1,IDS 70-17-520-1
+B1 word pair of a multiword IDS form,pair added,оьца кьепхес,оьца кьепхес,1,IDS 70-4-630-1
+B1 word pair of a multiword IDS form,pair added,оӏлʼджуман йигъ,оӏлʼджуман йигъ,1,IDS 70-14-670-1
+B1 word pair of a multiword IDS form,pair added,пыпын штраф,пыпын штраф,1,IDS 70-21-380-1
+B1 word pair of a multiword IDS form,pair added,рухсат гьепес,рухсат гьепес,1,IDS 70-22-230-2
+B1 word pair of a multiword IDS form,pair added,сабара вахтыле,сабара вахтыле,1,IDS 70-14-331-1
+B1 word pair of a multiword IDS form,pair added,селишна инсан,селишна инсан,1,IDS 70-19-440-1
+B1 word pair of a multiword IDS form,pair added,сенып вахтыбы,сенып вахтыбы,1,IDS 70-14-780-1
+B1 word pair of a multiword IDS form,pair added,сив акъас,сив акъас,1,IDS 70-22-260-2
+B1 word pair of a multiword IDS form,pair added,соткурин хʼян,соткурин хʼян,1,IDS 70-1-341-1
+B1 word pair of a multiword IDS form,pair added,судын кьарар,судын кьарар,1,IDS 70-21-170-1
+B1 word pair of a multiword IDS form,pair added,сужда гьаъас,сужда гьаъас,1,IDS 70-22-160-1
+B1 word pair of a multiword IDS form,pair added,тавсун наа,тавсун наа,1,IDS 70-4-912-1
+B1 word pair of a multiword IDS form,pair added,тахсир гиххьый,тахсир гиххьый,1,IDS 70-21-320-1
+B1 word pair of a multiword IDS form,pair added,тахсир гьаас,тахсир гьаас,1,IDS 70-21-310-1
+B1 word pair of a multiword IDS form,pair added,тахсир гьиххес,тахсир гьиххес,1,IDS 70-16-780-2
+B1 word pair of a multiword IDS form,pair added,тахсиркар гьаас,тахсиркар гьаас,1,IDS 70-21-330-1
+B1 word pair of a multiword IDS form,pair added,тӏумылен тагъ,тӏумылен тагъ,1,IDS 70-8-670-1
+B1 word pair of a multiword IDS form,pair added,фыкыр гьагас,фыкыр гьагас,1,IDS 70-17-171-1
+B1 word pair of a multiword IDS form,pair added,хабар гьишонаъас,хабар гьишонаъас,1,IDS 70-18-221-1
+B1 word pair of a multiword IDS form,pair added,хаӏтен кӏырыбы,хаӏтен кӏырыбы,1,IDS 70-3-655-1
+B1 word pair of a multiword IDS form,pair added,хебна тӏуб,хебна тӏуб,1,IDS 70-4-342-1
+B1 word pair of a multiword IDS form,pair added,хебна шитӏ,хебна шитӏ,1,IDS 70-3-583-1
+B1 word pair of a multiword IDS form,pair added,херна йичи,херна йичи,1,IDS 70-2-454-1
+B1 word pair of a multiword IDS form,pair added,херна чодж,херна чодж,1,IDS 70-2-444-1
+B1 word pair of a multiword IDS form,pair added,хъефхес къечес,хъефхес къечес,1,IDS 70-5-240-2
+B1 word pair of a multiword IDS form,pair added,хъушена ялыгъ,хъушена ялыгъ,1,IDS 70-6-810-1
+B1 word pair of a multiword IDS form,pair added,хыпека хьиккес,хыпека хьиккес,1,IDS 70-10-612-1
+B1 word pair of a multiword IDS form,pair added,хыӏн гяуй,хыӏн гяуй,1,IDS 70-4-660-1
+B1 word pair of a multiword IDS form,pair added,хьебни йакъе,хьебни йакъе,1,IDS 70-13-440-2
+B1 word pair of a multiword IDS form,pair added,хьив авгьуй,хьив авгьуй,1,IDS 70-4-640-1
+B1 word pair of a multiword IDS form,pair added,хьинек авудун,хьинек авудун,1,IDS 70-1-342-1
+B1 word pair of a multiword IDS form,pair added,хьыткапе хъиккес,хьыткапе хъиккес,1,IDS 70-10-615-1
+B1 word pair of a multiword IDS form,pair added,хӏинака горхан,хӏинака горхан,1,IDS 70-5-150-1
+B1 word pair of a multiword IDS form,pair added,цирхь гяуй,цирхь гяуй,1,IDS 70-4-650-1
+B1 word pair of a multiword IDS form,pair added,цуху кехе,цуху кехе,1,IDS 70-4-215-1
+B1 word pair of a multiword IDS form,pair added,чапалин эва,чапалин эва,1,IDS 70-15-260-2
+B1 word pair of a multiword IDS form,pair added,чиебы икыри,чиебы икыри,1,IDS 70-1-450-1
+B1 word pair of a multiword IDS form,pair added,чирхӏоӏ чапап,чирхӏоӏ чапап,1,IDS 70-3-591-1
+B1 word pair of a multiword IDS form,pair added,шагьарди инсан,шагьарди инсан,1,IDS 70-19-370-1
+B1 word pair of a multiword IDS form,pair added,шак гъаъас,шак гъаъас,1,IDS 70-17-440-1
+B1 word pair of a multiword IDS form,pair added,шина айирхьуй,шина айирхьуй,1,IDS 70-4-550-1
+B1 word pair of a multiword IDS form,pair added,шокцал челʼнан,шокцал челʼнан,1,IDS 70-3-814-1
+B1 word pair of a multiword IDS form,pair added,ыбадат акъас,ыбадат акъас,1,IDS 70-22-260-1
+B1 word pair of a multiword IDS form,pair added,ыӏбадат гьаъас,ыӏбадат гьаъас,1,IDS 70-22-170-1
+B1 word pair of a multiword IDS form,pair added,эва гьаъас,эва гьаъас,2,IDS 70-15-212-1 70-15-220-1
+B1 word pair of a multiword IDS form,pair added,эва къа,эва къа,1,IDS 70-15-210-1
+B1 word pair of a multiword IDS form,pair added,эйхьи деш,эйхьи деш,1,IDS 70-17-450-1
+B1 word pair of a multiword IDS form,pair added,эми къызый,эми къызый,1,IDS 70-2-550-3
+B1 word pair of a multiword IDS form,pair added,эми огълый,эми огълый,1,IDS 70-2-550-1
+P1 piece left by a cut,row removed,аас,,1,IDS 70-12-270-1
+P1 piece left by a cut,row removed,абаи,,2,IDS 70-2-620-1 70-2-621-1
+P1 piece left by a cut,row removed,абаттеи,,2,IDS 70-2-610-1 70-2-611-1
+P1 piece left by a cut,row removed,аваи,,1,IDS 70-11-320-1
+P1 piece left by a cut,row removed,авашда,,1,IDS 70-14-220-2
+P1 piece left by a cut,row removed,авашна,,1,IDS 70-14-220-1
+P1 piece left by a cut,row removed,авгьуи,,1,IDS 70-4-640-1
+P1 piece left by a cut,row removed,агна,,1,IDS 70-1-322-2
+P1 piece left by a cut,row removed,агь,,1,IDS 70-1-320-1
+P1 piece left by a cut,row removed,адамеи,,1,IDS 70-3-120-1
+P1 piece left by a cut,row removed,адамии,,4,IDS 70-2-210-1 70-2-310-1 70-2-330-2 70-2-390-1
+P1 piece left by a cut,row removed,адеи,,1,IDS 70-2-470-1
+P1 piece left by a cut,row removed,аи,,6,IDS 70-3-420-1 70-4-550-1 70-4-690-1 70-9-160-1 70-9-480-1 70-10-480-1
+P1 piece left by a cut,row removed,акорь,,1,IDS 70-10-890-1
+P1 piece left by a cut,row removed,акъе,,1,IDS 70-13-440-2
+P1 piece left by a cut,row removed,аласкас,,1,IDS 70-5-190-2
+P1 piece left by a cut,row removed,алверчии,,1,IDS 70-11-840-1
+P1 piece left by a cut,row removed,алятӏуи,,1,IDS 70-11-620-1
+P1 piece left by a cut,row removed,ан,,3,IDS 70-3-440-1 70-4-130-1 70-8-691-1
+P1 piece left by a cut,row removed,апа,,1,IDS 70-6-550-1
+P1 piece left by a cut,row removed,апых,,1,IDS 70-8-750-1
+P1 piece left by a cut,row removed,апятӏуи,,1,IDS 70-18-330-1
+P1 piece left by a cut,row removed,ар,,1,IDS 70-5-141-2
+P1 piece left by a cut,row removed,аркӏынии,,1,IDS 70-4-750-3
+P1 piece left by a cut,row removed,ат,,1,IDS 70-7-150-1
+P1 piece left by a cut,row removed,атнана,,1,IDS 70-16-650-1
+P1 piece left by a cut,row removed,ахтыи,,2,IDS 70-12-580-1 70-15-450-1
+P1 piece left by a cut,row removed,аънас,,1,IDS 70-4-580-1
+P1 piece left by a cut,row removed,аьцаи,,1,IDS 70-4-580-1
+P1 piece left by a cut,row removed,аӏи,,3,IDS 70-9-740-1 70-10-351-1 70-16-450-1
+P1 piece left by a cut,row removed,аӏкьел,,1,IDS 70-17-110-2
+P1 piece left by a cut,row removed,аӏкӏел,,1,IDS 70-16-840-1
+P1 piece left by a cut,row removed,аӏкӏол,,1,IDS 70-17-110-1
+P1 piece left by a cut,row removed,аӏлреи,,1,IDS 70-13-350-1
+P1 piece left by a cut,row removed,аӏптӏахии,,1,IDS 70-4-853-1
+P1 piece left by a cut,row removed,ба,,1,IDS 70-6-360-1
+P1 piece left by a cut,row removed,баи,,2,IDS 70-3-596-1 70-4-520-1
+P1 piece left by a cut,row removed,бакӏиставии,,1,IDS 70-8-110-1
+P1 piece left by a cut,row removed,балугъчии,,1,IDS 70-20-510-1
+P1 piece left by a cut,row removed,батун,,1,IDS 70-5-391-1
+P1 piece left by a cut,row removed,бел,,1,IDS 70-5-360-1
+P1 piece left by a cut,row removed,бухараи,,1,IDS 70-7-330-1
+P1 piece left by a cut,row removed,бы,,1,IDS 70-22-310-1
+P1 piece left by a cut,row removed,быгадака,,1,IDS 70-1-550-1
+P1 piece left by a cut,row removed,валла,,4,IDS 70-16-320-1 70-16-340-1 70-16-350-1 70-16-440-1
+P1 piece left by a cut,row removed,ван,,2,IDS 70-3-110-1 70-3-150-1
+P1 piece left by a cut,row removed,веи,,2,IDS 70-6-360-1 70-10-780-1
+P1 piece left by a cut,row removed,витӏел,,1,IDS 70-9-192-1
+P1 piece left by a cut,row removed,вукъул,,1,IDS 70-19-240-1
+P1 piece left by a cut,row removed,выгӏыл,,1,IDS 70-2-230-1
+P1 piece left by a cut,row removed,га,,1,IDS 70-1-630-2
+P1 piece left by a cut,row removed,гикӏуии,,1,IDS 70-21-420-1
+P1 piece left by a cut,row removed,гирхьуи,,1,IDS 70-20-460-1
+P1 piece left by a cut,row removed,гиххьыи,,1,IDS 70-21-320-1
+P1 piece left by a cut,row removed,гоз,,1,IDS 70-7-210-1
+P1 piece left by a cut,row removed,гол,,1,IDS 70-1-330-1
+P1 piece left by a cut,row removed,гузаи,,1,IDS 70-12-470-1
+P1 piece left by a cut,row removed,гунаи,,1,IDS 70-12-480-1
+P1 piece left by a cut,row removed,гъарыбии,,1,IDS 70-16-320-1
+P1 piece left by a cut,row removed,гъири,,1,IDS 70-16-650-1
+P1 piece left by a cut,row removed,гъуш,,1,IDS 70-3-596-1
+P1 piece left by a cut,row removed,гъыр,,1,IDS 70-3-420-1
+P1 piece left by a cut,row removed,гыпеи,,1,IDS 70-5-510-2
+P1 piece left by a cut,row removed,гьавъуи,,1,IDS 70-4-530-1
+P1 piece left by a cut,row removed,гьаи,,1,IDS 70-7-150-1
+P1 piece left by a cut,row removed,гьапяуи,,1,IDS 70-4-570-1
+P1 piece left by a cut,row removed,гьаркьынии,,1,IDS 70-20-610-2
+P1 piece left by a cut,row removed,гьаркӏынии,,1,IDS 70-2-330-2
+P1 piece left by a cut,row removed,гьатӏкьурии,,1,IDS 70-9-261-1
+P1 piece left by a cut,row removed,гьауи,,3,IDS 70-4-520-2 70-4-860-1 70-22-420-1
+P1 piece left by a cut,row removed,гьачӏиеъа,,2,IDS 70-9-630-1 70-9-720-1
+P1 piece left by a cut,row removed,гьаӏи,,2,IDS 70-3-110-1 70-3-150-1
+P1 piece left by a cut,row removed,гьаӏраи,,1,IDS 70-18-130-1
+P1 piece left by a cut,row removed,гьивои,,2,IDS 70-11-610-1 70-11-820-1
+P1 piece left by a cut,row removed,гьидитхьырии,,1,IDS 70-5-124-1
+P1 piece left by a cut,row removed,гьидхьырии,,1,IDS 70-5-123-1
+P1 piece left by a cut,row removed,гьии,,2,IDS 70-12-40-1 70-12-41-1
+P1 piece left by a cut,row removed,гьикии,,1,IDS 70-12-320-1
+P1 piece left by a cut,row removed,гьорбыгьауи,,1,IDS 70-21-470-1
+P1 piece left by a cut,row removed,гьыуи,,1,IDS 70-2-330-1
+P1 piece left by a cut,row removed,гяуи,,2,IDS 70-4-650-1 70-4-660-1
+P1 piece left by a cut,row removed,гяххъыи,,1,IDS 70-15-420-1
+P1 piece left by a cut,row removed,гяцӏии,,1,IDS 70-13-210-1
+P1 piece left by a cut,row removed,гӏал,,2,IDS 70-4-240-1 70-4-520-1
+P1 piece left by a cut,row removed,да,,2,IDS 70-2-350-2 70-12-320-1
+P1 piece left by a cut,row removed,давъии,,2,IDS 70-20-130-1 70-20-222-1
+P1 piece left by a cut,row removed,даи,,3,IDS 70-2-510-2 70-2-511-1 70-2-550-2
+P1 piece left by a cut,row removed,далаттии,,1,IDS 70-14-640-1
+P1 piece left by a cut,row removed,даптанаи,,1,IDS 70-3-630-2
+P1 piece left by a cut,row removed,деи,,1,IDS 70-16-410-2
+P1 piece left by a cut,row removed,декии,,1,IDS 70-2-370-1
+P1 piece left by a cut,row removed,демирчии,,1,IDS 70-9-600-1
+P1 piece left by a cut,row removed,дери,,1,IDS 70-1-320-1
+P1 piece left by a cut,row removed,дешвалла,,1,IDS 70-16-190-1
+P1 piece left by a cut,row removed,джум,,1,IDS 70-14-610-1
+P1 piece left by a cut,row removed,джуман,,1,IDS 70-14-670-1
+P1 piece left by a cut,row removed,джуманахоӏш,,1,IDS 70-14-660-1
+P1 piece left by a cut,row removed,джуравхьаи,,1,IDS 70-2-341-1
+P1 piece left by a cut,row removed,дзаи,,1,IDS 70-5-780-1
+P1 piece left by a cut,row removed,дидеи,,2,IDS 70-2-460-1 70-2-460-2
+P1 piece left by a cut,row removed,дипенджии,,1,IDS 70-11-530-1
+P1 piece left by a cut,row removed,дустагъчии,,1,IDS 70-20-470-1
+P1 piece left by a cut,row removed,дын,,1,IDS 70-13-350-1
+P1 piece left by a cut,row removed,дюгул,,1,IDS 70-12-270-1
+P1 piece left by a cut,row removed,дюнеи,,1,IDS 70-1-260-1
+P1 piece left by a cut,row removed,дюни,,1,IDS 70-1-100-1
+P1 piece left by a cut,row removed,ед,,4,IDS 70-2-360-1 70-2-370-1 70-2-470-2 70-2-720-1
+P1 piece left by a cut,row removed,ен,,1,IDS 70-4-162-1
+P1 piece left by a cut,row removed,есси,,1,IDS 70-19-570-1
+P1 piece left by a cut,row removed,зетии,,1,IDS 70-5-790-1
+P1 piece left by a cut,row removed,зоррамишаи,,1,IDS 70-21-440-1
+P1 piece left by a cut,row removed,иб,,1,IDS 70-16-450-1
+P1 piece left by a cut,row removed,ив,,4,IDS 70-1-430-1 70-8-600-1 70-8-840-1 70-8-850-1
+P1 piece left by a cut,row removed,игъ,,1,IDS 70-14-670-1
+P1 piece left by a cut,row removed,игъвал,,2,IDS 70-16-180-1 70-16-190-1
+P1 piece left by a cut,row removed,игӏыд,,1,IDS 70-13-70-1
+P1 piece left by a cut,row removed,из,,1,IDS 70-1-760-1
+P1 piece left by a cut,row removed,ии,,4,IDS 70-2-510-2 70-2-511-1 70-10-450-1 70-21-440-1
+P1 piece left by a cut,row removed,иккас,,1,IDS 70-11-340-1
+P1 piece left by a cut,row removed,икьал,,1,IDS 70-12-11-1
+P1 piece left by a cut,row removed,икьалхъа,,1,IDS 70-20-450-1
+P1 piece left by a cut,row removed,икӏ,,1,IDS 70-4-440-1
+P1 piece left by a cut,row removed,ил,,2,IDS 70-1-280-1 70-5-130-1
+P1 piece left by a cut,row removed,ин,,1,IDS 70-14-680-1
+P1 piece left by a cut,row removed,инжил,,1,IDS 70-8-850-1
+P1 piece left by a cut,row removed,ирхьуи,,1,IDS 70-4-550-1
+P1 piece left by a cut,row removed,ис,,2,IDS 70-4-144-1 70-4-145-1
+P1 piece left by a cut,row removed,ит,,1,IDS 70-4-770-1
+P1 piece left by a cut,row removed,итнаи,,1,IDS 70-14-630-1
+P1 piece left by a cut,row removed,ихкас,,1,IDS 70-16-622-1
+P1 piece left by a cut,row removed,ихьас,,1,IDS 70-16-300-1
+P1 piece left by a cut,row removed,ихьыд,,1,IDS 70-13-60-1
+P1 piece left by a cut,row removed,ицӏа,,1,IDS 70-3-190-2
+P1 piece left by a cut,row removed,ицӏыд,,1,IDS 70-13-100-1
+P1 piece left by a cut,row removed,ицӏыкьваӏд,,1,IDS 70-13-102-1
+P1 piece left by a cut,row removed,ицӏысад,,1,IDS 70-13-101-1
+P1 piece left by a cut,row removed,ицӏыхьвад,,1,IDS 70-13-103-1
+P1 piece left by a cut,row removed,ичи,,4,IDS 70-2-450-1 70-2-454-1 70-2-455-1 70-2-456-2
+P1 piece left by a cut,row removed,ичии,,2,IDS 70-2-260-1 70-2-261-1
+P1 piece left by a cut,row removed,ичӏуд,,1,IDS 70-13-90-1
+P1 piece left by a cut,row removed,ишенаас,,1,IDS 70-18-210-1
+P1 piece left by a cut,row removed,ка,,1,IDS 70-3-582-1
+P1 piece left by a cut,row removed,кабаи,,1,IDS 70-3-920-1
+P1 piece left by a cut,row removed,кал,,2,IDS 70-5-391-1 70-8-691-1
+P1 piece left by a cut,row removed,канас,,1,IDS 70-16-270-1
+P1 piece left by a cut,row removed,капеи,,1,IDS 70-10-614-1
+P1 piece left by a cut,row removed,капратил,,1,IDS 70-11-860-2
+P1 piece left by a cut,row removed,карас,,1,IDS 70-10-450-1
+P1 piece left by a cut,row removed,кес,,1,IDS 70-11-320-1
+P1 piece left by a cut,row removed,кини,,1,IDS 70-16-620-1
+P1 piece left by a cut,row removed,кканас,,1,IDS 70-16-410-2
+P1 piece left by a cut,row removed,кол,,1,IDS 70-1-630-2
+P1 piece left by a cut,row removed,куи,,1,IDS 70-1-280-1
+P1 piece left by a cut,row removed,кул,,1,IDS 70-1-222-2
+P1 piece left by a cut,row removed,кумк,,1,IDS 70-5-260-2
+P1 piece left by a cut,row removed,къааи,,1,IDS 70-10-230-1
+P1 piece left by a cut,row removed,къаджии,,1,IDS 70-4-620-1
+P1 piece left by a cut,row removed,къаи,,3,IDS 70-11-340-1 70-15-410-1 70-16-622-1
+P1 piece left by a cut,row removed,къамдехьаи,,1,IDS 70-20-420-1
+P1 piece left by a cut,row removed,къамхьаи,,1,IDS 70-20-410-1
+P1 piece left by a cut,row removed,къанмишхьаи,,1,IDS 70-17-160-1
+P1 piece left by a cut,row removed,къаравул,,1,IDS 70-20-471-1
+P1 piece left by a cut,row removed,къаргъыдалии,,1,IDS 70-8-470-1
+P1 piece left by a cut,row removed,къарии,,2,IDS 70-2-471-1 70-22-430-1
+P1 piece left by a cut,row removed,къатии,,1,IDS 70-14-270-1
+P1 piece left by a cut,row removed,къеи,,1,IDS 70-4-780-2
+P1 piece left by a cut,row removed,къел,,1,IDS 70-4-350-1
+P1 piece left by a cut,row removed,къии,,2,IDS 70-14-470-1 70-14-480-1
+P1 piece left by a cut,row removed,къызыи,,1,IDS 70-2-550-3
+P1 piece left by a cut,row removed,кьадалии,,1,IDS 70-1-230-1
+P1 piece left by a cut,row removed,кьеи,,1,IDS 70-17-490-1
+P1 piece left by a cut,row removed,кьии,,1,IDS 70-11-870-1
+P1 piece left by a cut,row removed,кьын,,1,IDS 70-21-240-1
+P1 piece left by a cut,row removed,кӏа,,1,IDS 70-5-320-1
+P1 piece left by a cut,row removed,кӏам,,1,IDS 70-4-450-1
+P1 piece left by a cut,row removed,кӏлеи,,1,IDS 70-9-560-1
+P1 piece left by a cut,row removed,кӏыбыджии,,1,IDS 70-4-856-1
+P1 piece left by a cut,row removed,кӏын,,1,IDS 70-21-250-1
+P1 piece left by a cut,row removed,кӏып,,1,IDS 70-4-450-1
+P1 piece left by a cut,row removed,кӏыреи,,1,IDS 70-4-221-1
+P1 piece left by a cut,row removed,лынг,,1,IDS 70-8-250-1
+P1 piece left by a cut,row removed,ма,,2,IDS 70-5-360-1 70-8-810-1
+P1 piece left by a cut,row removed,мад,,1,IDS 70-3-440-1
+P1 piece left by a cut,row removed,маз,,1,IDS 70-6-940-1
+P1 piece left by a cut,row removed,маи,,2,IDS 70-3-760-1 70-4-770-1
+P1 piece left by a cut,row removed,мамаи,,2,IDS 70-2-520-2 70-2-522-1
+P1 piece left by a cut,row removed,мат,,1,IDS 70-11-870-1
+P1 piece left by a cut,row removed,меи,,1,IDS 70-5-710-1
+P1 piece left by a cut,row removed,мичӏеи,,2,IDS 70-5-420-1 70-14-440-1
+P1 piece left by a cut,row removed,мыгыл,,1,IDS 70-4-162-1
+P1 piece left by a cut,row removed,мыкӏеи,,1,IDS 70-7-240-1
+P1 piece left by a cut,row removed,мын,,1,IDS 70-3-760-1
+P1 piece left by a cut,row removed,на,,8,IDS 70-2-230-1 70-2-240-1 70-2-445-1 70-2-455-1 70-4-221-1 70-4-852-1 70-4-910-1 70-14-470-1
+P1 piece left by a cut,row removed,нан,,1,IDS 70-3-814-1
+P1 piece left by a cut,row removed,нана,,1,IDS 70-16-840-1
+P1 piece left by a cut,row removed,наххварии,,1,IDS 70-6-960-1
+P1 piece left by a cut,row removed,нацахӏаи,,1,IDS 70-3-823-1
+P1 piece left by a cut,row removed,не,,1,IDS 70-9-740-1
+P1 piece left by a cut,row removed,огъас,,1,IDS 70-5-130-1
+P1 piece left by a cut,row removed,огълыи,,2,IDS 70-2-550-1 70-2-550-2
+P1 piece left by a cut,row removed,огъуи,,1,IDS 70-1-750-1
+P1 piece left by a cut,row removed,одгии,,1,IDS 70-5-160-2
+P1 piece left by a cut,row removed,одхьунии,,1,IDS 70-5-120-1
+P1 piece left by a cut,row removed,ок,,1,IDS 70-8-530-1
+P1 piece left by a cut,row removed,окьаӏс,,1,IDS 70-5-480-1
+P1 piece left by a cut,row removed,окьуд,,1,IDS 70-13-40-1
+P1 piece left by a cut,row removed,оргъан,,1,IDS 70-7-422-1
+P1 piece left by a cut,row removed,орзул,,1,IDS 70-4-910-1
+P1 piece left by a cut,row removed,отӏалгьауи,,1,IDS 70-9-461-1
+P1 piece left by a cut,row removed,оххаӏ,,1,IDS 70-5-570-1
+P1 piece left by a cut,row removed,оххьанаъас,,1,IDS 70-1-851-1
+P1 piece left by a cut,row removed,оӏл,,2,IDS 70-14-660-1 70-14-670-1
+P1 piece left by a cut,row removed,пал,,1,IDS 70-8-810-1
+P1 piece left by a cut,row removed,папугаи,,1,IDS 70-3-592-1
+P1 piece left by a cut,row removed,пахылити,,1,IDS 70-16-440-1
+P1 piece left by a cut,row removed,пашмании,,1,IDS 70-16-340-1
+P1 piece left by a cut,row removed,пел,,1,IDS 70-18-211-1
+P1 piece left by a cut,row removed,пинычии,,1,IDS 70-6-540-1
+P1 piece left by a cut,row removed,пырпыраи,,1,IDS 70-9-790-2
+P1 piece left by a cut,row removed,раи,,1,IDS 70-1-322-2
+P1 piece left by a cut,row removed,ракда,,1,IDS 70-14-330-2
+P1 piece left by a cut,row removed,рес,,1,IDS 70-10-480-1
+P1 piece left by a cut,row removed,ршин,,1,IDS 70-3-120-1
+P1 piece left by a cut,row removed,санана,,1,IDS 70-2-390-1
+P1 piece left by a cut,row removed,сачӏыдхыӏрии,,1,IDS 70-15-890-1
+P1 piece left by a cut,row removed,саӏвуххии,,1,IDS 70-19-620-1
+P1 piece left by a cut,row removed,сеи,,1,IDS 70-14-330-2
+P1 piece left by a cut,row removed,сикӏыл,,2,IDS 70-8-450-1 70-8-460-1
+P1 piece left by a cut,row removed,сипӏрии,,2,IDS 70-2-760-1 70-2-770-1
+P1 piece left by a cut,row removed,сифти,,1,IDS 70-14-680-1
+P1 piece left by a cut,row removed,сихнарии,,1,IDS 70-21-520-1
+P1 piece left by a cut,row removed,таи,,1,IDS 70-19-230-1
+P1 piece left by a cut,row removed,такьии,,1,IDS 70-20-330-1
+P1 piece left by a cut,row removed,тахсиргьауи,,1,IDS 70-16-780-1
+P1 piece left by a cut,row removed,тахыл,,1,IDS 70-8-420-1
+P1 piece left by a cut,row removed,тек,,1,IDS 70-18-211-1
+P1 piece left by a cut,row removed,тун,,1,IDS 70-5-780-1
+P1 piece left by a cut,row removed,тӏалас,,1,IDS 70-9-160-1
+P1 piece left by a cut,row removed,тӏанкӏии,,1,IDS 70-9-760-1
+P1 piece left by a cut,row removed,тӏарии,,1,IDS 70-5-320-1
+P1 piece left by a cut,row removed,тӏумул,,1,IDS 70-5-760-1
+P1 piece left by a cut,row removed,убка,,2,IDS 70-6-460-1 70-6-461-1
+P1 piece left by a cut,row removed,ува,,1,IDS 70-9-670-1
+P1 piece left by a cut,row removed,уккаа,,1,IDS 70-4-860-2
+P1 piece left by a cut,row removed,ул,,1,IDS 70-4-210-1
+P1 piece left by a cut,row removed,ум,,1,IDS 70-5-260-2
+P1 piece left by a cut,row removed,уӏл,,1,IDS 70-14-610-1
+P1 piece left by a cut,row removed,фа,,1,IDS 70-19-230-1
+P1 piece left by a cut,row removed,ха,,1,IDS 70-9-480-1
+P1 piece left by a cut,row removed,хаи,,1,IDS 70-1-550-1
+P1 piece left by a cut,row removed,халаи,,2,IDS 70-2-520-1 70-2-521-1
+P1 piece left by a cut,row removed,хаӏи,,1,IDS 70-22-310-1
+P1 piece left by a cut,row removed,хаӏрас,,2,IDS 70-4-690-1 70-10-351-1
+P1 piece left by a cut,row removed,хес,,1,IDS 70-4-780-2
+P1 piece left by a cut,row removed,хуӏвааи,,1,IDS 70-16-300-1
+P1 piece left by a cut,row removed,хъа,,1,IDS 70-14-480-1
+P1 piece left by a cut,row removed,хъаӏркьынии,,1,IDS 70-16-530-1
+P1 piece left by a cut,row removed,хъии,,1,IDS 70-8-320-1
+P1 piece left by a cut,row removed,хъирхьып,,1,IDS 70-4-852-1
+P1 piece left by a cut,row removed,хъодкауи,,1,IDS 70-19-310-1
+P1 piece left by a cut,row removed,хъодхьурии,,1,IDS 70-5-121-1
+P1 piece left by a cut,row removed,хыдыл,,4,IDS 70-2-480-2 70-2-490-2 70-2-530-1 70-2-540-1
+P1 piece left by a cut,row removed,хыл,,1,IDS 70-4-310-1
+P1 piece left by a cut,row removed,хылии,,1,IDS 70-12-570-1
+P1 piece left by a cut,row removed,хыллии,,1,IDS 70-14-332-1
+P1 piece left by a cut,row removed,хьан,,1,IDS 70-14-270-1
+P1 piece left by a cut,row removed,хьас,,1,IDS 70-10-230-1
+P1 piece left by a cut,row removed,хьахьапеи,,1,IDS 70-6-580-1
+P1 piece left by a cut,row removed,хьи,,1,IDS 70-17-450-1
+P1 piece left by a cut,row removed,хьывыл,,1,IDS 70-2-240-1
+P1 piece left by a cut,row removed,хьыналии,,1,IDS 70-5-890-1
+P1 piece left by a cut,row removed,хьыт,,1,IDS 70-4-521-1
+P1 piece left by a cut,row removed,хьыткап,,1,IDS 70-4-312-1
+P1 piece left by a cut,row removed,ца,,1,IDS 70-10-780-1
+P1 piece left by a cut,row removed,цывыл,,1,IDS 70-14-770-1
+P1 piece left by a cut,row removed,цырцыраи,,1,IDS 70-7-450-1
+P1 piece left by a cut,row removed,цӏеддии,,1,IDS 70-13-340-1
+P1 piece left by a cut,row removed,цӏепел,,1,IDS 70-8-620-1
+P1 piece left by a cut,row removed,чаи,,1,IDS 70-3-582-1
+P1 piece left by a cut,row removed,чеи,,1,IDS 70-5-270-1
+P1 piece left by a cut,row removed,чел,,1,IDS 70-3-814-1
+P1 piece left by a cut,row removed,чепчии,,1,IDS 70-3-380-1
+P1 piece left by a cut,row removed,чии,,1,IDS 70-1-640-1
+P1 piece left by a cut,row removed,чил,,1,IDS 70-8-630-1
+P1 piece left by a cut,row removed,чуи,,1,IDS 70-7-530-2
+P1 piece left by a cut,row removed,шалас,,1,IDS 70-8-320-1
+P1 piece left by a cut,row removed,шли,,1,IDS 70-6-550-1
+P1 piece left by a cut,row removed,шумпамишаъуи,,1,IDS 70-8-150-1
+P1 piece left by a cut,row removed,ыва,,1,IDS 70-9-670-2
+P1 piece left by a cut,row removed,ывхыӏи,,1,IDS 70-4-590-1
+P1 piece left by a cut,row removed,ыгъ,,1,IDS 70-14-410-1
+P1 piece left by a cut,row removed,ыкии,,1,IDS 70-16-270-1
+P1 piece left by a cut,row removed,ыккеи,,1,IDS 70-10-640-1
+P1 piece left by a cut,row removed,ыкъыӏгьлин,,1,IDS 70-14-450-1
+P1 piece left by a cut,row removed,ыкыи,,1,IDS 70-16-620-1
+P1 piece left by a cut,row removed,ыкь,,1,IDS 70-5-640-1
+P1 piece left by a cut,row removed,ыкьыӏгьпии,,1,IDS 70-5-440-1
+P1 piece left by a cut,row removed,ыкьыӏн,,1,IDS 70-15-810-1
+P1 piece left by a cut,row removed,ын,,1,IDS 70-8-410-1
+P1 piece left by a cut,row removed,ыхьаи,,1,IDS 70-4-720-1
+P1 piece left by a cut,row removed,ыхьиле,,1,IDS 70-13-60-2
+P1 piece left by a cut,row removed,ыӏгъ,,1,IDS 70-10-740-1
+P1 piece left by a cut,row removed,ыӏкь,,1,IDS 70-4-190-1
+P1 piece left by a cut,row removed,ыӏхъ,,1,IDS 70-1-840-1
+P1 piece left by a cut,row removed,эи,,1,IDS 70-17-450-1
+P1 piece left by a cut,row removed,эк,,1,IDS 70-8-410-1
+P1 piece left by a cut,row removed,эмии,,2,IDS 70-2-510-1 70-2-512-1
+P1 piece left by a cut,row removed,эхьапии,,1,IDS 70-5-450-1
+P1 piece left by a cut,row removed,язухии,,1,IDS 70-16-350-1
+P1 piece left by a cut,row removed,ян,,1,IDS 70-1-341-1
+"R1 word of the IDS list that v0 cut, read whole",row added,абай,абай,2,cut at «й» stored as «и» + U+0306; IDS 70-2-620-1 70-2-621-1
+"R1 word of the IDS list that v0 cut, read whole",row added,абаттей,абаттей,2,cut at «й» stored as «и» + U+0306; IDS 70-2-610-1 70-2-611-1
+"R1 word of the IDS list that v0 cut, read whole",row added,авайкес,авайкес,1,cut at «й» stored as «и» + U+0306; IDS 70-11-320-1
+"R1 word of the IDS list that v0 cut, read whole",row added,авгьуй,авгьуй,1,cut at «й» stored as «и» + U+0306; IDS 70-4-640-1
+"R1 word of the IDS list that v0 cut, read whole",row added,адамейршин,адамейршин,1,cut at «й» stored as «и» + U+0306; IDS 70-3-120-1
+"R1 word of the IDS list that v0 cut, read whole",row added,адамий,адамий,2,cut at «й» stored as «и» + U+0306; IDS 70-2-210-1 70-2-310-1
+"R1 word of the IDS list that v0 cut, read whole",row added,адамийс,адамийс,1,cut at «й» stored as «и» + U+0306; IDS 70-2-330-2
+"R1 word of the IDS list that v0 cut, read whole",row added,адамийсанана,адамийсанана,1,cut at «й» stored as «и» + U+0306; IDS 70-2-390-1
+"R1 word of the IDS list that v0 cut, read whole",row added,адей,адей,1,cut at «й» stored as «и» + U+0306; IDS 70-2-470-1
+"R1 word of the IDS list that v0 cut, read whole",row added,айгъыр,айгъыр,1,cut at «й» stored as «и» + U+0306; IDS 70-3-420-1
+"R1 word of the IDS list that v0 cut, read whole",row added,айирхьуй,айирхьуй,1,cut at «й» stored as «и» + U+0306; IDS 70-4-550-1
+"R1 word of the IDS list that v0 cut, read whole",row added,айрес,айрес,1,cut at «й» stored as «и» + U+0306; IDS 70-10-480-1
+"R1 word of the IDS list that v0 cut, read whole",row added,айтӏалас,айтӏалас,1,cut at «й» stored as «и» + U+0306; IDS 70-9-160-1
+"R1 word of the IDS list that v0 cut, read whole",row added,айха,айха,1,cut at «й» stored as «и» + U+0306; IDS 70-9-480-1
+"R1 word of the IDS list that v0 cut, read whole",row added,айхаӏрас,айхаӏрас,1,cut at «й» stored as «и» + U+0306; IDS 70-4-690-1
+"R1 word of the IDS list that v0 cut, read whole",row added,алверчий,алверчий,1,cut at «й» stored as «и» + U+0306; IDS 70-11-840-1
+"R1 word of the IDS list that v0 cut, read whole",row added,алятӏуй,алятӏуй,1,cut at «й» stored as «и» + U+0306; IDS 70-11-620-1
+"R1 word of the IDS list that v0 cut, read whole",row added,апятӏуй,апятӏуй,1,cut at «й» stored as «и» + U+0306; IDS 70-18-330-1
+"R1 word of the IDS list that v0 cut, read whole",row added,аркӏыний,аркӏыний,1,cut at «й» stored as «и» + U+0306; IDS 70-4-750-3
+"R1 word of the IDS list that v0 cut, read whole",row added,ахтыйн,ахтыйн,2,cut at «й» stored as «и» + U+0306; IDS 70-12-580-1 70-15-450-1
+"R1 word of the IDS list that v0 cut, read whole",row added,аьцайаънас,аьцайаънас,1,cut at «й» stored as «и» + U+0306; IDS 70-4-580-1
+"R1 word of the IDS list that v0 cut, read whole",row added,аӏйиб,аӏйиб,1,cut at «й» stored as «и» + U+0306; IDS 70-16-450-1
+"R1 word of the IDS list that v0 cut, read whole",row added,аӏйне,аӏйне,1,cut at «й» stored as «и» + U+0306; IDS 70-9-740-1
+"R1 word of the IDS list that v0 cut, read whole",row added,аӏкьелʼ,аӏкьелʼ,1,cut at the palatalization mark ʼ; IDS 70-17-110-2
+"R1 word of the IDS list that v0 cut, read whole",row added,аӏкӏелʼнана,аӏкӏелʼнана,1,cut at the palatalization mark ʼ; IDS 70-16-840-1
+"R1 word of the IDS list that v0 cut, read whole",row added,аӏкӏолʼ,аӏкӏолʼ,1,cut at the palatalization mark ʼ; IDS 70-17-110-1
+"R1 word of the IDS list that v0 cut, read whole",row added,аӏлрейдын,аӏлрейдын,1,cut at «й» stored as «и» + U+0306; IDS 70-13-350-1
+"R1 word of the IDS list that v0 cut, read whole",row added,аӏптӏахий,аӏптӏахий,1,cut at «й» stored as «и» + U+0306; IDS 70-4-853-1
+"R1 word of the IDS list that v0 cut, read whole",row added,байгъуш,байгъуш,1,cut at «й» stored as «и» + U+0306; IDS 70-3-596-1
+"R1 word of the IDS list that v0 cut, read whole",row added,бакӏиставий,бакӏиставий,1,cut at «й» stored as «и» + U+0306; IDS 70-8-110-1
+"R1 word of the IDS list that v0 cut, read whole",row added,балугъчий,балугъчий,1,cut at «й» stored as «и» + U+0306; IDS 70-20-510-1
+"R1 word of the IDS list that v0 cut, read whole",row added,белʼма,белʼма,1,cut at the palatalization mark ʼ; IDS 70-5-360-1
+"R1 word of the IDS list that v0 cut, read whole",row added,бухарайн,бухарайн,1,cut at «й» stored as «и» + U+0306; IDS 70-7-330-1
+"R1 word of the IDS list that v0 cut, read whole",row added,вейба,вейба,1,cut at «й» stored as «и» + U+0306; IDS 70-6-360-1
+"R1 word of the IDS list that v0 cut, read whole",row added,вейца,вейца,1,cut at «й» stored as «и» + U+0306; IDS 70-10-780-1
+"R1 word of the IDS list that v0 cut, read whole",row added,витӏелʼ,витӏелʼ,1,cut at the palatalization mark ʼ; IDS 70-9-192-1
+"R1 word of the IDS list that v0 cut, read whole",row added,вукъулʼ,вукъулʼ,1,cut at the palatalization mark ʼ; IDS 70-19-240-1
+"R1 word of the IDS list that v0 cut, read whole",row added,выгӏылʼна,выгӏылʼна,1,cut at the palatalization mark ʼ; IDS 70-2-230-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гʼогъуй,гʼогъуй,1,cut at «й» stored as «и» + U+0306 and at the palatalization mark ʼ; IDS 70-1-750-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гʼокьаӏс,гʼокьаӏс,1,cut at the palatalization mark ʼ; IDS 70-5-480-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гʼоххьанаъас,гʼоххьанаъас,1,cut at the palatalization mark ʼ; IDS 70-1-851-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гикӏуий,гикӏуий,1,cut at «й» stored as «и» + U+0306; IDS 70-21-420-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гирхьуй,гирхьуй,1,cut at «й» stored as «и» + U+0306; IDS 70-20-460-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гиххьый,гиххьый,1,cut at «й» stored as «и» + U+0306; IDS 70-21-320-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гозʼ,гозʼ,1,cut at the palatalization mark ʼ; IDS 70-7-210-1
+"R1 word of the IDS list that v0 cut, read whole",row added,голʼ,голʼ,1,cut at the palatalization mark ʼ; IDS 70-1-330-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гузай,гузай,1,cut at «й» stored as «и» + U+0306; IDS 70-12-470-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гунай,гунай,1,cut at «й» stored as «и» + U+0306; IDS 70-12-480-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гъарыбийвалла,гъарыбийвалла,1,cut at «й» stored as «и» + U+0306; IDS 70-16-320-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гъирйатнана,гъирйатнана,1,cut at «й» stored as «и» + U+0306; IDS 70-16-650-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гыпей,гыпей,1,cut at «й» stored as «и» + U+0306; IDS 70-5-510-2
+"R1 word of the IDS list that v0 cut, read whole",row added,гьавъуй,гьавъуй,1,cut at «й» stored as «и» + U+0306; IDS 70-4-530-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гьайат,гьайат,1,cut at «й» stored as «и» + U+0306; IDS 70-7-150-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гьапяуй,гьапяуй,1,cut at «й» stored as «и» + U+0306; IDS 70-4-570-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гьаркьыний,гьаркьыний,1,cut at «й» stored as «и» + U+0306; IDS 70-20-610-2
+"R1 word of the IDS list that v0 cut, read whole",row added,гьаркӏыний,гьаркӏыний,1,cut at «й» stored as «и» + U+0306; IDS 70-2-330-2
+"R1 word of the IDS list that v0 cut, read whole",row added,гьатӏкьурийн,гьатӏкьурийн,1,cut at «й» stored as «и» + U+0306; IDS 70-9-261-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гьауй,гьауй,3,cut at «й» stored as «и» + U+0306; IDS 70-4-520-2 70-4-860-1 70-22-420-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гьачӏиеъас,гьачӏиеъас,2,cut at a Latin «c» typed for «с»; IDS 70-9-630-1 70-9-720-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гьаӏйван,гьаӏйван,2,cut at «й» stored as «и» + U+0306; IDS 70-3-110-1 70-3-150-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гьаӏрай,гьаӏрай,1,cut at «й» stored as «и» + U+0306; IDS 70-18-130-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гьивой,гьивой,2,cut at «й» stored as «и» + U+0306; IDS 70-11-610-1 70-11-820-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гьидитхьырий,гьидитхьырий,1,cut at «й» stored as «и» + U+0306; IDS 70-5-124-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гьидхьырийн,гьидхьырийн,1,cut at «й» stored as «и» + U+0306; IDS 70-5-123-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гьийд,гьийд,2,cut at «й» stored as «и» + U+0306; IDS 70-12-40-1 70-12-41-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гьикийда,гьикийда,1,cut at «й» stored as «и» + U+0306; IDS 70-12-320-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гьорбыгьауй,гьорбыгьауй,1,cut at «й» stored as «и» + U+0306; IDS 70-21-470-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гьыуй,гьыуй,1,cut at «й» stored as «и» + U+0306; IDS 70-2-330-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гяуй,гяуй,2,cut at «й» stored as «и» + U+0306; IDS 70-4-650-1 70-4-660-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гяххъый,гяххъый,1,cut at «й» stored as «и» + U+0306; IDS 70-15-420-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гяцӏийн,гяцӏийн,1,cut at «й» stored as «и» + U+0306; IDS 70-13-210-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гӏалʼ,гӏалʼ,1,cut at the palatalization mark ʼ; IDS 70-4-240-1
+"R1 word of the IDS list that v0 cut, read whole",row added,гӏалʼбай,гӏалʼбай,1,cut at «й» stored as «и» + U+0306 and at the palatalization mark ʼ; IDS 70-4-520-1
+"R1 word of the IDS list that v0 cut, read whole",row added,давъий,давъий,1,cut at «й» stored as «и» + U+0306; IDS 70-20-130-1
+"R1 word of the IDS list that v0 cut, read whole",row added,давъийн,давъийн,1,cut at «й» stored as «и» + U+0306; IDS 70-20-222-1
+"R1 word of the IDS list that v0 cut, read whole",row added,дайи,дайи,1,cut at «й» stored as «и» + U+0306; IDS 70-2-550-2
+"R1 word of the IDS list that v0 cut, read whole",row added,дайий,дайий,2,cut at «й» stored as «и» + U+0306; IDS 70-2-510-2 70-2-511-1
+"R1 word of the IDS list that v0 cut, read whole",row added,далаттийн,далаттийн,1,cut at «й» stored as «и» + U+0306; IDS 70-14-640-1
+"R1 word of the IDS list that v0 cut, read whole",row added,даптанай,даптанай,1,cut at «й» stored as «и» + U+0306; IDS 70-3-630-2
+"R1 word of the IDS list that v0 cut, read whole",row added,дейкканас,дейкканас,1,cut at «й» stored as «и» + U+0306; IDS 70-16-410-2
+"R1 word of the IDS list that v0 cut, read whole",row added,декий,декий,1,cut at «й» stored as «и» + U+0306 and at the palatalization mark ʼ; IDS 70-2-370-1
+"R1 word of the IDS list that v0 cut, read whole",row added,демирчий,демирчий,1,cut at «й» stored as «и» + U+0306; IDS 70-9-600-1
+"R1 word of the IDS list that v0 cut, read whole",row added,дерйагь,дерйагь,1,cut at «й» stored as «и» + U+0306; IDS 70-1-320-1
+"R1 word of the IDS list that v0 cut, read whole",row added,джуравхьай,джуравхьай,1,cut at «й» stored as «и» + U+0306; IDS 70-2-341-1
+"R1 word of the IDS list that v0 cut, read whole",row added,дзайтун,дзайтун,1,cut at «й» stored as «и» + U+0306; IDS 70-5-780-1
+"R1 word of the IDS list that v0 cut, read whole",row added,дидей,дидей,2,cut at «й» stored as «и» + U+0306; IDS 70-2-460-1 70-2-460-2
+"R1 word of the IDS list that v0 cut, read whole",row added,дипенджий,дипенджий,1,cut at «й» stored as «и» + U+0306; IDS 70-11-530-1
+"R1 word of the IDS list that v0 cut, read whole",row added,дустагъчий,дустагъчий,1,cut at «й» stored as «и» + U+0306; IDS 70-20-470-1
+"R1 word of the IDS list that v0 cut, read whole",row added,дюгулʼаас,дюгулʼаас,1,cut at the palatalization mark ʼ; IDS 70-12-270-1
+"R1 word of the IDS list that v0 cut, read whole",row added,дюнейн,дюнейн,1,cut at «й» stored as «и» + U+0306; IDS 70-1-260-1
+"R1 word of the IDS list that v0 cut, read whole",row added,дюнйе,дюнйе,1,cut at «й» stored as «и» + U+0306; IDS 70-1-100-1
+"R1 word of the IDS list that v0 cut, read whole",row added,едʼ,едʼ,4,cut at «й» stored as «и» + U+0306 and at the palatalization mark ʼ; IDS 70-2-360-1 70-2-370-1 70-2-470-2 70-2-720-1
+"R1 word of the IDS list that v0 cut, read whole",row added,зетий,зетий,1,cut at «й» stored as «и» + U+0306; IDS 70-5-790-1
+"R1 word of the IDS list that v0 cut, read whole",row added,зоррамишайий,зоррамишайий,1,cut at «й» stored as «и» + U+0306; IDS 70-21-440-1
+"R1 word of the IDS list that v0 cut, read whole",row added,игъвалʼ,игъвалʼ,1,cut at the palatalization mark ʼ; IDS 70-16-180-1
+"R1 word of the IDS list that v0 cut, read whole",row added,игъвалʼдешвалла,игъвалʼдешвалла,1,cut at the palatalization mark ʼ; IDS 70-16-190-1
+"R1 word of the IDS list that v0 cut, read whole",row added,ийкарас,ийкарас,1,cut at «й» stored as «и» + U+0306; IDS 70-10-450-1
+"R1 word of the IDS list that v0 cut, read whole",row added,илʼогъас,илʼогъас,1,cut at the palatalization mark ʼ; IDS 70-5-130-1
+"R1 word of the IDS list that v0 cut, read whole",row added,инжилʼа,инжилʼа,1,cut at «й» stored as «и» + U+0306 and at the palatalization mark ʼ; IDS 70-8-850-1
+"R1 word of the IDS list that v0 cut, read whole",row added,итнайн,итнайн,1,cut at «й» stored as «и» + U+0306; IDS 70-14-630-1
+"R1 word of the IDS list that v0 cut, read whole",row added,ичий,ичий,2,cut at «й» stored as «и» + U+0306; IDS 70-2-260-1 70-2-261-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йавашда,йавашда,1,cut at «й» stored as «и» + U+0306; IDS 70-14-220-2
+"R1 word of the IDS list that v0 cut, read whole",row added,йавашна,йавашна,1,cut at «й» stored as «и» + U+0306; IDS 70-14-220-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йакорь,йакорь,1,cut at «й» stored as «и» + U+0306; IDS 70-10-890-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йакъе,йакъе,1,cut at «й» stored as «и» + U+0306; IDS 70-13-440-2
+"R1 word of the IDS list that v0 cut, read whole",row added,йаласкас,йаласкас,1,cut at «й» stored as «и» + U+0306; IDS 70-5-190-2
+"R1 word of the IDS list that v0 cut, read whole",row added,йаӏйхаӏрас,йаӏйхаӏрас,1,cut at «й» stored as «и» + U+0306; IDS 70-10-351-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йаӏхъ,йаӏхъ,1,cut at «й» stored as «и» + U+0306; IDS 70-10-710-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йесси,йесси,1,cut at «й» stored as «и» + U+0306; IDS 70-19-570-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йив,йив,4,cut at «й» stored as «и» + U+0306 and at the palatalization mark ʼ; IDS 70-1-430-1 70-8-600-1 70-8-840-1 70-8-850-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йигъ,йигъ,1,cut at «й» stored as «и» + U+0306 and at the palatalization mark ʼ; IDS 70-14-670-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йигӏыд,йигӏыд,1,cut at «й» stored as «и» + U+0306; IDS 70-13-70-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йиз,йиз,1,cut at «й» stored as «и» + U+0306; IDS 70-1-760-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йикьал,йикьал,1,cut at «й» stored as «и» + U+0306; IDS 70-12-11-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йикьалхъа,йикьалхъа,1,cut at «й» stored as «и» + U+0306; IDS 70-20-450-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йикӏ,йикӏ,1,cut at «й» stored as «и» + U+0306; IDS 70-4-440-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йис,йис,2,cut at «й» stored as «и» + U+0306; IDS 70-4-144-1 70-4-145-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йихьыд,йихьыд,1,cut at «й» stored as «и» + U+0306; IDS 70-13-60-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йицӏа,йицӏа,1,cut at «й» stored as «и» + U+0306; IDS 70-3-190-2
+"R1 word of the IDS list that v0 cut, read whole",row added,йицӏыд,йицӏыд,1,cut at «й» stored as «и» + U+0306; IDS 70-13-100-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йицӏыкьваӏд,йицӏыкьваӏд,1,cut at «й» stored as «и» + U+0306; IDS 70-13-102-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йицӏысад,йицӏысад,1,cut at «й» stored as «и» + U+0306; IDS 70-13-101-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йицӏыхьвад,йицӏыхьвад,1,cut at «й» stored as «и» + U+0306; IDS 70-13-103-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йичи,йичи,4,cut at «й» stored as «и» + U+0306 and at the palatalization mark ʼ; IDS 70-2-450-1 70-2-454-1 70-2-455-1 70-2-456-2
+"R1 word of the IDS list that v0 cut, read whole",row added,йичӏуд,йичӏуд,1,cut at «й» stored as «и» + U+0306; IDS 70-13-90-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йиш,йиш,2,cut at «й» stored as «и» + U+0306; IDS 70-2-420-1 70-2-740-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йишенаас,йишенаас,1,cut at «й» stored as «и» + U+0306; IDS 70-18-210-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йокьуд,йокьуд,1,cut at «й» stored as «и» + U+0306; IDS 70-13-40-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йоргъан,йоргъан,1,cut at «й» stored as «и» + U+0306; IDS 70-7-422-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йоххаӏ,йоххаӏ,1,cut at «й» stored as «и» + U+0306; IDS 70-5-570-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йубка,йубка,2,cut at «й» stored as «и» + U+0306; IDS 70-6-460-1 70-6-461-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йува,йува,1,cut at «й» stored as «и» + U+0306; IDS 70-9-670-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йуккаа,йуккаа,1,cut at «й» stored as «и» + U+0306; IDS 70-4-860-2
+"R1 word of the IDS list that v0 cut, read whole",row added,йыва,йыва,1,cut at «й» stored as «и» + U+0306; IDS 70-9-670-2
+"R1 word of the IDS list that v0 cut, read whole",row added,йыгъ,йыгъ,1,cut at «й» stored as «и» + U+0306; IDS 70-14-410-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йыкъыӏгьлин,йыкъыӏгьлин,1,cut at «й» stored as «и» + U+0306; IDS 70-14-450-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йыкь,йыкь,1,cut at «й» stored as «и» + U+0306; IDS 70-5-640-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йыкьыӏгьпийн,йыкьыӏгьпийн,1,cut at «й» stored as «и» + U+0306; IDS 70-5-440-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йыкьыӏн,йыкьыӏн,1,cut at «й» stored as «и» + U+0306; IDS 70-15-810-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йыхьиле,йыхьиле,1,cut at «й» stored as «и» + U+0306; IDS 70-13-60-2
+"R1 word of the IDS list that v0 cut, read whole",row added,йыӏгъ,йыӏгъ,1,cut at «й» stored as «и» + U+0306; IDS 70-10-740-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йыӏкь,йыӏкь,1,cut at «й» stored as «и» + U+0306; IDS 70-4-190-1
+"R1 word of the IDS list that v0 cut, read whole",row added,йыӏхъ,йыӏхъ,1,cut at «й» stored as «и» + U+0306; IDS 70-1-840-1
+"R1 word of the IDS list that v0 cut, read whole",row added,кʼапых,кʼапых,1,cut at the palatalization mark ʼ; IDS 70-8-750-1
+"R1 word of the IDS list that v0 cut, read whole",row added,кʼар,кʼар,1,cut at the palatalization mark ʼ; IDS 70-5-141-2
+"R1 word of the IDS list that v0 cut, read whole",row added,кʼлынг,кʼлынг,1,cut at the palatalization mark ʼ; IDS 70-8-250-1
+"R1 word of the IDS list that v0 cut, read whole",row added,кабай,кабай,1,cut at «й» stored as «и» + U+0306; IDS 70-3-920-1
+"R1 word of the IDS list that v0 cut, read whole",row added,калʼбатун,калʼбатун,1,cut at the palatalization mark ʼ; IDS 70-5-391-1
+"R1 word of the IDS list that v0 cut, read whole",row added,калʼйан,калʼйан,1,cut at «й» stored as «и» + U+0306 and at the palatalization mark ʼ; IDS 70-8-691-1
+"R1 word of the IDS list that v0 cut, read whole",row added,капейп,капейп,1,cut at «й» stored as «и» + U+0306; IDS 70-10-614-1
+"R1 word of the IDS list that v0 cut, read whole",row added,капратилʼ,капратилʼ,1,cut at the palatalization mark ʼ; IDS 70-11-860-2
+"R1 word of the IDS list that v0 cut, read whole",row added,кокʼ,кокʼ,1,cut at the palatalization mark ʼ; IDS 70-2-570-2
+"R1 word of the IDS list that v0 cut, read whole",row added,колʼга,колʼга,1,cut at the palatalization mark ʼ; IDS 70-1-630-2
+"R1 word of the IDS list that v0 cut, read whole",row added,куйилʼ,куйилʼ,1,cut at «й» stored as «и» + U+0306 and at the palatalization mark ʼ; IDS 70-1-280-1
+"R1 word of the IDS list that v0 cut, read whole",row added,кулʼ,кулʼ,1,cut at the palatalization mark ʼ; IDS 70-1-222-2
+"R1 word of the IDS list that v0 cut, read whole",row added,кумкʼум,кумкʼум,1,cut at the palatalization mark ʼ; IDS 70-5-260-2
+"R1 word of the IDS list that v0 cut, read whole",row added,куракʼ,куракʼ,2,cut at the palatalization mark ʼ; IDS 70-8-230-1 70-8-240-1
+"R1 word of the IDS list that v0 cut, read whole",row added,къаайхьас,къаайхьас,1,cut at «й» stored as «и» + U+0306; IDS 70-10-230-1
+"R1 word of the IDS list that v0 cut, read whole",row added,къаджий,къаджий,1,cut at «й» stored as «и» + U+0306; IDS 70-4-620-1
+"R1 word of the IDS list that v0 cut, read whole",row added,къайиккас,къайиккас,1,cut at «й» stored as «и» + U+0306; IDS 70-11-340-1
+"R1 word of the IDS list that v0 cut, read whole",row added,къайихкас,къайихкас,1,cut at «й» stored as «и» + U+0306; IDS 70-16-622-1
+"R1 word of the IDS list that v0 cut, read whole",row added,къайихьес,къайихьес,1,cut at «й» stored as «и» + U+0306; IDS 70-15-410-1
+"R1 word of the IDS list that v0 cut, read whole",row added,къамдехьай,къамдехьай,1,cut at «й» stored as «и» + U+0306; IDS 70-20-420-1
+"R1 word of the IDS list that v0 cut, read whole",row added,къамхьай,къамхьай,1,cut at «й» stored as «и» + U+0306; IDS 70-20-410-1
+"R1 word of the IDS list that v0 cut, read whole",row added,къанмишхьай,къанмишхьай,1,cut at «й» stored as «и» + U+0306; IDS 70-17-160-1
+"R1 word of the IDS list that v0 cut, read whole",row added,къаравулʼ,къаравулʼ,1,cut at the palatalization mark ʼ; IDS 70-20-471-1
+"R1 word of the IDS list that v0 cut, read whole",row added,къаргъыдалий,къаргъыдалий,1,cut at «й» stored as «и» + U+0306; IDS 70-8-470-1
+"R1 word of the IDS list that v0 cut, read whole",row added,къарий,къарий,2,cut at «й» stored as «и» + U+0306; IDS 70-2-471-1 70-22-430-1
+"R1 word of the IDS list that v0 cut, read whole",row added,къатийхьан,къатийхьан,1,cut at «й» stored as «и» + U+0306; IDS 70-14-270-1
+"R1 word of the IDS list that v0 cut, read whole",row added,къейхес,къейхес,1,cut at «й» stored as «и» + U+0306; IDS 70-4-780-2
+"R1 word of the IDS list that v0 cut, read whole",row added,къелʼ,къелʼ,1,cut at the palatalization mark ʼ; IDS 70-4-350-1
+"R1 word of the IDS list that v0 cut, read whole",row added,къийна,къийна,1,cut at «й» stored as «и» + U+0306; IDS 70-14-470-1
+"R1 word of the IDS list that v0 cut, read whole",row added,къийхъа,къийхъа,1,cut at «й» stored as «и» + U+0306; IDS 70-14-480-1
+"R1 word of the IDS list that v0 cut, read whole",row added,къулʼ,къулʼ,1,cut at the palatalization mark ʼ; IDS 70-7-250-1
+"R1 word of the IDS list that v0 cut, read whole",row added,къызый,къызый,1,cut at «й» stored as «и» + U+0306; IDS 70-2-550-3
+"R1 word of the IDS list that v0 cut, read whole",row added,кьадалий,кьадалий,1,cut at «й» stored as «и» + U+0306; IDS 70-1-230-1
+"R1 word of the IDS list that v0 cut, read whole",row added,кьейд,кьейд,1,cut at «й» stored as «и» + U+0306; IDS 70-17-490-1
+"R1 word of the IDS list that v0 cut, read whole",row added,кьиймат,кьиймат,1,cut at «й» stored as «и» + U+0306; IDS 70-11-870-1
+"R1 word of the IDS list that v0 cut, read whole",row added,кьынʼ,кьынʼ,1,cut at the palatalization mark ʼ; IDS 70-21-240-1
+"R1 word of the IDS list that v0 cut, read whole",row added,кӏлей,кӏлей,1,cut at «й» stored as «и» + U+0306; IDS 70-9-560-1
+"R1 word of the IDS list that v0 cut, read whole",row added,кӏыбыджий,кӏыбыджий,1,cut at «й» stored as «и» + U+0306; IDS 70-4-856-1
+"R1 word of the IDS list that v0 cut, read whole",row added,кӏылʼна,кӏылʼна,2,cut at «й» stored as «и» + U+0306 and at the palatalization mark ʼ; IDS 70-2-445-1 70-2-455-1
+"R1 word of the IDS list that v0 cut, read whole",row added,кӏынʼ,кӏынʼ,1,cut at the palatalization mark ʼ; IDS 70-21-250-1
+"R1 word of the IDS list that v0 cut, read whole",row added,кӏыпʼкӏам,кӏыпʼкӏам,1,cut at the palatalization mark ʼ; IDS 70-4-450-1
+"R1 word of the IDS list that v0 cut, read whole",row added,кӏырейна,кӏырейна,1,cut at «й» stored as «и» + U+0306; IDS 70-4-221-1
+"R1 word of the IDS list that v0 cut, read whole",row added,мадʼйан,мадʼйан,1,cut at «й» stored as «и» + U+0306 and at the palatalization mark ʼ; IDS 70-3-440-1
+"R1 word of the IDS list that v0 cut, read whole",row added,мазʼ,мазʼ,1,cut at the palatalization mark ʼ; IDS 70-6-940-1
+"R1 word of the IDS list that v0 cut, read whole",row added,майит,майит,1,cut at «й» stored as «и» + U+0306; IDS 70-4-770-1
+"R1 word of the IDS list that v0 cut, read whole",row added,маймын,маймын,1,cut at «й» stored as «и» + U+0306; IDS 70-3-760-1
+"R1 word of the IDS list that v0 cut, read whole",row added,мамай,мамай,2,cut at «й» stored as «и» + U+0306; IDS 70-2-520-2 70-2-522-1
+"R1 word of the IDS list that v0 cut, read whole",row added,мейва,мейва,1,cut at «й» stored as «и» + U+0306; IDS 70-5-710-1
+"R1 word of the IDS list that v0 cut, read whole",row added,мичӏейд,мичӏейд,1,cut at «й» stored as «и» + U+0306; IDS 70-14-440-1
+"R1 word of the IDS list that v0 cut, read whole",row added,мичӏейдин,мичӏейдин,1,cut at «й» stored as «и» + U+0306; IDS 70-5-420-1
+"R1 word of the IDS list that v0 cut, read whole",row added,мыгылʼен,мыгылʼен,1,cut at the palatalization mark ʼ; IDS 70-4-162-1
+"R1 word of the IDS list that v0 cut, read whole",row added,мыкӏей,мыкӏей,1,cut at «й» stored as «и» + U+0306; IDS 70-7-240-1
+"R1 word of the IDS list that v0 cut, read whole",row added,наххварий,наххварий,1,cut at «й» stored as «и» + U+0306; IDS 70-6-960-1
+"R1 word of the IDS list that v0 cut, read whole",row added,нацахӏай,нацахӏай,1,cut at «й» stored as «и» + U+0306; IDS 70-3-823-1
+"R1 word of the IDS list that v0 cut, read whole",row added,огълый,огълый,2,cut at «й» stored as «и» + U+0306; IDS 70-2-550-1 70-2-550-2
+"R1 word of the IDS list that v0 cut, read whole",row added,одгий,одгий,1,cut at «й» stored as «и» + U+0306; IDS 70-5-160-2
+"R1 word of the IDS list that v0 cut, read whole",row added,одхьуний,одхьуний,1,cut at «й» stored as «и» + U+0306; IDS 70-5-120-1
+"R1 word of the IDS list that v0 cut, read whole",row added,окʼ,окʼ,1,cut at the palatalization mark ʼ; IDS 70-8-530-1
+"R1 word of the IDS list that v0 cut, read whole",row added,орзулʼна,орзулʼна,1,cut at the palatalization mark ʼ; IDS 70-4-910-1
+"R1 word of the IDS list that v0 cut, read whole",row added,отӏалгьауй,отӏалгьауй,1,cut at «й» stored as «и» + U+0306; IDS 70-9-461-1
+"R1 word of the IDS list that v0 cut, read whole",row added,оӏлʼджуман,оӏлʼджуман,1,cut at «й» stored as «и» + U+0306 and at the palatalization mark ʼ; IDS 70-14-670-1
+"R1 word of the IDS list that v0 cut, read whole",row added,оӏлʼджуманахоӏш,оӏлʼджуманахоӏш,1,cut at the palatalization mark ʼ; IDS 70-14-660-1
+"R1 word of the IDS list that v0 cut, read whole",row added,палʼма,палʼма,1,cut at the palatalization mark ʼ; IDS 70-8-810-1
+"R1 word of the IDS list that v0 cut, read whole",row added,папугай,папугай,1,cut at «й» stored as «и» + U+0306; IDS 70-3-592-1
+"R1 word of the IDS list that v0 cut, read whole",row added,пахылитйвалла,пахылитйвалла,1,cut at «й» stored as «и» + U+0306; IDS 70-16-440-1
+"R1 word of the IDS list that v0 cut, read whole",row added,пашманийвалла,пашманийвалла,1,cut at «й» stored as «и» + U+0306; IDS 70-16-340-1
+"R1 word of the IDS list that v0 cut, read whole",row added,пелʼтек,пелʼтек,1,cut at the palatalization mark ʼ; IDS 70-18-211-1
+"R1 word of the IDS list that v0 cut, read whole",row added,пинычий,пинычий,1,cut at «й» stored as «и» + U+0306; IDS 70-6-540-1
+"R1 word of the IDS list that v0 cut, read whole",row added,пырпырай,пырпырай,1,cut at «й» stored as «и» + U+0306; IDS 70-9-790-2
+"R1 word of the IDS list that v0 cut, read whole",row added,райагна,райагна,1,cut at «й» stored as «и» + U+0306; IDS 70-1-322-2
+"R1 word of the IDS list that v0 cut, read whole",row added,сʼо,сʼо,1,cut at the palatalization mark ʼ; IDS 70-3-730-1
+"R1 word of the IDS list that v0 cut, read whole",row added,сачӏыдхыӏрий,сачӏыдхыӏрий,1,cut at «й» stored as «и» + U+0306; IDS 70-15-890-1
+"R1 word of the IDS list that v0 cut, read whole",row added,саӏвуххий,саӏвуххий,1,cut at «й» stored as «и» + U+0306; IDS 70-19-620-1
+"R1 word of the IDS list that v0 cut, read whole",row added,сейракда,сейракда,1,cut at «й» stored as «и» + U+0306; IDS 70-14-330-2
+"R1 word of the IDS list that v0 cut, read whole",row added,сикӏылʼ,сикӏылʼ,2,cut at the palatalization mark ʼ; IDS 70-8-450-1 70-8-460-1
+"R1 word of the IDS list that v0 cut, read whole",row added,сипӏрий,сипӏрий,2,cut at «й» stored as «и» + U+0306; IDS 70-2-760-1 70-2-770-1
+"R1 word of the IDS list that v0 cut, read whole",row added,сифтйин,сифтйин,1,cut at «й» stored as «и» + U+0306; IDS 70-14-680-1
+"R1 word of the IDS list that v0 cut, read whole",row added,сихнарий,сихнарий,1,cut at «й» stored as «и» + U+0306; IDS 70-21-520-1
+"R1 word of the IDS list that v0 cut, read whole",row added,тайфа,тайфа,1,cut at «й» stored as «и» + U+0306; IDS 70-19-230-1
+"R1 word of the IDS list that v0 cut, read whole",row added,такьий,такьий,1,cut at «й» stored as «и» + U+0306; IDS 70-20-330-1
+"R1 word of the IDS list that v0 cut, read whole",row added,тахсиргьауй,тахсиргьауй,1,cut at «й» stored as «и» + U+0306; IDS 70-16-780-1
+"R1 word of the IDS list that v0 cut, read whole",row added,тахылʼ,тахылʼ,1,cut at the palatalization mark ʼ; IDS 70-8-420-1
+"R1 word of the IDS list that v0 cut, read whole",row added,тӏанкӏий,тӏанкӏий,1,cut at «й» stored as «и» + U+0306; IDS 70-9-760-1
+"R1 word of the IDS list that v0 cut, read whole",row added,тӏарийкӏа,тӏарийкӏа,1,cut at «й» stored as «и» + U+0306; IDS 70-5-320-1
+"R1 word of the IDS list that v0 cut, read whole",row added,тӏумулʼ,тӏумулʼ,1,cut at the palatalization mark ʼ; IDS 70-5-760-1
+"R1 word of the IDS list that v0 cut, read whole",row added,улʼ,улʼ,1,cut at the palatalization mark ʼ; IDS 70-4-210-1
+"R1 word of the IDS list that v0 cut, read whole",row added,уӏлʼджум,уӏлʼджум,1,cut at the palatalization mark ʼ; IDS 70-14-610-1
+"R1 word of the IDS list that v0 cut, read whole",row added,хʼян,хʼян,1,cut at the palatalization mark ʼ; IDS 70-1-341-1
+"R1 word of the IDS list that v0 cut, read whole",row added,хайбыгадака,хайбыгадака,1,cut at «й» stored as «и» + U+0306; IDS 70-1-550-1
+"R1 word of the IDS list that v0 cut, read whole",row added,халай,халай,2,cut at «й» stored as «и» + U+0306; IDS 70-2-520-1 70-2-521-1
+"R1 word of the IDS list that v0 cut, read whole",row added,хаӏйбы,хаӏйбы,1,cut at «й» stored as «и» + U+0306; IDS 70-22-310-1
+"R1 word of the IDS list that v0 cut, read whole",row added,хуӏваайихьас,хуӏваайихьас,1,cut at «й» stored as «и» + U+0306; IDS 70-16-300-1
+"R1 word of the IDS list that v0 cut, read whole",row added,хъаӏркьыний,хъаӏркьыний,1,cut at «й» stored as «и» + U+0306; IDS 70-16-530-1
+"R1 word of the IDS list that v0 cut, read whole",row added,хъийшалас,хъийшалас,1,cut at «й» stored as «и» + U+0306; IDS 70-8-320-1
+"R1 word of the IDS list that v0 cut, read whole",row added,хъирхьыпʼна,хъирхьыпʼна,1,cut at the palatalization mark ʼ; IDS 70-4-852-1
+"R1 word of the IDS list that v0 cut, read whole",row added,хъодкауй,хъодкауй,1,cut at «й» stored as «и» + U+0306; IDS 70-19-310-1
+"R1 word of the IDS list that v0 cut, read whole",row added,хъодхьурийн,хъодхьурийн,1,cut at «й» stored as «и» + U+0306; IDS 70-5-121-1
+"R1 word of the IDS list that v0 cut, read whole",row added,хыдылʼ,хыдылʼ,4,cut at the palatalization mark ʼ; IDS 70-2-480-2 70-2-490-2 70-2-530-1 70-2-540-1
+"R1 word of the IDS list that v0 cut, read whole",row added,хылʼ,хылʼ,1,cut at the palatalization mark ʼ; IDS 70-4-310-1
+"R1 word of the IDS list that v0 cut, read whole",row added,хылийн,хылийн,1,cut at «й» stored as «и» + U+0306; IDS 70-12-570-1
+"R1 word of the IDS list that v0 cut, read whole",row added,хыллийн,хыллийн,1,cut at «й» stored as «и» + U+0306; IDS 70-14-332-1
+"R1 word of the IDS list that v0 cut, read whole",row added,хьахьапей,хьахьапей,1,cut at «й» stored as «и» + U+0306; IDS 70-6-580-1
+"R1 word of the IDS list that v0 cut, read whole",row added,хьывылʼна,хьывылʼна,1,cut at the palatalization mark ʼ; IDS 70-2-240-1
+"R1 word of the IDS list that v0 cut, read whole",row added,хьыналий,хьыналий,1,cut at «й» stored as «и» + U+0306; IDS 70-5-890-1
+"R1 word of the IDS list that v0 cut, read whole",row added,хьытʼкӏ,хьытʼкӏ,1,cut at the palatalization mark ʼ; IDS 70-4-521-1
+"R1 word of the IDS list that v0 cut, read whole",row added,хьыткапʼ,хьыткапʼ,1,cut at the palatalization mark ʼ; IDS 70-4-312-1
+"R1 word of the IDS list that v0 cut, read whole",row added,цывылʼ,цывылʼ,1,cut at the palatalization mark ʼ; IDS 70-14-770-1
+"R1 word of the IDS list that v0 cut, read whole",row added,цырцырай,цырцырай,1,cut at «й» stored as «и» + U+0306; IDS 70-7-450-1
+"R1 word of the IDS list that v0 cut, read whole",row added,цӏеддийн,цӏеддийн,1,cut at «й» stored as «и» + U+0306; IDS 70-13-340-1
+"R1 word of the IDS list that v0 cut, read whole",row added,цӏепелʼ,цӏепелʼ,1,cut at the palatalization mark ʼ; IDS 70-8-620-1
+"R1 word of the IDS list that v0 cut, read whole",row added,чʼан,чʼан,1,cut at the palatalization mark ʼ; IDS 70-4-130-1
+"R1 word of the IDS list that v0 cut, read whole",row added,чайка,чайка,1,cut at «й» stored as «и» + U+0306; IDS 70-3-582-1
+"R1 word of the IDS list that v0 cut, read whole",row added,чейдан,чейдан,1,cut at «й» stored as «и» + U+0306; IDS 70-5-270-1
+"R1 word of the IDS list that v0 cut, read whole",row added,челʼнан,челʼнан,1,cut at the palatalization mark ʼ; IDS 70-3-814-1
+"R1 word of the IDS list that v0 cut, read whole",row added,чепчий,чепчий,1,cut at «й» stored as «и» + U+0306; IDS 70-3-380-1
+"R1 word of the IDS list that v0 cut, read whole",row added,чий,чий,1,cut at «й» stored as «и» + U+0306; IDS 70-1-640-1
+"R1 word of the IDS list that v0 cut, read whole",row added,чилʼ,чилʼ,1,cut at the palatalization mark ʼ; IDS 70-8-630-1
+"R1 word of the IDS list that v0 cut, read whole",row added,чуй,чуй,1,cut at «й» stored as «и» + U+0306; IDS 70-7-530-2
+"R1 word of the IDS list that v0 cut, read whole",row added,шлйапа,шлйапа,1,cut at «й» stored as «и» + U+0306; IDS 70-6-550-1
+"R1 word of the IDS list that v0 cut, read whole",row added,шумпамишаъуй,шумпамишаъуй,1,cut at «й» stored as «и» + U+0306; IDS 70-8-150-1
+"R1 word of the IDS list that v0 cut, read whole",row added,ывхыӏй,ывхыӏй,1,cut at «й» stored as «и» + U+0306; IDS 70-4-590-1
+"R1 word of the IDS list that v0 cut, read whole",row added,ыкийканас,ыкийканас,1,cut at «й» stored as «и» + U+0306; IDS 70-16-270-1
+"R1 word of the IDS list that v0 cut, read whole",row added,ыккейс,ыккейс,1,cut at «й» stored as «и» + U+0306; IDS 70-10-640-1
+"R1 word of the IDS list that v0 cut, read whole",row added,ыкыйкини,ыкыйкини,1,cut at «й» stored as «и» + U+0306; IDS 70-16-620-1
+"R1 word of the IDS list that v0 cut, read whole",row added,ыхьай,ыхьай,1,cut at «й» stored as «и» + U+0306; IDS 70-4-720-1
+"R1 word of the IDS list that v0 cut, read whole",row added,эйхьи,эйхьи,1,cut at «й» stored as «и» + U+0306; IDS 70-17-450-1
+"R1 word of the IDS list that v0 cut, read whole",row added,экʼын,экʼын,1,cut at the palatalization mark ʼ; IDS 70-8-410-1
+"R1 word of the IDS list that v0 cut, read whole",row added,эмий,эмий,2,cut at «й» stored as «и» + U+0306; IDS 70-2-510-1 70-2-512-1
+"R1 word of the IDS list that v0 cut, read whole",row added,эхьапийн,эхьапийн,1,cut at «й» stored as «и» + U+0306; IDS 70-5-450-1
+"R1 word of the IDS list that v0 cut, read whole",row added,язухийвалла,язухийвалла,1,cut at «й» stored as «и» + U+0306; IDS 70-16-350-1
+"X1 form with a macron, set aside",form set aside,да̄к,,1,"a long vowel written with a macron; IDS 70-2-350-2, transcription dāk"
+"X1 form with a macron, set aside",form set aside,сӣмишаас,,1,"a long vowel written with a macron; IDS 70-9-340-1, transcription sīmišaʔas"
+"X1 form with a macron, set aside",form set aside,сӣмишхьес,,1,"a long vowel written with a macron; IDS 70-9-340-2, transcription sīmišx̌es"
+"X1 form with a macron, set aside",form set aside,урӣе,,1,"a long vowel written with a macron; IDS 70-3-450-1, transcription urīye"
+"X1 form with a macron, set aside",row removed,мишаас,,1,IDS 70-9-340-1
+"X1 form with a macron, set aside",row removed,мишхьес,,1,IDS 70-9-340-2
+"X1 form with a macron, set aside",row removed,си,,2,IDS 70-9-340-1 70-9-340-2
+"X1 form with a macron, set aside",row removed,ури,,1,IDS 70-3-450-1

@@ -1,0 +1,1441 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,Transcriptions,AlternativeValues
+70-1-100-1,,70,1-100,дюнйе,дюнйе,,,,,,,,CyrillTrans;Phonemic,dyunye
+70-1-210-1,,70,1-210,"чІие, оІлка",чІие,,,,,,,,CyrillTrans;Phonemic,čʼiye
+70-1-210-2,,70,1-210,"чІие, оІлка",оІлка,,,,,,,,CyrillTrans;Phonemic,oˤlka
+70-1-212-1,,70,1-212,накьв,накьв,,,,,,,,CyrillTrans;Phonemic,naqʼʷ
+70-1-213-1,,70,1-213,тоз,тоз,,,,,,,,CyrillTrans;Phonemic,toz
+70-1-214-1,,70,1-214,баттагъ,баттагъ,,,,,,,,CyrillTrans;Phonemic,bat̄aɣ
+70-1-215-1,,70,1-215,къум,къум,,,,,,,,CyrillTrans;Phonemic,q̄um
+70-1-220-1,,70,1-220,"сува, тап",сува,,,,,,,,CyrillTrans;Phonemic,suwa
+70-1-220-2,,70,1-220,"сува, тап",тап,,,,,,,,CyrillTrans;Phonemic,tap
+70-1-222-1,,70,1-222,"ганз, къоппагъ кулʼ",ганз,,,,,,,,CyrillTrans;Phonemic,ganz
+70-1-222-2,,70,1-222,"ганз, къоппагъ кулʼ",къоппагъ кулʼ,,,,,,,,CyrillTrans;Phonemic,q̄oppaɣ kulʲ
+70-1-230-1,,70,1-230,"кьадалий, чол, чуга",кьадалий,,,,,,,,CyrillTrans;Phonemic,qʼadaliy
+70-1-230-2,,70,1-230,"кьадалий, чол, чуга",чол,,,,,,,,CyrillTrans;Phonemic,čol
+70-1-230-3,,70,1-230,"кьадалий, чол, чуга",чуга,,,,,,,,CyrillTrans;Phonemic,čuga
+70-1-240-1,,70,1-240,магьал,магьал,,,,,,,,CyrillTrans;Phonemic,mahal
+70-1-250-1,,70,1-250,ада,ада,,,,,,,,CyrillTrans;Phonemic,ada
+70-1-260-1,,70,1-260,дюнейн парге,дюнейн парге,,,,,,,,CyrillTrans;Phonemic,dyuneyn parge
+70-1-270-1,,70,1-270,къырах,къырах,,,,,,,,CyrillTrans;Phonemic,q̄ɨrax
+70-1-280-1,,70,1-280,"куйилʼ, ахна",куйилʼ,,,,,,,,CyrillTrans;Phonemic,kuyilʲ
+70-1-280-2,,70,1-280,"куйилʼ, ахна",ахна,,,,,,,,CyrillTrans;Phonemic,axna
+70-1-310-1,,70,1-310,хьян,хьян,,,,,,,,CyrillTrans;Phonemic,x̌yan
+70-1-320-1,,70,1-320,дерйагь,дерйагь,,,,,,,,CyrillTrans;Phonemic,deryah
+70-1-322-1,,70,1-322,"сакитна, райагна",сакитна,,,,,,,,CyrillTrans;Phonemic,sakitna
+70-1-322-2,,70,1-322,"сакитна, райагна",райагна,,,,,,,,CyrillTrans;Phonemic,rayagna
+70-1-323-1,,70,1-323,аливкуна,аливкуна,,,,,,,,CyrillTrans;Phonemic,aliwkuna
+70-1-324-1,,70,1-324,купук,купук,,,,,,,,CyrillTrans;Phonemic,kupuk
+70-1-329-1,,70,1-329,океан,океан,,,,,,,,CyrillTrans;Phonemic,okean
+70-1-330-1,,70,1-330,"голʼ, ада",голʼ,,,,,,,,CyrillTrans;Phonemic,golʲ
+70-1-330-2,,70,1-330,"голʼ, ада",ада,,,,,,,,CyrillTrans;Phonemic,ada
+70-1-340-1,,70,1-340,сан,сан,,,,,,,,CyrillTrans;Phonemic,san
+70-1-341-1,,70,1-341,соткурин хʼян,соткурин хʼян,,,,,,,,CyrillTrans;Phonemic,sotkurin xʲyan
+70-1-342-1,,70,1-342,хьинек авудун ганз,хьинек авудун ганз,,,,,,,,CyrillTrans;Phonemic,x̌inek awudun ganz
+70-1-350-1,,70,1-350,мырт,мырт,,,,,,,,CyrillTrans;Phonemic,mɨrt
+70-1-360-1,,70,1-360,"дама, араг",дама,,,,,,,,CyrillTrans;Phonemic,dama
+70-1-360-2,,70,1-360,"дама, араг",араг,,,,,,,,CyrillTrans;Phonemic,arag
+70-1-362-1,,70,1-362,гурупдав,гурупдав,,,,,,,,CyrillTrans;Phonemic,gurupdaw
+70-1-370-1,,70,1-370,"булах, апшан, кегьриз, гарма",булах,,,,,,,,CyrillTrans;Phonemic,bulax
+70-1-370-2,,70,1-370,"булах, апшан, кегьриз, гарма",апшан,,,,,,,,CyrillTrans;Phonemic,apšan
+70-1-370-3,,70,1-370,"булах, апшан, кегьриз, гарма",кегьриз,,,,,,,,CyrillTrans;Phonemic,kehriz
+70-1-370-4,,70,1-370,"булах, апшан, кегьриз, гарма",гарма,,,,,,,,CyrillTrans;Phonemic,garma
+70-1-380-1,,70,1-380,"чимам, алшан",чимам,,,,,,,,CyrillTrans;Phonemic,čimam
+70-1-380-2,,70,1-380,"чимам, алшан",алшан,,,,,,,,CyrillTrans;Phonemic,alšan
+70-1-390-1,,70,1-390,гурудав,гурудав,,,,,,,,CyrillTrans;Phonemic,gurudaw
+70-1-410-1,,70,1-410,чІалаг,чІалаг,,,,,,,,CyrillTrans;Phonemic,čʼalag
+70-1-420-1,,70,1-420,юв,юв,,,,,,,,CyrillTrans;Phonemic,yuw
+70-1-430-1,,70,1-430,"йив, алат, ос",йив,,,,,,,,CyrillTrans;Phonemic,yiw
+70-1-430-2,,70,1-430,"йив, алат, ос",алат,,,,,,,,CyrillTrans;Phonemic,alat
+70-1-430-3,,70,1-430,"йив, алат, ос",ос,,,,,,,,CyrillTrans;Phonemic,os
+70-1-440-1,,70,1-440,"къае, ганз",къае,,,,,,,,CyrillTrans;Phonemic,q̄aye
+70-1-440-2,,70,1-440,"къае, ганз",ганз,,,,,,,,CyrillTrans;Phonemic,ganz
+70-1-450-1,,70,1-450,чиебы икыри,чиебы икыри,,,,,,,,CyrillTrans;Phonemic,čiyebɨ ikɨri
+70-1-510-1,,70,1-510,хаІв,хаІв,,,,,,,,CyrillTrans;Phonemic,xaˤw
+70-1-520-1,,70,1-520,верыгъ,верыгъ,,,,,,,,CyrillTrans;Phonemic,werɨɣ
+70-1-530-1,,70,1-530,ваз,ваз,,,,,,,,CyrillTrans;Phonemic,waz
+70-1-540-1,,70,1-540,хаІне,хаІне,,,,,,,,CyrillTrans;Phonemic,xaˤne
+70-1-550-1,,70,1-550,хайбыгадака,хайбыгадака,,,,,,,,CyrillTrans;Phonemic,xaybɨgadaka
+70-1-560-1,,70,1-560,гурулдав,гурулдав,,,,,,,,CyrillTrans;Phonemic,guruldaw
+70-1-570-1,,70,1-570,гурулдав,гурулдав,,,,,,,,CyrillTrans;Phonemic,guruldaw
+70-1-580-1,,70,1-580,кулек,кулек,,,,,,,,CyrillTrans;Phonemic,kulek
+70-1-590-1,,70,1-590,ханевур,ханевур,,,,,,,,CyrillTrans;Phonemic,xanewur
+70-1-610-1,,70,1-610,ишыгъ,ишыгъ,,,,,,,,CyrillTrans;Phonemic,išɨɣ
+70-1-620-1,,70,1-620,"мычІахда, зулмат",мычІахда,,,,,,,,CyrillTrans;Phonemic,mɨčʼaxda
+70-1-620-2,,70,1-620,"мычІахда, зулмат",зулмат,,,,,,,,CyrillTrans;Phonemic,zulmat
+70-1-630-1,,70,1-630,"калга, колʼга",калга,,,,,,,,CyrillTrans;Phonemic,kalga
+70-1-630-2,,70,1-630,"калга, колʼга",колʼга,,,,,,,,CyrillTrans;Phonemic,kolʲga
+70-1-640-1,,70,1-640,чий,чий,,,,,,,,CyrillTrans;Phonemic,čiy
+70-1-710-1,,70,1-710,гьава,гьава,,,,,,,,CyrillTrans;Phonemic,hawa
+70-1-720-1,,70,1-720,мыц,мыц,,,,,,,,CyrillTrans;Phonemic,mɨc
+70-1-730-1,,70,1-730,бупуд,бупуд,,,,,,,,CyrillTrans;Phonemic,bupud
+70-1-740-1,,70,1-740,(думан) чамра,чамра,,,,,,,,CyrillTrans;Phonemic,čamra
+70-1-750-1,,70,1-750,гʼогъуй,гʼогъуй,,,,,,,,CyrillTrans;Phonemic,gʲoɣuy
+70-1-760-1,,70,1-760,йиз,йиз,,,,,,,,CyrillTrans;Phonemic,yiz
+70-1-770-1,,70,1-770,"мык, хал",мык,,,,,,,,CyrillTrans;Phonemic,mɨk
+70-1-770-2,,70,1-770,"мык, хал",хал,,,,,,,,CyrillTrans;Phonemic,xal
+70-1-780-1,,70,1-780,гьава,гьава,,,,,,,,CyrillTrans;Phonemic,hawa
+70-1-810-1,,70,1-810,цІа,цІа,,,,,,,,CyrillTrans;Phonemic,cʼa
+70-1-820-1,,70,1-820,"алов, ялав",алов,,,,,,,,CyrillTrans;Phonemic,alow
+70-1-820-2,,70,1-820,"алов, ялав",ялав,,,,,,,,CyrillTrans;Phonemic,yalaw
+70-1-830-1,,70,1-830,кума,кума,,,,,,,,CyrillTrans;Phonemic,kuma
+70-1-840-1,,70,1-840,йыІхъ,йыІхъ,,,,,,,,CyrillTrans;Phonemic,yɨˤq
+70-1-841-1,,70,1-841,коозбы,коозбы,,,,,,,,CyrillTrans;Phonemic,koʔozbɨ
+70-1-851-1,,70,1-851,гʼоххьанаъас,гʼоххьанаъас,,,,,,,,CyrillTrans;Phonemic,gʲoxx̌anaʔas
+70-1-852-1,,70,1-852,гетхан,гетхан,,,,,,,,CyrillTrans;Phonemic,getxan
+70-1-860-1,,70,1-860,гехьанаас,гехьанаас,,,,,,,,CyrillTrans;Phonemic,gex̌anaʔas
+70-1-861-1,,70,1-861,кІядхъаъас,кІядхъаъас,,,,,,,,CyrillTrans;Phonemic,kʼyadqaʔas
+70-1-870-1,,70,1-870,ишпишка,ишпишка,,,,,,,,CyrillTrans;Phonemic,išpiška
+70-1-880-1,,70,1-880,осбы,осбы,,,,,,,,CyrillTrans;Phonemic,osbɨ
+70-1-890-1,,70,1-890,гІадыр,гІадыр,,,,,,,,CyrillTrans;Phonemic,ʕadɨr
+70-2-100-1,,70,2-100,инсан,инсан,,,,,,,,CyrillTrans;Phonemic,insan
+70-2-210-1,,70,2-210,адамий,адамий,,,,,,,,CyrillTrans;Phonemic,adamiy
+70-2-220-1,,70,2-220,хьунаще,хьунаще,,,,,,,,CyrillTrans;Phonemic,x̌unaš̄e
+70-2-230-1,,70,2-230,выгІылʼна,выгІылʼна,,,,,,,,CyrillTrans;Phonemic,wɨʕɨlʲna
+70-2-240-1,,70,2-240,хьывылʼна,хьывылʼна,,,,,,,,CyrillTrans;Phonemic,x̌ɨwɨlʲna
+70-2-250-1,,70,2-250,гаде,гаде,,,,,,,,CyrillTrans;Phonemic,gade
+70-2-251-1,,70,2-251,джегьил инсан,джегьил инсан,,,,,,,,CyrillTrans;Phonemic,ǯehil insan
+70-2-260-1,,70,2-260,ичий,ичий,,,,,,,,CyrillTrans;Phonemic,ičiy
+70-2-261-1,,70,2-261,ичий,ичий,,,,,,,,CyrillTrans;Phonemic,ičiy
+70-2-270-1,,70,2-270,"ушагъ, кулфа",ушагъ,,,,,,,,CyrillTrans;Phonemic,ušaɣ
+70-2-270-2,,70,2-270,"ушагъ, кулфа",кулфа,,,,,,,,CyrillTrans;Phonemic,kulfa
+70-2-280-1,,70,2-280,чІагъа,чІагъа,,,,,,,,CyrillTrans;Phonemic,čʼaɣa
+70-2-310-1,,70,2-310,адамий,адамий,,,,,,,,CyrillTrans;Phonemic,adamiy
+70-2-320-1,,70,2-320,хьунаще,хьунаще,,,,,,,,CyrillTrans;Phonemic,x̌unaš̄e
+70-2-330-1,,70,2-330,"даватбы гьыуй, адамийс гьаркІыний",даватбы гьыуй,,,,,,,,CyrillTrans;Phonemic,dawatbɨ hɨuy
+70-2-330-2,,70,2-330,"даватбы гьыуй, адамийс гьаркІыний",адамийс гьаркІыний,,,,,,,,CyrillTrans;Phonemic,adamiys harkʼɨniy
+70-2-340-1,,70,2-340,даватбы,даватбы,,,,,,,,CyrillTrans;Phonemic,dawatbɨ
+70-2-341-1,,70,2-341,джуравхьай,джуравхьай,,,,,,,,CyrillTrans;Phonemic,ǯurawx̌ay
+70-2-350-1,,70,2-350,"дек, да̄к",дек,,,,,,,,CyrillTrans;Phonemic,dek
+70-2-350-2,,70,2-350,"дек, да̄к",да̄к,,,,,,,,CyrillTrans;Phonemic,dāk
+70-2-360-1,,70,2-360,едʼ,едʼ,,,,,,,,CyrillTrans;Phonemic,edʲ
+70-2-370-1,,70,2-370,декий едʼ,декий едʼ,,,,,,,,CyrillTrans;Phonemic,dekiy yedʲ
+70-2-380-1,,70,2-380,даватбы гьауна,даватбы гьауна,,,,,,,,CyrillTrans;Phonemic,dawatbɨ hauna
+70-2-390-1,,70,2-390,адамийсанана,адамийсанана,,,,,,,,CyrillTrans;Phonemic,adamiysanana
+70-2-410-1,,70,2-410,дих,дих,,,,,,,,CyrillTrans;Phonemic,dix
+70-2-420-1,,70,2-420,йиш,йиш,,,,,,,,CyrillTrans;Phonemic,yiš
+70-2-430-1,,70,2-430,"ушагъар, кулфатбы",ушагъар,,,,,,,,CyrillTrans;Phonemic,ušaɣar
+70-2-430-2,,70,2-430,"ушагъар, кулфатбы",кулфатбы,,,,,,,,CyrillTrans;Phonemic,kulfatbɨ
+70-2-440-1,,70,2-440,чодж,чодж,,,,,,,,CyrillTrans;Phonemic,čoǯ
+70-2-444-1,,70,2-444,херна чодж,херна чодж,,,,,,,,CyrillTrans;Phonemic,xerna čoǯ
+70-2-445-1,,70,2-445,кІылʼна чодж,кІылʼна чодж,,,,,,,,CyrillTrans;Phonemic,kʼɨlʲna čoǯ
+70-2-450-1,,70,2-450,йичи,йичи,,,,,,,,CyrillTrans;Phonemic,yiči
+70-2-454-1,,70,2-454,херна йичи,херна йичи,,,,,,,,CyrillTrans;Phonemic,xerna yiči
+70-2-455-1,,70,2-455,кІылʼна йичи,кІылʼна йичи,,,,,,,,CyrillTrans;Phonemic,kʼɨlʲna yiči
+70-2-456-1,,70,2-456,"чодж, йичи",чодж,,,,,,,,CyrillTrans;Phonemic,čoǯ
+70-2-456-2,,70,2-456,"чодж, йичи",йичи,,,,,,,,CyrillTrans;Phonemic,yiči
+70-2-458-1,,70,2-458,кьыІмкІалер,кьыІмкІалер,,,,,,,,CyrillTrans;Phonemic,qʼɨˤmkʼaler
+70-2-460-1,,70,2-460,"дидей, къаста дидей",дидей,,,,,,,,CyrillTrans;Phonemic,didey
+70-2-460-2,,70,2-460,"дидей, къаста дидей",къаста дидей,,,,,,,,CyrillTrans;Phonemic,q̄asta didey
+70-2-461-1,,70,2-461,кьаІсда,кьаІсда,,,,,,,,CyrillTrans;Phonemic,qʼaˤsda
+70-2-470-1,,70,2-470,"адей, кьаІсда ед’",адей,,,,,,,,CyrillTrans;Phonemic,adey
+70-2-470-2,,70,2-470,"адей, кьаІсда ед’",кьаІсда едʼ,,,,,,,,CyrillTrans;Phonemic,qʼaˤsda yedʲ
+70-2-471-1,,70,2-471,къарий,къарий,,,,,,,,CyrillTrans;Phonemic,q̄ariy
+70-2-480-1,,70,2-480,"нева, хыдылʼ",нева,,,,,,,,CyrillTrans;Phonemic,newa
+70-2-480-2,,70,2-480,"нева, хыдылʼ",хыдылʼ,,,,,,,,CyrillTrans;Phonemic,xɨdɨlʲ
+70-2-490-1,,70,2-490,"нева, хыдылʼ",нева,,,,,,,,CyrillTrans;Phonemic,newa
+70-2-490-2,,70,2-490,"нева, хыдылʼ",хыдылʼ,,,,,,,,CyrillTrans;Phonemic,xɨdɨlʲ
+70-2-510-1,,70,2-510,"эмий, дайий",эмий,,,,,,,,CyrillTrans;Phonemic,emiy
+70-2-510-2,,70,2-510,"эмий, дайий",дайий,,,,,,,,CyrillTrans;Phonemic,dayiy
+70-2-511-1,,70,2-511,дайий,дайий,,,,,,,,CyrillTrans;Phonemic,dayiy
+70-2-512-1,,70,2-512,эмий,эмий,,,,,,,,CyrillTrans;Phonemic,emiy
+70-2-520-1,,70,2-520,"халай, мамай",халай,,,,,,,,CyrillTrans;Phonemic,xalay
+70-2-520-2,,70,2-520,"халай, мамай",мамай,,,,,,,,CyrillTrans;Phonemic,mamay
+70-2-521-1,,70,2-521,халай,халай,,,,,,,,CyrillTrans;Phonemic,xalay
+70-2-522-1,,70,2-522,мамай,мамай,,,,,,,,CyrillTrans;Phonemic,mamay
+70-2-530-1,,70,2-530,хыдылʼ,хыдылʼ,,,,,,,,CyrillTrans;Phonemic,xɨdɨlʲ
+70-2-540-1,,70,2-540,хыдылʼ,хыдылʼ,,,,,,,,CyrillTrans;Phonemic,xɨdɨlʲ
+70-2-550-1,,70,2-550,"эми огълый, дайи огълый, эми къызый",эми огълый,,,,,,,,CyrillTrans;Phonemic,emi oɣlɨy
+70-2-550-2,,70,2-550,"эми огълый, дайи огълый, эми къызый",дайи огълый,,,,,,,,CyrillTrans;Phonemic,dayi oɣlɨy
+70-2-550-3,,70,2-550,"эми огълый, дайи огълый, эми къызый",эми къызый,,,,,,,,CyrillTrans;Phonemic,emi q̄ɨzɨy
+70-2-560-1,,70,2-560,касти дакина дак (асыл),касти дакина дак,,,,,,,,CyrillTrans;Phonemic,kasti dakina dak
+70-2-570-1,,70,2-570,"нетиджебы, кокʼ",нетиджебы,,,,,,,,CyrillTrans;Phonemic,netiǯebɨ
+70-2-570-2,,70,2-570,"нетиджебы, кокʼ",кокʼ,,,,,,,,CyrillTrans;Phonemic,kokʲ
+70-2-610-1,,70,2-610,абаттей,абаттей,,,,,,,,CyrillTrans;Phonemic,abat̄ey
+70-2-611-1,,70,2-611,абаттей,абаттей,,,,,,,,CyrillTrans;Phonemic,abat̄ey
+70-2-620-1,,70,2-620,абай,абай,,,,,,,,CyrillTrans;Phonemic,abay
+70-2-621-1,,70,2-621,абай,абай,,,,,,,,CyrillTrans;Phonemic,abay
+70-2-630-1,,70,2-630,езна,езна,,,,,,,,CyrillTrans;Phonemic,yezna
+70-2-631-1,,70,2-631,езна,езна,,,,,,,,CyrillTrans;Phonemic,ezna
+70-2-640-1,,70,2-640,сос,сос,,,,,,,,CyrillTrans;Phonemic,sos
+70-2-641-1,,70,2-641,сос,сос,,,,,,,,CyrillTrans;Phonemic,sos
+70-2-710-1,,70,2-710,двухна дек,двухна дек,,,,,,,,CyrillTrans;Phonemic,dwuxna dek
+70-2-720-1,,70,2-720,двухна ед’,двухна едʼ,,,,,,,,CyrillTrans;Phonemic,dwuxna yedʲ
+70-2-730-1,,70,2-730,"двухна, дих",двухна,,,,,,,,CyrillTrans;Phonemic,dwuxna
+70-2-730-2,,70,2-730,"двухна, дих",дих,,,,,,,,CyrillTrans;Phonemic,dix
+70-2-740-1,,70,2-740,двухна йиш,двухна йиш,,,,,,,,CyrillTrans;Phonemic,dwuxna yiš
+70-2-750-1,,70,2-750,етим,етим,,,,,,,,CyrillTrans;Phonemic,yetim
+70-2-760-1,,70,2-760,сипІрий,сипІрий,,,,,,,,CyrillTrans;Phonemic,sipʼriy
+70-2-770-1,,70,2-770,сипІрий,сипІрий,,,,,,,,CyrillTrans;Phonemic,sipʼriy
+70-2-810-1,,70,2-810,гугьарбы,гугьарбы,,,,,,,,CyrillTrans;Phonemic,guharbɨ
+70-2-820-1,,70,2-820,хизан,хизан,,,,,,,,CyrillTrans;Phonemic,xizan
+70-2-910-1,,70,2-910,зы,зы,,,,,,,,CyrillTrans;Phonemic,zɨ
+70-2-920-1,,70,2-920,гъу,гъу,,,,,,,,CyrillTrans;Phonemic,ɣu
+70-2-930-1,,70,2-930,"мана, мана, ман",мана,,,,,,,,CyrillTrans;Phonemic,mana
+70-2-930-2,,70,2-930,"мана, мана, ман",мана,,,,,,,,CyrillTrans;Phonemic,mana
+70-2-930-3,,70,2-930,"мана, мана, ман",ман,,,,,,,,CyrillTrans;Phonemic,man
+70-2-940-1,,70,2-940,ши,ши,,,,,,,,CyrillTrans;Phonemic,ši
+70-2-950-1,,70,2-950,шу,шу,,,,,,,,CyrillTrans;Phonemic,šu
+70-2-960-1,,70,2-960,"манбы, мамы",манбы,,,,,,,,CyrillTrans;Phonemic,manbɨ
+70-2-960-2,,70,2-960,"манбы, мамы",мамы,,,,,,,,CyrillTrans;Phonemic,mamɨ
+70-3-110-1,,70,3-110,гьаІйван,гьаІйван,,,,,,,,CyrillTrans;Phonemic,haˤywan
+70-3-120-1,,70,3-120,адамейршин,адамейршин,,,,,,,,CyrillTrans;Phonemic,adameyršin
+70-3-130-1,,70,3-130,едаршин,едаршин,,,,,,,,CyrillTrans;Phonemic,yedaršin
+70-3-150-1,,70,3-150,"гьаІйван, кане",гьаІйван,,,,,,,,CyrillTrans;Phonemic,haˤywan
+70-3-150-2,,70,3-150,"гьаІйван, кане",кане,,,,,,,,CyrillTrans;Phonemic,kane
+70-3-160-1,,70,3-160,оІруш,оІруш,,,,,,,,CyrillTrans;Phonemic,oˤruš
+70-3-180-1,,70,3-180,"чобан, мехирван, пешекар",чобан,,,,,,,,CyrillTrans;Phonemic,čoban
+70-3-180-2,,70,3-180,"чобан, мехирван, пешекар",мехирван,,,,,,,,CyrillTrans;Phonemic,mexirwan
+70-3-180-3,,70,3-180,"чобан, мехирван, пешекар",пешекар,,,,,,,,CyrillTrans;Phonemic,pešekar
+70-3-190-1,,70,3-190,"агъып, йицІа, ахар",агъып,,,,,,,,CyrillTrans;Phonemic,aɣɨp
+70-3-190-2,,70,3-190,"агъып, йицІа, ахар",йицІа,,,,,,,,CyrillTrans;Phonemic,yicʼa
+70-3-190-3,,70,3-190,"агъып, йицІа, ахар",ахар,,,,,,,,CyrillTrans;Phonemic,axar
+70-3-200-1,,70,3-200,чавра,чавра,,,,,,,,CyrillTrans;Phonemic,čawra
+70-3-210-1,,70,3-210,"яц, дана",яц,,,,,,,,CyrillTrans;Phonemic,yac
+70-3-210-2,,70,3-210,"яц, дана",дана,,,,,,,,CyrillTrans;Phonemic,dana
+70-3-220-1,,70,3-220,яц,яц,,,,,,,,CyrillTrans;Phonemic,yac
+70-3-230-1,,70,3-230,зер,зер,,,,,,,,CyrillTrans;Phonemic,zer
+70-3-240-1,,70,3-240,кьыка,кьыка,,,,,,,,CyrillTrans;Phonemic,qʼɨka
+70-3-250-1,,70,3-250,"вакІаІ, ваІкъа, гарм",вакІаІ,,,,,,,,CyrillTrans;Phonemic,wakʼaˤ
+70-3-250-2,,70,3-250,"вакІаІ, ваІкъа, гарм",ваІкъа,,,,,,,,CyrillTrans;Phonemic,waˤq̄a
+70-3-250-3,,70,3-250,"вакІаІ, ваІкъа, гарм",гарм,,,,,,,,CyrillTrans;Phonemic,garm
+70-3-260-1,,70,3-260,къарг,къарг,,,,,,,,CyrillTrans;Phonemic,q̄arg
+70-3-280-1,,70,3-280,вакІаІ,вакІаІ,,,,,,,,CyrillTrans;Phonemic,wakʼaˤ
+70-3-290-1,,70,3-290,гев,гев,,,,,,,,CyrillTrans;Phonemic,gew
+70-3-320-1,,70,3-320,къабан,къабан,,,,,,,,CyrillTrans;Phonemic,q̄aban
+70-3-340-1,,70,3-340,вок,вок,,,,,,,,CyrillTrans;Phonemic,wok
+70-3-350-1,,70,3-350,вок,вок,,,,,,,,CyrillTrans;Phonemic,wok
+70-3-360-1,,70,3-360,цеІъ,цеІъ,,,,,,,,CyrillTrans;Phonemic,ceˤʔ
+70-3-370-1,,70,3-370,вудра,вудра,,,,,,,,CyrillTrans;Phonemic,wudra
+70-3-380-1,,70,3-380,"чепчий, чепич",чепчий,,,,,,,,CyrillTrans;Phonemic,čepčiy
+70-3-380-2,,70,3-380,"чепчий, чепич",чепич,,,,,,,,CyrillTrans;Phonemic,čepič
+70-3-410-1,,70,3-410,"балкан, ябы",балкан,,,,,,,,CyrillTrans;Phonemic,balkan
+70-3-410-2,,70,3-410,"балкан, ябы",ябы,,,,,,,,CyrillTrans;Phonemic,yabɨ
+70-3-420-1,,70,3-420,айгъыр,айгъыр,,,,,,,,CyrillTrans;Phonemic,ayɣɨr
+70-3-440-1,,70,3-440,мадʼйан,мадʼйан,,,,,,,,CyrillTrans;Phonemic,madʲyan
+70-3-450-1,,70,3-450,урӣе,урӣе,,,,,,,,CyrillTrans;Phonemic,urīye
+70-3-460-1,,70,3-460,аІмале,аІмале,,,,,,,,CyrillTrans;Phonemic,aˤmale
+70-3-470-1,,70,3-470,къатир,къатир,,,,,,,,CyrillTrans;Phonemic,q̄atir
+70-3-500-1,,70,3-500,катер,катер,,,,,,,,CyrillTrans;Phonemic,kater
+70-3-520-1,,70,3-520,дадал,дадал,,,,,,,,CyrillTrans;Phonemic,dadal
+70-3-540-1,,70,3-540,кІатІе,кІатІе,,,,,,,,CyrillTrans;Phonemic,kʼatʼe
+70-3-550-1,,70,3-550,джудже,джудже,,,,,,,,CyrillTrans;Phonemic,ǯuǯe
+70-3-560-1,,70,3-560,къаз,къаз,,,,,,,,CyrillTrans;Phonemic,q̄az
+70-3-570-1,,70,3-570,оІрдак,оІрдак,,,,,,,,CyrillTrans;Phonemic,oˤrdak
+70-3-580-1,,70,3-580,акка,акка,,,,,,,,CyrillTrans;Phonemic,ak̄a
+70-3-581-1,,70,3-581,шитІ,шитІ,,,,,,,,CyrillTrans;Phonemic,šitʼ
+70-3-582-1,,70,3-582,чайка,чайка,,,,,,,,CyrillTrans;Phonemic,čayka
+70-3-583-1,,70,3-583,хебна шитІ,хебна шитІ,,,,,,,,CyrillTrans;Phonemic,xebna šitʼ
+70-3-584-1,,70,3-584,"чапагьан, каджир",чапагьан,,,,,,,,CyrillTrans;Phonemic,čapahan
+70-3-584-2,,70,3-584,"чапагьан, каджир",каджир,,,,,,,,CyrillTrans;Phonemic,kaǯir
+70-3-585-1,,70,3-585,каджир,каджир,,,,,,,,CyrillTrans;Phonemic,kaǯir
+70-3-586-1,,70,3-586,карна качир,карна качир,,,,,,,,CyrillTrans;Phonemic,karna kačir
+70-3-591-1,,70,3-591,чирхІоІ чапап,чирхІоІ чапап,,,,,,,,CyrillTrans;Phonemic,čirħoˤ čapap
+70-3-592-1,,70,3-592,папугай,папугай,,,,,,,,CyrillTrans;Phonemic,papugay
+70-3-593-1,,70,3-593,хъаІн,хъаІн,,,,,,,,CyrillTrans;Phonemic,qaˤn
+70-3-594-1,,70,3-594,хъинерке,хъинерке,,,,,,,,CyrillTrans;Phonemic,qinerke
+70-3-596-1,,70,3-596,байгъуш,байгъуш,,,,,,,,CyrillTrans;Phonemic,bayɣuš
+70-3-610-1,,70,3-610,хва,хва,,,,,,,,CyrillTrans;Phonemic,xʷa
+70-3-614-1,,70,3-614,къыІе,къыІе,,,,,,,,CyrillTrans;Phonemic,q̄ɨˤye
+70-3-620-1,,70,3-620,аІбын,аІбын,,,,,,,,CyrillTrans;Phonemic,aˤbɨn
+70-3-630-1,,70,3-630,"кьоІв, даптанай",кьоІв,,,,,,,,CyrillTrans;Phonemic,qʼoˤw
+70-3-630-2,,70,3-630,"кьоІв, даптанай",даптанай,,,,,,,,CyrillTrans;Phonemic,daptanay
+70-3-650-1,,70,3-650,балугъ,балугъ,,,,,,,,CyrillTrans;Phonemic,baluɣ
+70-3-652-1,,70,3-652,къанат,къанат,,,,,,,,CyrillTrans;Phonemic,q̄anat
+70-3-653-1,,70,3-653,къека,къека,,,,,,,,CyrillTrans;Phonemic,q̄eka
+70-3-654-1,,70,3-654,гъаІптамабы,гъаІптамабы,,,,,,,,CyrillTrans;Phonemic,ɣaˤptamabɨ
+70-3-655-1,,70,3-655,хаІтен кІырыбы,хаІтен кІырыбы,,,,,,,,CyrillTrans;Phonemic,xaˤten kʼɨrɨbɨ
+70-3-661-1,,70,3-661,акула,акула,,,,,,,,CyrillTrans;Phonemic,akula
+70-3-662-1,,70,3-662,дельфин,дельфин,,,,,,,,CyrillTrans;Phonemic,delʲfin
+70-3-663-1,,70,3-663,кит,кит,,,,,,,,CyrillTrans;Phonemic,kit
+70-3-710-1,,70,3-710,джанавар,джанавар,,,,,,,,CyrillTrans;Phonemic,ǯanawar
+70-3-720-1,,70,3-720,аслан,аслан,,,,,,,,CyrillTrans;Phonemic,aslan
+70-3-730-1,,70,3-730,сʼо,сʼо,,,,,,,,CyrillTrans;Phonemic,sʼo
+70-3-740-1,,70,3-740,сыІва,сыІва,,,,,,,,CyrillTrans;Phonemic,sɨˤwa
+70-3-750-1,,70,3-750,марал,марал,,,,,,,,CyrillTrans;Phonemic,maral
+70-3-760-1,,70,3-760,маймын,маймын,,,,,,,,CyrillTrans;Phonemic,maymɨn
+70-3-770-1,,70,3-770,фил,фил,,,,,,,,CyrillTrans;Phonemic,fil
+70-3-780-1,,70,3-780,дева,дева,,,,,,,,CyrillTrans;Phonemic,dewa
+70-3-810-1,,70,3-810,"гьаІшарат, букар",гьаІшарат,,,,,,,,CyrillTrans;Phonemic,haˤšarat
+70-3-810-2,,70,3-810,"гьаІшарат, букар",букар,,,,,,,,CyrillTrans;Phonemic,bukar
+70-3-811-1,,70,3-811,вихь,вихь,,,,,,,,CyrillTrans;Phonemic,wix̌
+70-3-812-1,,70,3-812,нат,нат,,,,,,,,CyrillTrans;Phonemic,nat
+70-3-813-1,,70,3-813,чин,чин,,,,,,,,CyrillTrans;Phonemic,čin
+70-3-814-1,,70,3-814,шокцал челʼнан,шокцал челʼнан,,,,,,,,CyrillTrans;Phonemic,šokcal čelʲnan
+70-3-815-1,,70,3-815,аІкъраб,аІкъраб,,,,,,,,CyrillTrans;Phonemic,aˤq̄rab
+70-3-816-1,,70,3-816,таракан,таракан,,,,,,,,CyrillTrans;Phonemic,tarakan
+70-3-817-1,,70,3-817,зутхале,зутхале,,,,,,,,CyrillTrans;Phonemic,zutxale
+70-3-818-1,,70,3-818,диндаранг гиндаранг,диндаранг гиндаранг,,,,,,,,CyrillTrans;Phonemic,dindarang gindarang
+70-3-819-1,,70,3-819,мес,мес,,,,,,,,CyrillTrans;Phonemic,mes
+70-3-820-1,,70,3-820,тІотІ,тІотІ,,,,,,,,CyrillTrans;Phonemic,tʼotʼ
+70-3-821-1,,70,3-821,мох,мох,,,,,,,,CyrillTrans;Phonemic,mox
+70-3-822-1,,70,3-822,геджи,геджи,,,,,,,,CyrillTrans;Phonemic,geǯi
+70-3-823-1,,70,3-823,нацахІай,нацахІай,,,,,,,,CyrillTrans;Phonemic,nacaħay
+70-3-830-1,,70,3-830,тІотІ,тІотІ,,,,,,,,CyrillTrans;Phonemic,tʼotʼ
+70-3-831-1,,70,3-831,мычак,мычак,,,,,,,,CyrillTrans;Phonemic,mɨčak
+70-3-832-1,,70,3-832,мычак,мычак,,,,,,,,CyrillTrans;Phonemic,mɨčak
+70-3-840-1,,70,3-840,абравучІе,абравучІе,,,,,,,,CyrillTrans;Phonemic,abrawučʼe
+70-3-850-1,,70,3-850,хоче,хоче,,,,,,,,CyrillTrans;Phonemic,xoče
+70-3-910-1,,70,3-910,ишигъдав,ишигъдав,,,,,,,,CyrillTrans;Phonemic,išiɣdaw
+70-3-920-1,,70,3-920,кабай,кабай,,,,,,,,CyrillTrans;Phonemic,kabay
+70-3-930-1,,70,3-930,цІыт,цІыт,,,,,,,,CyrillTrans;Phonemic,cʼɨt
+70-3-940-1,,70,3-940,роче,роче,,,,,,,,CyrillTrans;Phonemic,roče
+70-3-950-1,,70,3-950,хъырхъыІмит,хъырхъыІмит,,,,,,,,CyrillTrans;Phonemic,qɨrqɨˤmit
+70-3-960-1,,70,3-960,баІнек,баІнек,,,,,,,,CyrillTrans;Phonemic,baˤnek
+70-3-970-1,,70,3-970,крокодил,крокодил,,,,,,,,CyrillTrans;Phonemic,krokodil
+70-3-980-1,,70,3-980,тысбагъа,тысбагъа,,,,,,,,CyrillTrans;Phonemic,tɨsbaɣa
+70-4-110-1,,70,4-110,джандак,джандак,,,,,,,,CyrillTrans;Phonemic,ǯandak
+70-4-120-1,,70,4-120,къека,къека,,,,,,,,CyrillTrans;Phonemic,q̄eka
+70-4-130-1,,70,4-130,чʼан,чʼан,,,,,,,,CyrillTrans;Phonemic,čʲan
+70-4-140-1,,70,4-140,чІар,чІар,,,,,,,,CyrillTrans;Phonemic,čʼar
+70-4-142-1,,70,4-142,мучІру,мучІру,,,,,,,,CyrillTrans;Phonemic,mučʼru
+70-4-144-1,,70,4-144,йис,йис,,,,,,,,CyrillTrans;Phonemic,yis
+70-4-145-1,,70,4-145,йис,йис,,,,,,,,CyrillTrans;Phonemic,yis
+70-4-146-1,,70,4-146,хаІрх,хаІрх,,,,,,,,CyrillTrans;Phonemic,xaˤrx
+70-4-150-1,,70,4-150,эб,эб,,,,,,,,CyrillTrans;Phonemic,eb
+70-4-151-1,,70,4-151,дамар,дамар,,,,,,,,CyrillTrans;Phonemic,damar
+70-4-160-1,,70,4-160,баркІ,баркІ,,,,,,,,CyrillTrans;Phonemic,barkʼ
+70-4-162-1,,70,4-162,мыгылʼен телебы,мыгылʼен телебы,,,,,,,,CyrillTrans;Phonemic,mɨgɨlʲen telebɨ
+70-4-170-1,,70,4-170,гач,гач,,,,,,,,CyrillTrans;Phonemic,gač
+70-4-180-1,,70,4-180,быІт,быІт,,,,,,,,CyrillTrans;Phonemic,bɨˤt
+70-4-190-1,,70,4-190,йыІкь,йыІкь,,,,,,,,CyrillTrans;Phonemic,yɨˤqʼ
+70-4-191-1,,70,4-191,сини,сини,,,,,,,,CyrillTrans;Phonemic,sini
+70-4-200-1,,70,4-200,калле,калле,,,,,,,,CyrillTrans;Phonemic,kalle
+70-4-201-1,,70,4-201,кІунтІ,кІунтІ,,,,,,,,CyrillTrans;Phonemic,kʼuntʼ
+70-4-202-1,,70,4-202,къафа,къафа,,,,,,,,CyrillTrans;Phonemic,q̄afa
+70-4-203-1,,70,4-203,маІгь,маІгь,,,,,,,,CyrillTrans;Phonemic,maˤh
+70-4-204-1,,70,4-204,акьва,акьва,,,,,,,,CyrillTrans;Phonemic,aqʼʷa
+70-4-205-1,,70,4-205,лига,лига,,,,,,,,CyrillTrans;Phonemic,liga
+70-4-207-1,,70,4-207,чене,чене,,,,,,,,CyrillTrans;Phonemic,čene
+70-4-208-1,,70,4-208,дан,дан,,,,,,,,CyrillTrans;Phonemic,dan
+70-4-209-1,,70,4-209,кьац,кьац,,,,,,,,CyrillTrans;Phonemic,qʼac
+70-4-210-1,,70,4-210,улʼ,улʼ,,,,,,,,CyrillTrans;Phonemic,ulʲ
+70-4-212-1,,70,4-212,къаш,къаш,,,,,,,,CyrillTrans;Phonemic,q̄aš
+70-4-213-1,,70,4-213,кІакІ,кІакІ,,,,,,,,CyrillTrans;Phonemic,kʼakʼ
+70-4-214-1,,70,4-214,кІакІ,кІакІ,,,,,,,,CyrillTrans;Phonemic,kʼakʼ
+70-4-215-1,,70,4-215,цуху кехе,цуху кехе,,,,,,,,CyrillTrans;Phonemic,cuxu kexe
+70-4-220-1,,70,4-220,кІыры,кІыры,,,,,,,,CyrillTrans;Phonemic,kʼɨrɨ
+70-4-221-1,,70,4-221,кІырейна митІ,кІырейна митІ,,,,,,,,CyrillTrans;Phonemic,kʼɨreyna mitʼ
+70-4-222-1,,70,4-222,маш,маш,,,,,,,,CyrillTrans;Phonemic,maš
+70-4-230-1,,70,4-230,"хъов, къов",хъов,,,,,,,,CyrillTrans;Phonemic,qow
+70-4-230-2,,70,4-230,"хъов, къов",къов,,,,,,,,CyrillTrans;Phonemic,q̄ow
+70-4-231-1,,70,4-231,къушена баІдже,къушена баІдже,,,,,,,,CyrillTrans;Phonemic,q̄ušena baˤǯe
+70-4-232-1,,70,4-232,"хъыІшытІ, кых",хъыІшытІ,,,,,,,,CyrillTrans;Phonemic,qɨˤšɨtʼ
+70-4-232-2,,70,4-232,"хъыІшытІ, кых",кых,,,,,,,,CyrillTrans;Phonemic,kɨx
+70-4-240-1,,70,4-240,гІалʼ,гІалʼ,,,,,,,,CyrillTrans;Phonemic,ʕalʲ
+70-4-241-1,,70,4-241,кухІ,кухІ,,,,,,,,CyrillTrans;Phonemic,kuħ
+70-4-250-1,,70,4-250,"пыз, пышни",пыз,,,,,,,,CyrillTrans;Phonemic,pɨz
+70-4-250-2,,70,4-250,"пыз, пышни",пышни,,,,,,,,CyrillTrans;Phonemic,pɨšni
+70-4-260-1,,70,4-260,миз,миз,,,,,,,,CyrillTrans;Phonemic,miz
+70-4-270-1,,70,4-270,сили,сили,,,,,,,,CyrillTrans;Phonemic,sili
+70-4-271-1,,70,4-271,хынбы,хынбы,,,,,,,,CyrillTrans;Phonemic,xɨnbɨ
+70-4-272-1,,70,4-272,азы,азы,,,,,,,,CyrillTrans;Phonemic,azɨ
+70-4-280-1,,70,4-280,гардан,гардан,,,,,,,,CyrillTrans;Phonemic,gardan
+70-4-281-1,,70,4-281,гардан,гардан,,,,,,,,CyrillTrans;Phonemic,gardan
+70-4-290-1,,70,4-290,богъаз быгытк,богъаз быгытк,,,,,,,,CyrillTrans;Phonemic,boɣaz bɨgɨtk
+70-4-300-1,,70,4-300,мыга,мыга,,,,,,,,CyrillTrans;Phonemic,mɨga
+70-4-301-1,,70,4-301,курак,курак,,,,,,,,CyrillTrans;Phonemic,kurak
+70-4-302-1,,70,4-302,мыгама тна,мыгама тна,,,,,,,,CyrillTrans;Phonemic,mɨgama tna
+70-4-310-1,,70,4-310,хылʼ,хылʼ,,,,,,,,CyrillTrans;Phonemic,xɨlʲ
+70-4-312-1,,70,4-312,хьыткапʼ,хьыткапʼ,,,,,,,,CyrillTrans;Phonemic,x̌ɨtkapʲ
+70-4-320-1,,70,4-320,хылеккум,хылеккум,,,,,,,,CyrillTrans;Phonemic,xɨlek̄um
+70-4-321-1,,70,4-321,аІгьнабы,аІгьнабы,,,,,,,,CyrillTrans;Phonemic,aˤhnabɨ
+70-4-330-1,,70,4-330,патак,патак,,,,,,,,CyrillTrans;Phonemic,patak
+70-4-331-1,,70,4-331,кьоІнак,кьоІнак,,,,,,,,CyrillTrans;Phonemic,qʼoˤnak
+70-4-340-1,,70,4-340,тІуб,тІуб,,,,,,,,CyrillTrans;Phonemic,tʼub
+70-4-342-1,,70,4-342,хебна тІуб,хебна тІуб,,,,,,,,CyrillTrans;Phonemic,xebna tʼub
+70-4-344-1,,70,4-344,хьубана,хьубана,,,,,,,,CyrillTrans;Phonemic,x̌ubana
+70-4-345-1,,70,4-345,хмыч,хмыч,,,,,,,,CyrillTrans;Phonemic,xmɨč
+70-4-350-1,,70,4-350,къелʼ,къелʼ,,,,,,,,CyrillTrans;Phonemic,q̄elʲ
+70-4-351-1,,70,4-351,ума,ума,,,,,,,,CyrillTrans;Phonemic,uma
+70-4-352-1,,70,4-352,зома цец,зома цец,,,,,,,,CyrillTrans;Phonemic,zoma cec
+70-4-360-1,,70,4-360,кьараца,кьараца,,,,,,,,CyrillTrans;Phonemic,qʼaraca
+70-4-370-1,,70,4-370,мыкІли,мыкІли,,,,,,,,CyrillTrans;Phonemic,mɨkʼli
+70-4-371-1,,70,4-371,быркьыІна кІуне,быркьыІна кІуне,,,,,,,,CyrillTrans;Phonemic,bɨrqʼɨˤna kʼune
+70-4-372-1,,70,4-372,мыІкьпи,мыІкьпи,,,,,,,,CyrillTrans;Phonemic,mɨˤqʼpi
+70-4-374-1,,70,4-374,гов,гов,,,,,,,,CyrillTrans;Phonemic,gow
+70-4-380-1,,70,4-380,тІуб,тІуб,,,,,,,,CyrillTrans;Phonemic,tʼub
+70-4-392-1,,70,4-392,къанат,къанат,,,,,,,,CyrillTrans;Phonemic,q̄anat
+70-4-393-1,,70,4-393,кукра,кукра,,,,,,,,CyrillTrans;Phonemic,kukra
+70-4-400-1,,70,4-400,кокси,кокси,,,,,,,,CyrillTrans;Phonemic,koksi
+70-4-410-1,,70,4-410,муху,муху,,,,,,,,CyrillTrans;Phonemic,muxu
+70-4-412-1,,70,4-412,митІи,митІи,,,,,,,,CyrillTrans;Phonemic,mitʼi
+70-4-420-1,,70,4-420,хуІ,хуІ,,,,,,,,CyrillTrans;Phonemic,xuˤ
+70-4-430-1,,70,4-430,дан,дан,,,,,,,,CyrillTrans;Phonemic,dan
+70-4-440-1,,70,4-440,йикІ,йикІ,,,,,,,,CyrillTrans;Phonemic,yikʼ
+70-4-441-1,,70,4-441,оІпка,оІпка,,,,,,,,CyrillTrans;Phonemic,oˤpka
+70-4-450-1,,70,4-450,кІыпʼкІам,кІыпʼкІам,,,,,,,,CyrillTrans;Phonemic,kʼɨpʲkʼam
+70-4-451-1,,70,4-451,кІутІун,кІутІун,,,,,,,,CyrillTrans;Phonemic,kʼutʼun
+70-4-452-1,,70,4-452,зылзам,зылзам,,,,,,,,CyrillTrans;Phonemic,zɨlzam
+70-4-460-1,,70,4-460,вухун,вухун,,,,,,,,CyrillTrans;Phonemic,wuxun
+70-4-461-1,,70,4-461,ичІапат,ичІапат,,,,,,,,CyrillTrans;Phonemic,ičʼapat
+70-4-462-1,,70,4-462,акІва,акІва,,,,,,,,CyrillTrans;Phonemic,akʼʷa
+70-4-463-1,,70,4-463,буд,буд,,,,,,,,CyrillTrans;Phonemic,bud
+70-4-464-1,,70,4-464,умабы,умабы,,,,,,,,CyrillTrans;Phonemic,umabɨ
+70-4-470-1,,70,4-470,акІур,акІур,,,,,,,,CyrillTrans;Phonemic,akʼur
+70-4-490-1,,70,4-490,кьылыкьбы,кьылыкьбы,,,,,,,,CyrillTrans;Phonemic,qʼɨlɨqʼbɨ
+70-4-492-1,,70,4-492,ситир,ситир,,,,,,,,CyrillTrans;Phonemic,sitir
+70-4-510-1,,70,4-510,нафас алятас,нафас алятас,,,,,,,,CyrillTrans;Phonemic,nafas alyatas
+70-4-520-1,,70,4-520,"гІалʼбай, гьауй",гІалʼбай,,,,,,,,CyrillTrans;Phonemic,ʕalʲbay
+70-4-520-2,,70,4-520,"гІалʼбай, гьауй",гьауй,,,,,,,,CyrillTrans;Phonemic,hauy
+70-4-521-1,,70,4-521,хьытʼкІ,хьытʼкІ,,,,,,,,CyrillTrans;Phonemic,x̌ɨtʲkʼ
+70-4-530-1,,70,4-530,кІосса гьавъуй,кІосса гьавъуй,,,,,,,,CyrillTrans;Phonemic,kʼossa hawʔuy
+70-4-540-1,,70,4-540,гягьархъас,гягьархъас,,,,,,,,CyrillTrans;Phonemic,gyaharqas
+70-4-550-1,,70,4-550,шина айирхьуй,шина айирхьуй,,,,,,,,CyrillTrans;Phonemic,šina ayirx̌uy
+70-4-560-1,,70,4-560,тю,тю,,,,,,,,CyrillTrans;Phonemic,tyu
+70-4-570-1,,70,4-570,гьапяуй гъаляас,гьапяуй гъаляас,,,,,,,,CyrillTrans;Phonemic,hapyauy ɣalyaʔas
+70-4-580-1,,70,4-580,аьцайаънас,аьцайаънас,,,,,,,,CyrillTrans;Phonemic,äcayaʔnas
+70-4-590-1,,70,4-590,миз ывхыІй,миз ывхыІй,,,,,,,,CyrillTrans;Phonemic,miz ɨwxɨˤy
+70-4-591-1,,70,4-591,рихь,рихь,,,,,,,,CyrillTrans;Phonemic,rix̌
+70-4-610-1,,70,4-610,къапихьас,къапихьас,,,,,,,,CyrillTrans;Phonemic,q̄apix̌as
+70-4-612-1,,70,4-612,хурх,хурх,,,,,,,,CyrillTrans;Phonemic,xurx
+70-4-620-1,,70,4-620,някІ къаджий,някІ къаджий,,,,,,,,CyrillTrans;Phonemic,nyakʼ q̄aǯiy
+70-4-630-1,,70,4-630,оьца кьепхес,оьца кьепхес,,,,,,,,CyrillTrans;Phonemic,öca qʼepxes
+70-4-640-1,,70,4-640,хьив авгьуй,хьив авгьуй,,,,,,,,CyrillTrans;Phonemic,x̌iw awhuy
+70-4-650-1,,70,4-650,цирхь гяуй,цирхь гяуй,,,,,,,,CyrillTrans;Phonemic,cirx̌ gyauy
+70-4-660-1,,70,4-660,хыІн гяуй,хыІн гяуй,,,,,,,,CyrillTrans;Phonemic,xɨˤn gyauy
+70-4-670-1,,70,4-670,гьиъиккас,гьиъиккас,,,,,,,,CyrillTrans;Phonemic,hiʔik̄as
+70-4-680-1,,70,4-680,титрамишаъас,титрамишаъас,,,,,,,,CyrillTrans;Phonemic,titramišaʔas
+70-4-690-1,,70,4-690,айхаІрас,айхаІрас,,,,,,,,CyrillTrans;Phonemic,ayxaˤras
+70-4-710-1,,70,4-710,гьаъа,гьаъа,,,,,,,,CyrillTrans;Phonemic,haʔas
+70-4-720-1,,70,4-720,едике ыхьай,едике ыхьай,,,,,,,,CyrillTrans;Phonemic,yedike ɨx̌ay
+70-4-730-1,,70,4-730,вухьнена,вухьнена,,,,,,,,CyrillTrans;Phonemic,wux̌nena
+70-4-732-1,,70,4-732,вухьнена,вухьнена,,,,,,,,CyrillTrans;Phonemic,wux̌nena
+70-4-740-1,,70,4-740,"ешемишхьес сагъна, ыІмыр",ешемишхьес сагъна,,,,,,,,CyrillTrans;Phonemic,yešemišx̌es saɣna
+70-4-740-2,,70,4-740,"ешемишхьес сагъна, ыІмыр",ыІмыр,,,,,,,,CyrillTrans;Phonemic,ɨˤmɨr
+70-4-750-1,,70,4-750,"хъикІас, раІгьматхъа, аркІыний, хъикІуна",хъикІас,,,,,,,,CyrillTrans;Phonemic,qikʼas
+70-4-750-2,,70,4-750,"хъикІас, раІгьматхъа, аркІыний, хъикІуна",раІгьматхъа,,,,,,,,CyrillTrans;Phonemic,raˤhmatqa
+70-4-750-3,,70,4-750,"хъикІас, раІгьматхъа, аркІыний, хъикІуна",аркІыний,,,,,,,,CyrillTrans;Phonemic,arkʼɨniy
+70-4-750-4,,70,4-750,"хъикІас, раІгьматхъа, аркІыний, хъикІуна",хъикІуна,,,,,,,,CyrillTrans;Phonemic,qikʼuna
+70-4-751-1,,70,4-751,богъмишхьана,богъмишхьана,,,,,,,,CyrillTrans;Phonemic,boɣmišx̌ana
+70-4-760-1,,70,4-760,гикІас,гикІас,,,,,,,,CyrillTrans;Phonemic,gikʼas
+70-4-770-1,,70,4-770,майит,майит,,,,,,,,CyrillTrans;Phonemic,mayit
+70-4-780-1,,70,4-780,"бастураъас, къейхес",бастураъас,,,,,,,,CyrillTrans;Phonemic,basturaʔas
+70-4-780-2,,70,4-780,"бастураъас, къейхес",къейхес,,,,,,,,CyrillTrans;Phonemic,q̄eyxes
+70-4-790-1,,70,4-790,някьв,някьв,,,,,,,,CyrillTrans;Phonemic,nyaqʼw
+70-4-810-1,,70,4-810,гуджнана,гуджнана,,,,,,,,CyrillTrans;Phonemic,guǯnana
+70-4-820-1,,70,4-820,аІджизна,аІджизна,,,,,,,,CyrillTrans;Phonemic,aˤǯizna
+70-4-830-1,,70,4-830,джан,джан,,,,,,,,CyrillTrans;Phonemic,ǯan
+70-4-840-1,,70,4-840,"чІырына, чІырвалла",чІырына,,,,,,,,CyrillTrans;Phonemic,čʼɨrɨna
+70-4-840-2,,70,4-840,"чІырына, чІырвалла",чІырвалла,,,,,,,,CyrillTrans;Phonemic,čʼɨrwalla
+70-4-841-1,,70,4-841,исситма,исситма,,,,,,,,CyrillTrans;Phonemic,is̄itma
+70-4-842-1,,70,4-842,зоб,зоб,,,,,,,,CyrillTrans;Phonemic,zob
+70-4-843-1,,70,4-843,мыкІаппа,мыкІаппа,,,,,,,,CyrillTrans;Phonemic,mɨkʼap̄a
+70-4-850-1,,70,4-850,ыІхна,ыІхна,,,,,,,,CyrillTrans;Phonemic,ɨˤxna
+70-4-852-1,,70,4-852,хъирхьыпʼна,хъирхьыпʼна,,,,,,,,CyrillTrans;Phonemic,qirx̌ɨpʲna
+70-4-853-1,,70,4-853,аІптІахий,аІптІахий,,,,,,,,CyrillTrans;Phonemic,aˤptʼaxiy
+70-4-854-1,,70,4-854,эсмимии,эсмимии,,,,,,,,CyrillTrans;Phonemic,esmimiʔi
+70-4-855-1,,70,4-855,габар,габар,,,,,,,,CyrillTrans;Phonemic,gabar
+70-4-856-1,,70,4-856,кІыбыджий,кІыбыджий,,,,,,,,CyrillTrans;Phonemic,kʼɨbɨǯiy
+70-4-857-1,,70,4-857,маш,маш,,,,,,,,CyrillTrans;Phonemic,maš
+70-4-858-1,,70,4-858,"чапыгъ, кын",чапыгъ,,,,,,,,CyrillTrans;Phonemic,čapɨɣ
+70-4-858-2,,70,4-858,"чапыгъ, кын",кын,,,,,,,,CyrillTrans;Phonemic,kɨn
+70-4-860-1,,70,4-860,"маалиджу гьауй, йуккаа",маалиджу гьауй,,,,,,,,CyrillTrans;Phonemic,maʔaliǯu hauy
+70-4-860-2,,70,4-860,"маалиджу гьауй, йуккаа",йуккаа,,,,,,,,CyrillTrans;Phonemic,yuk̄aʔa
+70-4-870-1,,70,4-870,дохтур,дохтур,,,,,,,,CyrillTrans;Phonemic,doxtur
+70-4-880-1,,70,4-880,дарман,дарман,,,,,,,,CyrillTrans;Phonemic,darman
+70-4-890-1,,70,4-890,"загьаІр, авгъу",загьаІр,,,,,,,,CyrillTrans;Phonemic,zahaˤr
+70-4-890-2,,70,4-890,"загьаІр, авгъу",авгъу,,,,,,,,CyrillTrans;Phonemic,awɣu
+70-4-910-1,,70,4-910,орзулʼна,орзулʼна,,,,,,,,CyrillTrans;Phonemic,orzulʲna
+70-4-912-1,,70,4-912,тавсун наа,тавсун наа,,,,,,,,CyrillTrans;Phonemic,tawsun naʔa
+70-4-920-1,,70,4-920,амалле,амалле,,,,,,,,CyrillTrans;Phonemic,amalle
+70-4-930-1,,70,4-930,качал,качал,,,,,,,,CyrillTrans;Phonemic,kačal
+70-4-940-1,,70,4-940,какиха,какиха,,,,,,,,CyrillTrans;Phonemic,kakixa
+70-4-950-1,,70,4-950,бошшуна,бошшуна,,,,,,,,CyrillTrans;Phonemic,boš̄una
+70-4-960-1,,70,4-960,лална,лална,,,,,,,,CyrillTrans;Phonemic,lalna
+70-4-970-1,,70,4-970,быркьыІна,быркьыІна,,,,,,,,CyrillTrans;Phonemic,bɨrqʼɨˤna
+70-4-980-1,,70,4-980,къынана,къынана,,,,,,,,CyrillTrans;Phonemic,q̄ɨnana
+70-4-990-1,,70,4-990,цІелерна,цІелерна,,,,,,,,CyrillTrans;Phonemic,cʼelerna
+70-5-110-1,,70,5-110,охьанас,охьанас,,,,,,,,CyrillTrans;Phonemic,ox̌anas
+70-5-120-1,,70,5-120,"одхьуний, кык",одхьуний,,,,,,,,CyrillTrans;Phonemic,odx̌uniy
+70-5-120-2,,70,5-120,"одхьуний, кык",кык,,,,,,,,CyrillTrans;Phonemic,kɨk
+70-5-121-1,,70,5-121,хъодхьурийн,хъодхьурийн,,,,,,,,CyrillTrans;Phonemic,qodx̌uriyn
+70-5-122-1,,70,5-122,чигын,чигын,,,,,,,,CyrillTrans;Phonemic,čigɨn
+70-5-123-1,,70,5-123,гьидхьырийн,гьидхьырийн,,,,,,,,CyrillTrans;Phonemic,hidx̌ɨriyn
+70-5-124-1,,70,5-124,"гьидитхьырий, чыван",гьидитхьырий,,,,,,,,CyrillTrans;Phonemic,hiditx̌ɨriy
+70-5-124-2,,70,5-124,"гьидитхьырий, чыван",чыван,,,,,,,,CyrillTrans;Phonemic,čɨwan
+70-5-125-1,,70,5-125,хъыІчына,хъыІчына,,,,,,,,CyrillTrans;Phonemic,qɨˤčɨna
+70-5-130-1,,70,5-130,илʼогъас,илʼогъас,,,,,,,,CyrillTrans;Phonemic,ilʲoɣas
+70-5-140-1,,70,5-140,мысвалла,мысвалла,,,,,,,,CyrillTrans;Phonemic,mɨsʷalla
+70-5-141-1,,70,5-141,"мысвалла, кʼар идодхуни",мысвалла,,,,,,,,CyrillTrans;Phonemic,mɨsʷalla
+70-5-141-2,,70,5-141,"мысвалла, кʼар идодхуни",кʼар идодхуни,,,,,,,,CyrillTrans;Phonemic,kʲar idodxuni
+70-5-150-1,,70,5-150,хІинака горхан,хІинака горхан,,,,,,,,CyrillTrans;Phonemic,ħinaka gorxan
+70-5-160-1,,70,5-160,"гехъас, одгий",гехъас,,,,,,,,CyrillTrans;Phonemic,geqas
+70-5-160-2,,70,5-160,"гехъас, одгий",одгий,,,,,,,,CyrillTrans;Phonemic,odgiy
+70-5-180-1,,70,5-180,гечІес,гечІес,,,,,,,,CyrillTrans;Phonemic,gečʼes
+70-5-181-1,,70,5-181,тогах,тогах,,,,,,,,CyrillTrans;Phonemic,togax
+70-5-190-1,,70,5-190,"богъмушаъас, йаласкас",богъмушаъас,,,,,,,,CyrillTrans;Phonemic,boɣmušaʔas
+70-5-190-2,,70,5-190,"богъмушаъас, йаласкас",йаласкас,,,,,,,,CyrillTrans;Phonemic,yalaskas
+70-5-210-1,,70,5-210,хъоххьараъас,хъоххьараъас,,,,,,,,CyrillTrans;Phonemic,qoxx̌araˤas
+70-5-220-1,,70,5-220,хъохьараас,хъохьараас,,,,,,,,CyrillTrans;Phonemic,qox̌araʔas
+70-5-230-1,,70,5-230,хъеджес,хъеджес,,,,,,,,CyrillTrans;Phonemic,qeǯes
+70-5-240-1,,70,5-240,"кеджес, хъефхес къечес",кеджес,,,,,,,,CyrillTrans;Phonemic,keǯes
+70-5-240-2,,70,5-240,"кеджес, хъефхес къечес",хъефхес къечес,,,,,,,,CyrillTrans;Phonemic,qefxes q̄ečes
+70-5-250-1,,70,5-250,пешт,пешт,,,,,,,,CyrillTrans;Phonemic,pešt
+70-5-260-1,,70,5-260,"допеш, кумкʼум",допеш,,,,,,,,CyrillTrans;Phonemic,dopeš
+70-5-260-2,,70,5-260,"допеш, кумкʼум",кумкʼум,,,,,,,,CyrillTrans;Phonemic,kumkʲum
+70-5-270-1,,70,5-270,чейдан,чейдан,,,,,,,,CyrillTrans;Phonemic,čeydan
+70-5-280-1,,70,5-280,кІумкІум,кІумкІум,,,,,,,,CyrillTrans;Phonemic,kʼumkʼum
+70-5-310-1,,70,5-310,"тІепикІа, габ, джам",тІепикІа,,,,,,,,CyrillTrans;Phonemic,tʼepikʼa
+70-5-310-2,,70,5-310,"тІепикІа, габ, джам",габ,,,,,,,,CyrillTrans;Phonemic,gab
+70-5-310-3,,70,5-310,"тІепикІа, габ, джам",джам,,,,,,,,CyrillTrans;Phonemic,ǯam
+70-5-320-1,,70,5-320,"тІарийкІа, джам",тІарийкІа,,,,,,,,CyrillTrans;Phonemic,tʼariykʼa
+70-5-320-2,,70,5-320,"тІарийкІа, джам",джам,,,,,,,,CyrillTrans;Phonemic,ǯam
+70-5-330-1,,70,5-330,каса,каса,,,,,,,,CyrillTrans;Phonemic,kasa
+70-5-340-1,,70,5-340,парч,парч,,,,,,,,CyrillTrans;Phonemic,parč
+70-5-350-1,,70,5-350,курушка,курушка,,,,,,,,CyrillTrans;Phonemic,kuruška
+70-5-360-1,,70,5-360,белʼма,белʼма,,,,,,,,CyrillTrans;Phonemic,belʲma
+70-5-370-1,,70,5-370,кІукІ,кІукІ,,,,,,,,CyrillTrans;Phonemic,kʼukʼ
+70-5-380-1,,70,5-380,чІыка,чІыка,,,,,,,,CyrillTrans;Phonemic,čʼɨka
+70-5-390-1,,70,5-390,яба,яба,,,,,,,,CyrillTrans;Phonemic,yaba
+70-5-391-1,,70,5-391,калʼбатун,калʼбатун,,,,,,,,CyrillTrans;Phonemic,kalʲbatun
+70-5-410-1,,70,5-410,кар охьаныс,кар охьаныс,,,,,,,,CyrillTrans;Phonemic,kar ox̌anɨs
+70-5-420-1,,70,5-420,мичІейдин отхупи,мичІейдин отхупи,,,,,,,,CyrillTrans;Phonemic,mičʼeydin otxupi
+70-5-440-1,,70,5-440,йыкьыІгьпийн,йыкьыІгьпийн,,,,,,,,CyrillTrans;Phonemic,yɨqʼɨˤhpiyn
+70-5-450-1,,70,5-450,эхьапийн,эхьапийн,,,,,,,,CyrillTrans;Phonemic,ex̌apiyn
+70-5-460-1,,70,5-460,хъишес,хъишес,,,,,,,,CyrillTrans;Phonemic,qišes
+70-5-470-1,,70,5-470,гицІебхьас,гицІебхьас,,,,,,,,CyrillTrans;Phonemic,gicʼebx̌as
+70-5-480-1,,70,5-480,гʼокьаІс,гʼокьаІс,,,,,,,,CyrillTrans;Phonemic,gʲoqʼaˤs
+70-5-490-1,,70,5-490,апикІсаас,апикІсаас,,,,,,,,CyrillTrans;Phonemic,apikʼsaʔas
+70-5-510-1,,70,5-510,"гынест, гыпей",гынест,,,,,,,,CyrillTrans;Phonemic,gɨnest
+70-5-510-2,,70,5-510,"гынест, гыпей",гыпей,,,,,,,,CyrillTrans;Phonemic,gɨpey
+70-5-530-1,,70,5-530,хамыр,хамыр,,,,,,,,CyrillTrans;Phonemic,xamɨr
+70-5-540-1,,70,5-540,вудне,вудне,,,,,,,,CyrillTrans;Phonemic,wudne
+70-5-550-1,,70,5-550,хоІ,хоІ,,,,,,,,CyrillTrans;Phonemic,xoˤ
+70-5-560-1,,70,5-560,хурхъаъас,хурхъаъас,,,,,,,,CyrillTrans;Phonemic,xurqaʔas
+70-5-570-1,,70,5-570,йоххаІ,йоххаІ,,,,,,,,CyrillTrans;Phonemic,yox̄aˤ
+70-5-580-1,,70,5-580,дибак,дибак,,,,,,,,CyrillTrans;Phonemic,dibak
+70-5-590-1,,70,5-590,дибак,дибак,,,,,,,,CyrillTrans;Phonemic,dibak
+70-5-610-1,,70,5-610,"чуру, чура",чуру,,,,,,,,CyrillTrans;Phonemic,čuru
+70-5-610-2,,70,5-610,"чуру, чура",чура,,,,,,,,CyrillTrans;Phonemic,čura
+70-5-630-1,,70,5-630,"ингынавур, ичнавур",ингынавур,,,,,,,,CyrillTrans;Phonemic,ingɨnawur
+70-5-630-2,,70,5-630,"ингынавур, ичнавур",ичнавур,,,,,,,,CyrillTrans;Phonemic,ičnawur
+70-5-640-1,,70,5-640,йыкь,йыкь,,,,,,,,CyrillTrans;Phonemic,yɨqʼ
+70-5-650-1,,70,5-650,тараваз,тараваз,,,,,,,,CyrillTrans;Phonemic,tarawaz
+70-5-660-1,,70,5-660,лубуен,лубуен,,,,,,,,CyrillTrans;Phonemic,lubuyen
+70-5-700-1,,70,5-700,кІартІуф,кІартІуф,,,,,,,,CyrillTrans;Phonemic,kʼartʼuf
+70-5-710-1,,70,5-710,мейва,мейва,,,,,,,,CyrillTrans;Phonemic,meywa
+70-5-712-1,,70,5-712,тІуг,тІуг,,,,,,,,CyrillTrans;Phonemic,tʼug
+70-5-750-1,,70,5-750,инжир,инжир,,,,,,,,CyrillTrans;Phonemic,inžir
+70-5-760-1,,70,5-760,тІумулʼ,тІумулʼ,,,,,,,,CyrillTrans;Phonemic,tʼumulʲ
+70-5-770-1,,70,5-770,хек,хек,,,,,,,,CyrillTrans;Phonemic,xek
+70-5-780-1,,70,5-780,дзайтун,дзайтун,,,,,,,,CyrillTrans;Phonemic,ʒaytun
+70-5-790-1,,70,5-790,зетий,зетий,,,,,,,,CyrillTrans;Phonemic,zetiy
+70-5-791-1,,70,5-791,маъа,маъа,,,,,,,,CyrillTrans;Phonemic,maʔa
+70-5-810-1,,70,5-810,кьев,кьев,,,,,,,,CyrillTrans;Phonemic,qʼew
+70-5-820-1,,70,5-820,иссиот,иссиот,,,,,,,,CyrillTrans;Phonemic,is̄iot
+70-5-821-1,,70,5-821,иссиот,иссиот,,,,,,,,CyrillTrans;Phonemic,is̄iot
+70-5-840-1,,70,5-840,итв,итв,,,,,,,,CyrillTrans;Phonemic,itʷ
+70-5-850-1,,70,5-850,шакар,шакар,,,,,,,,CyrillTrans;Phonemic,šakar
+70-5-860-1,,70,5-860,няк,няк,,,,,,,,CyrillTrans;Phonemic,nyak
+70-5-870-1,,70,5-870,гяазас,гяазас,,,,,,,,CyrillTrans;Phonemic,gyaʔazas
+70-5-880-1,,70,5-880,ниссе,ниссе,,,,,,,,CyrillTrans;Phonemic,nis̄e
+70-5-890-1,,70,5-890,хьыналий,хьыналий,,,,,,,,CyrillTrans;Phonemic,x̌ɨnaliy
+70-5-900-1,,70,5-900,хьян,хьян,,,,,,,,CyrillTrans;Phonemic,x̌yan
+70-5-910-1,,70,5-910,итв,итв,,,,,,,,CyrillTrans;Phonemic,itʷ
+70-5-920-1,,70,5-920,чахыр,чахыр,,,,,,,,CyrillTrans;Phonemic,čaxɨr
+70-5-930-1,,70,5-930,пива,пива,,,,,,,,CyrillTrans;Phonemic,piwa
+70-5-940-1,,70,5-940,буза,буза,,,,,,,,CyrillTrans;Phonemic,buza
+70-5-970-1,,70,5-970,кьукь,кьукь,,,,,,,,CyrillTrans;Phonemic,qʼuqʼ
+70-5-971-1,,70,5-971,къыІбын,къыІбын,,,,,,,,CyrillTrans;Phonemic,q̄ɨˤbɨn
+70-6-110-1,,70,6-110,апяъас,апяъас,,,,,,,,CyrillTrans;Phonemic,apyaʔas
+70-6-120-1,,70,6-120,тулбы,тулбы,,,,,,,,CyrillTrans;Phonemic,tulbɨ
+70-6-130-1,,70,6-130,карбы иІхъапа,карбы иІхъапа,,,,,,,,CyrillTrans;Phonemic,karbɨ iˤqapa
+70-6-210-1,,70,6-210,"шал, парче",шал,,,,,,,,CyrillTrans;Phonemic,šal
+70-6-210-2,,70,6-210,"шал, парче",парче,,,,,,,,CyrillTrans;Phonemic,parče
+70-6-220-1,,70,6-220,хьа,хьа,,,,,,,,CyrillTrans;Phonemic,x̌a
+70-6-230-1,,70,6-230,ганабад парче,ганабад парче,,,,,,,,CyrillTrans;Phonemic,ganabad parče
+70-6-240-1,,70,6-240,банбак,банбак,,,,,,,,CyrillTrans;Phonemic,banbak
+70-6-250-1,,70,6-250,ипак,ипак,,,,,,,,CyrillTrans;Phonemic,ipak
+70-6-270-1,,70,6-270,кеге,кеге,,,,,,,,CyrillTrans;Phonemic,kege
+70-6-280-1,,70,6-280,панка,панка,,,,,,,,CyrillTrans;Phonemic,panka
+70-6-290-1,,70,6-290,панка,панка,,,,,,,,CyrillTrans;Phonemic,panka
+70-6-310-1,,70,6-310,илеттас,илеттас,,,,,,,,CyrillTrans;Phonemic,ilet̄as
+70-6-320-1,,70,6-320,тІыбычІ,тІыбычІ,,,,,,,,CyrillTrans;Phonemic,tʼɨbɨčʼ
+70-6-330-1,,70,6-330,члетас,члетас,,,,,,,,CyrillTrans;Phonemic,čletas
+70-6-340-1,,70,6-340,валыг и мыкье,валыг и мыкье,,,,,,,,CyrillTrans;Phonemic,walɨg i mɨqʼe
+70-6-350-1,,70,6-350,ихьвас,ихьвас,,,,,,,,CyrillTrans;Phonemic,ix̌ʷas
+70-6-360-1,,70,6-360,вейба,вейба,,,,,,,,CyrillTrans;Phonemic,weyba
+70-6-370-1,,70,6-370,раб,раб,,,,,,,,CyrillTrans;Phonemic,rab
+70-6-380-1,,70,6-380,сап,сап,,,,,,,,CyrillTrans;Phonemic,sap
+70-6-390-1,,70,6-390,ранг,ранг,,,,,,,,CyrillTrans;Phonemic,rang
+70-6-410-1,,70,6-410,плащ,плащ,,,,,,,,CyrillTrans;Phonemic,plaš̄
+70-6-420-1,,70,6-420,гурт,гурт,,,,,,,,CyrillTrans;Phonemic,gurt
+70-6-430-1,,70,6-430,пІаптІум,пІаптІум,,,,,,,,CyrillTrans;Phonemic,pʼaptʼum
+70-6-440-1,,70,6-440,гурт,гурт,,,,,,,,CyrillTrans;Phonemic,gurt
+70-6-450-1,,70,6-450,хоІв,хоІв,,,,,,,,CyrillTrans;Phonemic,xoˤw
+70-6-460-1,,70,6-460,йубка тарт,йубка тарт,,,,,,,,CyrillTrans;Phonemic,yubka tart
+70-6-461-1,,70,6-461,йубка тарт,йубка тарт,,,,,,,,CyrillTrans;Phonemic,yubka tart
+70-6-480-1,,70,6-480,"бада, шалвар",бада,,,,,,,,CyrillTrans;Phonemic,bada
+70-6-480-2,,70,6-480,"бада, шалвар",шалвар,,,,,,,,CyrillTrans;Phonemic,šalwar
+70-6-490-1,,70,6-490,турсыбы,турсыбы,,,,,,,,CyrillTrans;Phonemic,tursɨbɨ
+70-6-510-1,,70,6-510,къелилим,къелилим,,,,,,,,CyrillTrans;Phonemic,q̄elilim
+70-6-520-1,,70,6-520,лавгунар,лавгунар,,,,,,,,CyrillTrans;Phonemic,lawgunar
+70-6-540-1,,70,6-540,пинычий,пинычий,,,,,,,,CyrillTrans;Phonemic,pinɨčiy
+70-6-550-1,,70,6-550,шлйапа,шлйапа,,,,,,,,CyrillTrans;Phonemic,šlyapa
+70-6-570-1,,70,6-570,чува,чува,,,,,,,,CyrillTrans;Phonemic,čuwa
+70-6-580-1,,70,6-580,хьахьапей,хьахьапей,,,,,,,,CyrillTrans;Phonemic,x̌ax̌apey
+70-6-590-1,,70,6-590,дувагъ,дувагъ,,,,,,,,CyrillTrans;Phonemic,duwaɣ
+70-6-610-1,,70,6-610,джиб,джиб,,,,,,,,CyrillTrans;Phonemic,ǯib
+70-6-620-1,,70,6-620,кІыч,кІыч,,,,,,,,CyrillTrans;Phonemic,kʼɨč
+70-6-630-1,,70,6-630,санджах,санджах,,,,,,,,CyrillTrans;Phonemic,sanǯax
+70-6-710-1,,70,6-710,накьыш,накьыш,,,,,,,,CyrillTrans;Phonemic,naqʼɨš
+70-6-720-1,,70,6-720,гыранна кае,гыранна кае,,,,,,,,CyrillTrans;Phonemic,gɨranna kaye
+70-6-730-1,,70,6-730,тІуджва,тІуджва,,,,,,,,CyrillTrans;Phonemic,tʼuǯʷa
+70-6-740-1,,70,6-740,лехха,лехха,,,,,,,,CyrillTrans;Phonemic,lex̄a
+70-6-750-1,,70,6-750,экебы,экебы,,,,,,,,CyrillTrans;Phonemic,ekebɨ
+70-6-760-1,,70,6-760,эке,эке,,,,,,,,CyrillTrans;Phonemic,eke
+70-6-770-1,,70,6-770,тене,тене,,,,,,,,CyrillTrans;Phonemic,tene
+70-6-780-1,,70,6-780,катар,катар,,,,,,,,CyrillTrans;Phonemic,katar
+70-6-810-1,,70,6-810,хъушена ялыгъ,хъушена ялыгъ,,,,,,,,CyrillTrans;Phonemic,qušena yalɨɣ
+70-6-820-1,,70,6-820,десмал,десмал,,,,,,,,CyrillTrans;Phonemic,desmal
+70-6-910-1,,70,6-910,аІгъа,аІгъа,,,,,,,,CyrillTrans;Phonemic,aˤɣa
+70-6-920-1,,70,6-920,агъаІ,агъаІ,,,,,,,,CyrillTrans;Phonemic,aɣaˤ
+70-6-921-1,,70,6-921,чалгы,чалгы,,,,,,,,CyrillTrans;Phonemic,čalgɨ
+70-6-930-1,,70,6-930,котасын чина,котасын чина,,,,,,,,CyrillTrans;Phonemic,kotasɨn čina
+70-6-940-1,,70,6-940,мазʼ,мазʼ,,,,,,,,CyrillTrans;Phonemic,mazʲ
+70-6-950-1,,70,6-950,сапып,сапып,,,,,,,,CyrillTrans;Phonemic,sapɨp
+70-6-960-1,,70,6-960,наххварий,наххварий,,,,,,,,CyrillTrans;Phonemic,nax̄ʷariy
+70-7-110-1,,70,7-110,ешемишхьес,ешемишхьес,,,,,,,,CyrillTrans;Phonemic,yešemišx̌es
+70-7-120-1,,70,7-120,хав,хав,,,,,,,,CyrillTrans;Phonemic,xaw
+70-7-130-1,,70,7-130,дега,дега,,,,,,,,CyrillTrans;Phonemic,dega
+70-7-131-1,,70,7-131,хав,хав,,,,,,,,CyrillTrans;Phonemic,xaw
+70-7-140-1,,70,7-140,чадыр,чадыр,,,,,,,,CyrillTrans;Phonemic,čadɨr
+70-7-150-1,,70,7-150,"гьайат, маьхІли",гьайат,,,,,,,,CyrillTrans;Phonemic,hayat
+70-7-150-2,,70,7-150,"гьайат, маьхІли",маьхІли,,,,,,,,CyrillTrans;Phonemic,mäħli
+70-7-160-1,,70,7-160,утагъ,утагъ,,,,,,,,CyrillTrans;Phonemic,utaɣ
+70-7-170-1,,70,7-170,кухна дега,кухна дега,,,,,,,,CyrillTrans;Phonemic,kuxna dega
+70-7-180-1,,70,7-180,гим,гим,,,,,,,,CyrillTrans;Phonemic,gim
+70-7-210-1,,70,7-210,гозʼ,гозʼ,,,,,,,,CyrillTrans;Phonemic,gozʲ
+70-7-220-1,,70,7-220,"акка, дарваза",акка,,,,,,,,CyrillTrans;Phonemic,ak̄a
+70-7-220-2,,70,7-220,"акка, дарваза",дарваза,,,,,,,,CyrillTrans;Phonemic,darwaza
+70-7-221-1,,70,7-221,черчева,черчева,,,,,,,,CyrillTrans;Phonemic,čerčewa
+70-7-230-1,,70,7-230,кукпак,кукпак,,,,,,,,CyrillTrans;Phonemic,kukpak
+70-7-231-1,,70,7-231,рыза,рыза,,,,,,,,CyrillTrans;Phonemic,rɨza
+70-7-240-1,,70,7-240,мыкІей,мыкІей,,,,,,,,CyrillTrans;Phonemic,mɨkʼey
+70-7-250-1,,70,7-250,къулʼ,къулʼ,,,,,,,,CyrillTrans;Phonemic,q̄ulʲ
+70-7-260-1,,70,7-260,джил,джил,,,,,,,,CyrillTrans;Phonemic,ǯil
+70-7-270-1,,70,7-270,баруг,баруг,,,,,,,,CyrillTrans;Phonemic,barug
+70-7-310-1,,70,7-310,бухара,бухара,,,,,,,,CyrillTrans;Phonemic,buxara
+70-7-320-1,,70,7-320,бол,бол,,,,,,,,CyrillTrans;Phonemic,bol
+70-7-330-1,,70,7-330,бухарайн гал,бухарайн гал,,,,,,,,CyrillTrans;Phonemic,buxarayn gal
+70-7-370-1,,70,7-370,мыгыр,мыгыр,,,,,,,,CyrillTrans;Phonemic,mɨgɨr
+70-7-420-1,,70,7-420,"тахт, крават",тахт,,,,,,,,CyrillTrans;Phonemic,taxt
+70-7-420-2,,70,7-420,"тахт, крават",крават,,,,,,,,CyrillTrans;Phonemic,krawat
+70-7-421-1,,70,7-421,къуленик,къуленик,,,,,,,,CyrillTrans;Phonemic,q̄ulenik
+70-7-422-1,,70,7-422,йоргъан,йоргъан,,,,,,,,CyrillTrans;Phonemic,yorɣan
+70-7-430-1,,70,7-430,стул,стул,,,,,,,,CyrillTrans;Phonemic,stul
+70-7-440-1,,70,7-440,курси,курси,,,,,,,,CyrillTrans;Phonemic,kursi
+70-7-450-1,,70,7-450,цырцырай,цырцырай,,,,,,,,CyrillTrans;Phonemic,cɨrcɨray
+70-7-460-1,,70,7-460,гардж,гардж,,,,,,,,CyrillTrans;Phonemic,garǯ
+70-7-470-1,,70,7-470,тахче,тахче,,,,,,,,CyrillTrans;Phonemic,taxče
+70-7-480-1,,70,7-480,цаІв,цаІв,,,,,,,,CyrillTrans;Phonemic,caˤw
+70-7-510-1,,70,7-510,даха,даха,,,,,,,,CyrillTrans;Phonemic,daxa
+70-7-520-1,,70,7-520,даха,даха,,,,,,,,CyrillTrans;Phonemic,daxa
+70-7-530-1,,70,7-530,"къодгъарас, чуй",къодгъарас,,,,,,,,CyrillTrans;Phonemic,q̄odɣaras
+70-7-530-2,,70,7-530,"къодгъарас, чуй",чуй,,,,,,,,CyrillTrans;Phonemic,čuy
+70-7-540-1,,70,7-540,"кьатІ, алахьар",кьатІ,,,,,,,,CyrillTrans;Phonemic,qʼatʼ
+70-7-540-2,,70,7-540,"кьатІ, алахьар",алахьар,,,,,,,,CyrillTrans;Phonemic,alax̌ar
+70-7-550-1,,70,7-550,алахьвар,алахьвар,,,,,,,,CyrillTrans;Phonemic,alax̌ʷar
+70-7-560-1,,70,7-560,тир,тир,,,,,,,,CyrillTrans;Phonemic,tir
+70-7-570-1,,70,7-570,кьува,кьува,,,,,,,,CyrillTrans;Phonemic,qʼuwa
+70-7-580-1,,70,7-580,тагъ,тагъ,,,,,,,,CyrillTrans;Phonemic,taɣ
+70-7-610-1,,70,7-610,устад,устад,,,,,,,,CyrillTrans;Phonemic,ustad
+70-7-620-1,,70,7-620,карпич,карпич,,,,,,,,CyrillTrans;Phonemic,karpič
+70-7-630-1,,70,7-630,кирадж,кирадж,,,,,,,,CyrillTrans;Phonemic,kiraǯ
+70-7-640-1,,70,7-640,хав,хав,,,,,,,,CyrillTrans;Phonemic,xaw
+70-8-110-1,,70,8-110,"бакІиставий, фермер",бакІиставий,,,,,,,,CyrillTrans;Phonemic,bakʼistawiy
+70-8-110-2,,70,8-110,"бакІиставий, фермер",фермер,,,,,,,,CyrillTrans;Phonemic,fermer
+70-8-120-1,,70,8-120,нек,нек,,,,,,,,CyrillTrans;Phonemic,nek
+70-8-130-1,,70,8-130,багъ,багъ,,,,,,,,CyrillTrans;Phonemic,baɣ
+70-8-150-1,,70,8-150,шумпамишаъуй,шумпамишаъуй,,,,,,,,CyrillTrans;Phonemic,šumpamišaʔuy
+70-8-160-1,,70,8-160,"джабыр, чапар",джабыр,,,,,,,,CyrillTrans;Phonemic,ǯabɨr
+70-8-160-2,,70,8-160,"джабыр, чапар",чапар,,,,,,,,CyrillTrans;Phonemic,čapar
+70-8-170-1,,70,8-170,арх,арх,,,,,,,,CyrillTrans;Phonemic,arx
+70-8-210-1,,70,8-210,эзас,эзас,,,,,,,,CyrillTrans;Phonemic,ezas
+70-8-212-1,,70,8-212,гор,гор,,,,,,,,CyrillTrans;Phonemic,gor
+70-8-220-1,,70,8-220,гьикварас,гьикварас,,,,,,,,CyrillTrans;Phonemic,hikʷaras
+70-8-230-1,,70,8-230,куракʼ,куракʼ,,,,,,,,CyrillTrans;Phonemic,kurakʲ
+70-8-240-1,,70,8-240,"куракʼ, хакандаз",куракʼ,,,,,,,,CyrillTrans;Phonemic,kurakʲ
+70-8-240-2,,70,8-240,"куракʼ, хакандаз",хакандаз,,,,,,,,CyrillTrans;Phonemic,xakandaz
+70-8-250-1,,70,8-250,кʼлынг,кʼлынг,,,,,,,,CyrillTrans;Phonemic,kʲlɨng
+70-8-260-1,,70,8-260,яба,яба,,,,,,,,CyrillTrans;Phonemic,yaba
+70-8-270-1,,70,8-270,чІигъаІр,чІигъаІр,,,,,,,,CyrillTrans;Phonemic,čʼiɣaˤr
+70-8-310-1,,70,8-310,эзас,эзас,,,,,,,,CyrillTrans;Phonemic,ezas
+70-8-311-1,,70,8-311,тохум,тохум,,,,,,,,CyrillTrans;Phonemic,toxum
+70-8-320-1,,70,8-320,хъийшалас,хъийшалас,,,,,,,,CyrillTrans;Phonemic,qiyšalas
+70-8-330-1,,70,8-330,"чин, чалгы",чин,,,,,,,,CyrillTrans;Phonemic,čin
+70-8-330-2,,70,8-330,"чин, чалгы",чалгы,,,,,,,,CyrillTrans;Phonemic,čalgɨ
+70-8-340-1,,70,8-340,вара аъъес,вара аъъес,,,,,,,,CyrillTrans;Phonemic,wara aˤʔes
+70-8-350-1,,70,8-350,атта,атта,,,,,,,,CyrillTrans;Phonemic,at̄a
+70-8-410-1,,70,8-410,экʼын,экʼын,,,,,,,,CyrillTrans;Phonemic,ekʲɨn
+70-8-420-1,,70,8-420,тахылʼ,тахылʼ,,,,,,,,CyrillTrans;Phonemic,taxɨlʲ
+70-8-430-1,,70,8-430,сук,сук,,,,,,,,CyrillTrans;Phonemic,suk
+70-8-440-1,,70,8-440,хьытІа,хьытІа,,,,,,,,CyrillTrans;Phonemic,x̌ɨtʼa
+70-8-450-1,,70,8-450,сикІылʼ,сикІылʼ,,,,,,,,CyrillTrans;Phonemic,sikʼɨlʲ
+70-8-460-1,,70,8-460,сикІылʼ,сикІылʼ,,,,,,,,CyrillTrans;Phonemic,sikʼɨlʲ
+70-8-470-1,,70,8-470,къаргъыдалий,къаргъыдалий,,,,,,,,CyrillTrans;Phonemic,q̄arɣɨdaliy
+70-8-480-1,,70,8-480,биринз,биринз,,,,,,,,CyrillTrans;Phonemic,birinz
+70-8-510-1,,70,8-510,окІ,окІ,,,,,,,,CyrillTrans;Phonemic,okʼ
+70-8-520-1,,70,8-520,алаф,алаф,,,,,,,,CyrillTrans;Phonemic,alaf
+70-8-530-1,,70,8-530,окʼ,окʼ,,,,,,,,CyrillTrans;Phonemic,okʲ
+70-8-531-1,,70,8-531,аляляъас,аляляъас,,,,,,,,CyrillTrans;Phonemic,alyalyaʔas
+70-8-540-1,,70,8-540,кок,кок,,,,,,,,CyrillTrans;Phonemic,kok
+70-8-550-1,,70,8-550,бытагъ,бытагъ,,,,,,,,CyrillTrans;Phonemic,bɨtaɣ
+70-8-560-1,,70,8-560,ярпагъ,ярпагъ,,,,,,,,CyrillTrans;Phonemic,yarpaɣ
+70-8-570-1,,70,8-570,тІетІ,тІетІ,,,,,,,,CyrillTrans;Phonemic,tʼetʼ
+70-8-600-1,,70,8-600,йив,йив,,,,,,,,CyrillTrans;Phonemic,yiw
+70-8-610-1,,70,8-610,мухъ,мухъ,,,,,,,,CyrillTrans;Phonemic,muq
+70-8-620-1,,70,8-620,цІепелʼ,цІепелʼ,,,,,,,,CyrillTrans;Phonemic,cʼepelʲ
+70-8-630-1,,70,8-630,чилʼ,чилʼ,,,,,,,,CyrillTrans;Phonemic,čilʲ
+70-8-640-1,,70,8-640,"кІунях, кьонех",кІунях,,,,,,,,CyrillTrans;Phonemic,kʼunyax
+70-8-640-2,,70,8-640,"кІунях, кьонех",кьонех,,,,,,,,CyrillTrans;Phonemic,qʼonex
+70-8-650-1,,70,8-650,ел,ел,,,,,,,,CyrillTrans;Phonemic,yel
+70-8-660-1,,70,8-660,муІхъ,муІхъ,,,,,,,,CyrillTrans;Phonemic,muˤq
+70-8-670-1,,70,8-670,тІумылен тагъ,тІумылен тагъ,,,,,,,,CyrillTrans;Phonemic,tʼumɨlen taɣ
+70-8-680-1,,70,8-680,тютюн,тютюн,,,,,,,,CyrillTrans;Phonemic,tyutyun
+70-8-690-1,,70,8-690,кума,кума,,,,,,,,CyrillTrans;Phonemic,kuma
+70-8-691-1,,70,8-691,калʼйан,калʼйан,,,,,,,,CyrillTrans;Phonemic,kalʲyan
+70-8-720-1,,70,8-720,диблема,диблема,,,,,,,,CyrillTrans;Phonemic,diblema
+70-8-730-1,,70,8-730,гявда,гявда,,,,,,,,CyrillTrans;Phonemic,gyawda
+70-8-740-1,,70,8-740,аІче,аІче,,,,,,,,CyrillTrans;Phonemic,aˤče
+70-8-750-1,,70,8-750,кʼапых,кʼапых,,,,,,,,CyrillTrans;Phonemic,kʲapɨx
+70-8-760-1,,70,8-760,шира,шира,,,,,,,,CyrillTrans;Phonemic,šira
+70-8-810-1,,70,8-810,палʼма,палʼма,,,,,,,,CyrillTrans;Phonemic,palʲma
+70-8-820-1,,70,8-820,кокос,кокос,,,,,,,,CyrillTrans;Phonemic,kokos
+70-8-830-1,,70,8-830,цитрус,цитрус,,,,,,,,CyrillTrans;Phonemic,citrus
+70-8-840-1,,70,8-840,банана йив,банана йив,,,,,,,,CyrillTrans;Phonemic,banana yiw
+70-8-850-1,,70,8-850,инжилʼа йив,инжилʼа йив,,,,,,,,CyrillTrans;Phonemic,inžilʲa yiw
+70-8-910-1,,70,8-910,батат,батат,,,,,,,,CyrillTrans;Phonemic,batat
+70-8-930-1,,70,8-930,кьабах,кьабах,,,,,,,,CyrillTrans;Phonemic,qʼabax
+70-8-931-1,,70,8-931,кьабах,кьабах,,,,,,,,CyrillTrans;Phonemic,qʼabax
+70-8-940-1,,70,8-940,нацІ,нацІ,,,,,,,,CyrillTrans;Phonemic,nacʼ
+70-8-941-1,,70,8-941,кьамыш,кьамыш,,,,,,,,CyrillTrans;Phonemic,qʼamɨš
+70-8-970-1,,70,8-970,магъа,магъа,,,,,,,,CyrillTrans;Phonemic,maɣa
+70-8-980-1,,70,8-980,"коболяк, цык-цык",коболяк,,,,,,,,CyrillTrans;Phonemic,kobolyak
+70-8-980-2,,70,8-980,"коболяк, цык-цык",цык-цык,,,,,,,,CyrillTrans;Phonemic,cɨk-cɨk
+70-9-110-1,,70,9-110,гьаъас,гьаъас,,,,,,,,CyrillTrans;Phonemic,haʔas
+70-9-120-1,,70,9-120,иш,иш,,,,,,,,CyrillTrans;Phonemic,iš
+70-9-140-1,,70,9-140,кІечІанаас,кІечІанаас,,,,,,,,CyrillTrans;Phonemic,kʼečʼanaʔas
+70-9-150-1,,70,9-150,саас,саас,,,,,,,,CyrillTrans;Phonemic,saʔas
+70-9-160-1,,70,9-160,айтІалас,айтІалас,,,,,,,,CyrillTrans;Phonemic,aytʼalas
+70-9-161-1,,70,9-161,агмишаас,агмишаас,,,,,,,,CyrillTrans;Phonemic,agmišaʔas
+70-9-180-1,,70,9-180,зинджир,зинджир,,,,,,,,CyrillTrans;Phonemic,zinǯir
+70-9-190-1,,70,9-190,туІ,туІ,,,,,,,,CyrillTrans;Phonemic,tuˤ
+70-9-192-1,,70,9-192,витІелʼ,витІелʼ,,,,,,,,CyrillTrans;Phonemic,witʼelʲ
+70-9-210-1,,70,9-210,"эхаІс, ыхъаІс",эхаІс,,,,,,,,CyrillTrans;Phonemic,exaˤs
+70-9-210-2,,70,9-210,"эхаІс, ыхъаІс",ыхъаІс,,,,,,,,CyrillTrans;Phonemic,ɨqaˤs
+70-9-211-1,,70,9-211,гетас,гетас,,,,,,,,CyrillTrans;Phonemic,getas
+70-9-220-1,,70,9-220,къацІакІванос,къацІакІванос,,,,,,,,CyrillTrans;Phonemic,q̄acʼakʼʷanos
+70-9-221-1,,70,9-221,кІыл хъаъас,кІыл хъаъас,,,,,,,,CyrillTrans;Phonemic,kʼɨl qaʔas
+70-9-222-1,,70,9-222,хъахас,хъахас,,,,,,,,CyrillTrans;Phonemic,qaxas
+70-9-223-1,,70,9-223,этаас,этаас,,,,,,,,CyrillTrans;Phonemic,etaʔas
+70-9-230-1,,70,9-230,чІика,чІика,,,,,,,,CyrillTrans;Phonemic,čʼika
+70-9-240-1,,70,9-240,адессе,адессе,,,,,,,,CyrillTrans;Phonemic,ades̄e
+70-9-250-1,,70,9-250,якІв,якІв,,,,,,,,CyrillTrans;Phonemic,yakʼʷ
+70-9-251-1,,70,9-251,якІв,якІв,,,,,,,,CyrillTrans;Phonemic,yakʼʷ
+70-9-260-1,,70,9-260,гьакьвараас,гьакьвараас,,,,,,,,CyrillTrans;Phonemic,haqʼwaraʔas
+70-9-261-1,,70,9-261,гьатІкьурийн,гьатІкьурийн,,,,,,,,CyrillTrans;Phonemic,hatʼqʼuriyn
+70-9-270-1,,70,9-270,хъахас,хъахас,,,,,,,,CyrillTrans;Phonemic,qaxas
+70-9-280-1,,70,9-280,хъодас,хъодас,,,,,,,,CyrillTrans;Phonemic,qodas
+70-9-290-1,,70,9-290,хъишес,хъишес,,,,,,,,CyrillTrans;Phonemic,qišes
+70-9-310-1,,70,9-310,гьакалаас,гьакалаас,,,,,,,,CyrillTrans;Phonemic,hakalaʔas
+70-9-320-1,,70,9-320,цІыцІаас,цІыцІаас,,,,,,,,CyrillTrans;Phonemic,cʼɨcʼaʔas
+70-9-330-1,,70,9-330,цІыцІаас,цІыцІаас,,,,,,,,CyrillTrans;Phonemic,cʼɨcʼaʔas
+70-9-340-1,,70,9-340,"сӣмишаас, сӣмишхьес",сӣмишаас,,,,,,,,CyrillTrans;Phonemic,sīmišaʔas
+70-9-340-2,,70,9-340,"сӣмишаас, сӣмишхьес",сӣмишхьес,,,,,,,,CyrillTrans;Phonemic,sīmišx̌es
+70-9-341-1,,70,9-341,гиваханас,гиваханас,,,,,,,,CyrillTrans;Phonemic,giwaxanas
+70-9-342-1,,70,9-342,гьочІанас,гьочІанас,,,,,,,,CyrillTrans;Phonemic,hočʼanas
+70-9-343-1,,70,9-343,къичІокварас,къичІокварас,,,,,,,,CyrillTrans;Phonemic,q̄ičʼokʷaras
+70-9-350-1,,70,9-350,кІяъас,кІяъас,,,,,,,,CyrillTrans;Phonemic,kʼyaʔas
+70-9-360-1,,70,9-360,гьогъалас,гьогъалас,,,,,,,,CyrillTrans;Phonemic,hoɣalas
+70-9-370-1,,70,9-370,хъатхьас,хъатхьас,,,,,,,,CyrillTrans;Phonemic,qatx̌as
+70-9-380-1,,70,9-380,хьырис,хьырис,,,,,,,,CyrillTrans;Phonemic,x̌ɨris
+70-9-422-1,,70,9-422,ыІгьтадж,ыІгьтадж,,,,,,,,CyrillTrans;Phonemic,ɨˤhtaǯ
+70-9-430-1,,70,9-430,устад,устад,,,,,,,,CyrillTrans;Phonemic,ustad
+70-9-440-1,,70,9-440,аляъас,аляъас,,,,,,,,CyrillTrans;Phonemic,alyaʔas
+70-9-460-1,,70,9-460,"баІдже, къачІ",баІдже,,,,,,,,CyrillTrans;Phonemic,baˤǯe
+70-9-460-2,,70,9-460,"баІдже, къачІ",къачІ,,,,,,,,CyrillTrans;Phonemic,q̄ačʼ
+70-9-461-1,,70,9-461,отІалгьауй,отІалгьауй,,,,,,,,CyrillTrans;Phonemic,otʼalhauy
+70-9-480-1,,70,9-480,айха,айха,,,,,,,,CyrillTrans;Phonemic,ayxa
+70-9-490-1,,70,9-490,кІаш,кІаш,,,,,,,,CyrillTrans;Phonemic,kʼaš
+70-9-500-1,,70,9-500,къадах,къадах,,,,,,,,CyrillTrans;Phonemic,q̄adax
+70-9-560-1,,70,9-560,кІлей,кІлей,,,,,,,,CyrillTrans;Phonemic,kʼley
+70-9-600-1,,70,9-600,демирчий,демирчий,,,,,,,,CyrillTrans;Phonemic,demirčiy
+70-9-610-1,,70,9-610,кІырахана,кІырахана,,,,,,,,CyrillTrans;Phonemic,kʼɨraxana
+70-9-620-1,,70,9-620,зиндан,зиндан,,,,,,,,CyrillTrans;Phonemic,zindan
+70-9-630-1,,70,9-630,кІалыб гьачІиеъаc,кІалыб гьачІиеъаc,,,,,,,,CyrillTrans;Phonemic,kalɨb hačʼiyeʔas
+70-9-640-1,,70,9-640,кІынягъа,кІынягъа,,,,,,,,CyrillTrans;Phonemic,kʼɨnyaɣa
+70-9-650-1,,70,9-650,нукІра,нукІра,,,,,,,,CyrillTrans;Phonemic,nukʼra
+70-9-660-1,,70,9-660,ез,ез,,,,,,,,CyrillTrans;Phonemic,yez
+70-9-670-1,,70,9-670,"йува, йыва",йува,,,,,,,,CyrillTrans;Phonemic,yuwa
+70-9-670-2,,70,9-670,"йува, йыва",йыва,,,,,,,,CyrillTrans;Phonemic,yɨwa
+70-9-680-1,,70,9-680,къургъушин,къургъушин,,,,,,,,CyrillTrans;Phonemic,q̄urɣušin
+70-9-690-1,,70,9-690,дамар,дамар,,,,,,,,CyrillTrans;Phonemic,damar
+70-9-710-1,,70,9-710,устад,устад,,,,,,,,CyrillTrans;Phonemic,ustad
+70-9-720-1,,70,9-720,кІалыб гьачІиеъаc,кІалыб гьачІиеъаc,,,,,,,,CyrillTrans;Phonemic,kalɨb hačʼiyeʔas
+70-9-730-1,,70,9-730,"кІатап, джулон",кІатап,,,,,,,,CyrillTrans;Phonemic,kʼatap
+70-9-730-2,,70,9-730,"кІатап, джулон",джулон,,,,,,,,CyrillTrans;Phonemic,ǯulon
+70-9-740-1,,70,9-740,аІйне,аІйне,,,,,,,,CyrillTrans;Phonemic,aˤyne
+70-9-750-1,,70,9-750,хъехас,хъехас,,,,,,,,CyrillTrans;Phonemic,qexas
+70-9-760-1,,70,9-760,тІанкІий,тІанкІий,,,,,,,,CyrillTrans;Phonemic,tʼankʼiy
+70-9-770-1,,70,9-770,джеджим,джеджим,,,,,,,,CyrillTrans;Phonemic,ǯeǯim
+70-9-771-1,,70,9-771,габа,габа,,,,,,,,CyrillTrans;Phonemic,gaba
+70-9-780-1,,70,9-780,сумка,сумка,,,,,,,,CyrillTrans;Phonemic,sumka
+70-9-790-1,,70,9-790,"мыц, пырпырай",мыц,,,,,,,,CyrillTrans;Phonemic,mɨc
+70-9-790-2,,70,9-790,"мыц, пырпырай",пырпырай,,,,,,,,CyrillTrans;Phonemic,pɨrpɨray
+70-9-791-1,,70,9-791,мыц гьаъас,мыц гьаъас,,,,,,,,CyrillTrans;Phonemic,mɨc haʔas
+70-9-810-1,,70,9-810,гатхас,гатхас,,,,,,,,CyrillTrans;Phonemic,gatxas
+70-9-820-1,,70,9-820,скульптор,скульптор,,,,,,,,CyrillTrans;Phonemic,skulʲptor
+70-9-830-1,,70,9-830,хыІс,хыІс,,,,,,,,CyrillTrans;Phonemic,xɨˤs
+70-9-880-1,,70,9-880,ранг,ранг,,,,,,,,CyrillTrans;Phonemic,rang
+70-9-890-1,,70,9-890,цІыцІаъас,цІыцІаъас,,,,,,,,CyrillTrans;Phonemic,cʼɨcʼaʔas
+70-10-110-1,,70,10-110,икьарас,икьарас,,,,,,,,CyrillTrans;Phonemic,iqʼaras
+70-10-120-1,,70,10-120,акикІалас,акикІалас,,,,,,,,CyrillTrans;Phonemic,akikʼalas
+70-10-130-1,,70,10-130,аликІарас,аликІарас,,,,,,,,CyrillTrans;Phonemic,alikʼaras
+70-10-140-1,,70,10-140,гьикІарас,гьикІарас,,,,,,,,CyrillTrans;Phonemic,hikʼaras
+70-10-150-1,,70,10-150,аликІараъас,аликІараъас,,,,,,,,CyrillTrans;Phonemic,alikʼaraʔas
+70-10-160-1,,70,10-160,аликорас,аликорас,,,,,,,,CyrillTrans;Phonemic,alikoras
+70-10-170-1,,70,10-170,апишраъас,апишраъас,,,,,,,,CyrillTrans;Phonemic,apišraʔas
+70-10-210-1,,70,10-210,апхъа,апхъа,,,,,,,,CyrillTrans;Phonemic,apqa
+70-10-220-1,,70,10-220,сугъоцас,сугъоцас,,,,,,,,CyrillTrans;Phonemic,suɣocas
+70-10-230-1,,70,10-230,къаайхьас,къаайхьас,,,,,,,,CyrillTrans;Phonemic,q̄aʔayx̌as
+70-10-240-1,,70,10-240,тІянкІ-тІянкІ,тІянкІ-тІянкІ,,,,,,,,CyrillTrans;Phonemic,tʼyankʼ-tʼyankʼ
+70-10-250-1,,70,10-250,гьивохьарас,гьивохьарас,,,,,,,,CyrillTrans;Phonemic,hiwox̌aras
+70-10-252-1,,70,10-252,авхъас,авхъас,,,,,,,,CyrillTrans;Phonemic,awqas
+70-10-260-1,,70,10-260,сыпкаламишаас,сыпкаламишаас,,,,,,,,CyrillTrans;Phonemic,sɨpkalamišaʔas
+70-10-320-1,,70,10-320,"аллгьас, аллгьас арагука",аллгьас,,,,,,,,CyrillTrans;Phonemic,allhas
+70-10-320-2,,70,10-320,"аллгьас, аллгьас арагука",аллгьас арагука,,,,,,,,CyrillTrans;Phonemic,allhas araguka
+70-10-330-1,,70,10-330,богъшимхьес,богъшимхьес,,,,,,,,CyrillTrans;Phonemic,boɣšimx̌es
+70-10-340-1,,70,10-340,гьузмишхьес,гьузмишхьес,,,,,,,,CyrillTrans;Phonemic,huzmišx̌es
+70-10-350-1,,70,10-350,гьуІзмишхьес,гьуІзмишхьес,,,,,,,,CyrillTrans;Phonemic,huˤzmišx̌es
+70-10-351-1,,70,10-351,йаІйхаІрас,йаІйхаІрас,,,,,,,,CyrillTrans;Phonemic,yaˤyxaˤras
+70-10-352-1,,70,10-352,гьуІзмишхьес,гьуІзмишхьес,,,,,,,,CyrillTrans;Phonemic,huˤzmišx̌es
+70-10-360-1,,70,10-360,гьуІзмишхьес,гьуІзмишхьес,,,,,,,,CyrillTrans;Phonemic,huˤzmišx̌es
+70-10-370-1,,70,10-370,апихас,апихас,,,,,,,,CyrillTrans;Phonemic,apixas
+70-10-380-1,,70,10-380,цораас,цораас,,,,,,,,CyrillTrans;Phonemic,coraʔas
+70-10-410-1,,70,10-410,гьаргъас,гьаргъас,,,,,,,,CyrillTrans;Phonemic,harɣas
+70-10-412-1,,70,10-412,кынгыбы,кынгыбы,,,,,,,,CyrillTrans;Phonemic,kɨngɨbɨ
+70-10-413-1,,70,10-413,гюурас,гюурас,,,,,,,,CyrillTrans;Phonemic,gyuʔuras
+70-10-420-1,,70,10-420,гьитигІанаас,гьитигІанаас,,,,,,,,CyrillTrans;Phonemic,hitiʕanaʔas
+70-10-430-1,,70,10-430,къокІапас,къокІапас,,,,,,,,CyrillTrans;Phonemic,q̄okʼapas
+70-10-431-1,,70,10-431,мыкь эвхас (ывхас),мыкь эвхас,,,,,,,,CyrillTrans;Phonemic,mɨqʼ ewxas
+70-10-440-1,,70,10-440,мыкІаас,мыкІаас,,,,,,,,CyrillTrans;Phonemic,mɨkʼaʔas
+70-10-450-1,,70,10-450,ийкарас,ийкарас,,,,,,,,CyrillTrans;Phonemic,iykaras
+70-10-451-1,,70,10-451,кьара,кьара,,,,,,,,CyrillTrans;Phonemic,qʼara
+70-10-460-1,,70,10-460,къадахьанас,къадахьанас,,,,,,,,CyrillTrans;Phonemic,q̄adax̌anas
+70-10-470-1,,70,10-470,аІпягьас,аІпягьас,,,,,,,,CyrillTrans;Phonemic,aˤpyahas
+70-10-471-1,,70,10-471,ипхъечІес,ипхъечІес,,,,,,,,CyrillTrans;Phonemic,ipqečʼes
+70-10-472-1,,70,10-472,хъиртас,хъиртас,,,,,,,,CyrillTrans;Phonemic,qirtas
+70-10-473-1,,70,10-473,гечІес,гечІес,,,,,,,,CyrillTrans;Phonemic,gečʼes
+70-10-474-1,,70,10-474,хъигъечІес,хъигъечІес,,,,,,,,CyrillTrans;Phonemic,qiɣečʼes
+70-10-480-1,,70,10-480,айрес,айрес,,,,,,,,CyrillTrans;Phonemic,ayres
+70-10-481-1,,70,10-481,сакІапас,сакІапас,,,,,,,,CyrillTrans;Phonemic,sakʼapas
+70-10-490-1,,70,10-490,аІпягьас,аІпягьас,,,,,,,,CyrillTrans;Phonemic,aˤpyahas
+70-10-491-1,,70,10-491,акІанас,акІанас,,,,,,,,CyrillTrans;Phonemic,akʼanas
+70-10-510-1,,70,10-510,гьихвас,гьихвас,,,,,,,,CyrillTrans;Phonemic,hixʷas
+70-10-520-1,,70,10-520,излемишаас,излемишаас,,,,,,,,CyrillTrans;Phonemic,izlemišaʔas
+70-10-530-1,,70,10-530,излемишаас,излемишаас,,,,,,,,CyrillTrans;Phonemic,izlemišaʔas
+70-10-560-1,,70,10-560,депеехъихьес,депеехъихьес,,,,,,,,CyrillTrans;Phonemic,depeyeqix̌es
+70-10-570-1,,70,10-570,икегІес,икегІес,,,,,,,,CyrillTrans;Phonemic,ikeʕes
+70-10-610-1,,70,10-610,хъиккес,хъиккес,,,,,,,,CyrillTrans;Phonemic,qik̄es
+70-10-612-1,,70,10-612,хыпека хьиккес,хыпека хьиккес,,,,,,,,CyrillTrans;Phonemic,xɨpeka x̌ik̄es
+70-10-613-1,,70,10-613,мыгабишил хъиккес,мыгабишил хъиккес,,,,,,,,CyrillTrans;Phonemic,mɨgabišil qik̄es
+70-10-614-1,,70,10-614,капейп хъиккес,капейп хъиккес,,,,,,,,CyrillTrans;Phonemic,kapeyp qik̄es
+70-10-615-1,,70,10-615,хьыткапе хъиккес,хьыткапе хъиккес,,,,,,,,CyrillTrans;Phonemic,x̌ɨtkape qik̄es
+70-10-620-1,,70,10-620,аппес,аппес,,,,,,,,CyrillTrans;Phonemic,ap̄es
+70-10-630-1,,70,10-630,оІтиргьаас,оІтиргьаас,,,,,,,,CyrillTrans;Phonemic,oˤtirhaʔas
+70-10-640-1,,70,10-640,ыккейс,ыккейс,,,,,,,,CyrillTrans;Phonemic,ɨk̄eys
+70-10-650-1,,70,10-650,машине аІпягьас,машине аІпягьас,,,,,,,,CyrillTrans;Phonemic,mašine aˤpyahas
+70-10-660-1,,70,10-660,балканыл аІпягьас,балканыл аІпягьас,,,,,,,,CyrillTrans;Phonemic,balkanɨl aˤpyahas
+70-10-670-1,,70,10-670,итепемишаас,итепемишаас,,,,,,,,CyrillTrans;Phonemic,itepemišaʔas
+70-10-710-1,,70,10-710,йаІхъ,йаІхъ,,,,,,,,CyrillTrans;Phonemic,yaˤq
+70-10-720-1,,70,10-720,чухур,чухур,,,,,,,,CyrillTrans;Phonemic,čuxur
+70-10-740-1,,70,10-740,йыІгъ,йыІгъ,,,,,,,,CyrillTrans;Phonemic,yɨˤɣ
+70-10-750-1,,70,10-750,аІраба,аІраба,,,,,,,,CyrillTrans;Phonemic,aˤraba
+70-10-760-1,,70,10-760,текар,текар,,,,,,,,CyrillTrans;Phonemic,tekar
+70-10-770-1,,70,10-770,ох,ох,,,,,,,,CyrillTrans;Phonemic,ox
+70-10-780-1,,70,10-780,вейца,вейца,,,,,,,,CyrillTrans;Phonemic,weyca
+70-10-810-1,,70,10-810,"корабль, гами",корабль,,,,,,,,CyrillTrans;Phonemic,korablʲ
+70-10-810-2,,70,10-810,"корабль, гами",гами,,,,,,,,CyrillTrans;Phonemic,gami
+70-10-830-1,,70,10-830,лодка,лодка,,,,,,,,CyrillTrans;Phonemic,lodka
+70-10-831-1,,70,10-831,лодка,лодка,,,,,,,,CyrillTrans;Phonemic,lodka
+70-10-832-1,,70,10-832,лодка,лодка,,,,,,,,CyrillTrans;Phonemic,lodka
+70-10-840-1,,70,10-840,плот,плот,,,,,,,,CyrillTrans;Phonemic,plot
+70-10-850-1,,70,10-850,къапагъ,къапагъ,,,,,,,,CyrillTrans;Phonemic,q̄apaɣ
+70-10-851-1,,70,10-851,къапагъ,къапагъ,,,,,,,,CyrillTrans;Phonemic,q̄apaɣ
+70-10-852-1,,70,10-852,гьуІзмишхьес,гьуІзмишхьес,,,,,,,,CyrillTrans;Phonemic,huˤzmišx̌es
+70-10-860-1,,70,10-860,роль,роль,,,,,,,,CyrillTrans;Phonemic,rolʲ
+70-10-870-1,,70,10-870,мачта,мачта,,,,,,,,CyrillTrans;Phonemic,mačta
+70-10-880-1,,70,10-880,парус,парус,,,,,,,,CyrillTrans;Phonemic,parus
+70-10-890-1,,70,10-890,йакорь,йакорь,,,,,,,,CyrillTrans;Phonemic,yakorʲ
+70-10-910-1,,70,10-910,порт,порт,,,,,,,,CyrillTrans;Phonemic,port
+70-10-920-1,,70,10-920,"гихас, гьхас",гихас,,,,,,,,CyrillTrans;Phonemic,gixas
+70-10-920-2,,70,10-920,"гихас, гьхас",гьхас,,,,,,,,CyrillTrans;Phonemic,hxas
+70-11-110-1,,70,11-110,ихьес,ихьес,,,,,,,,CyrillTrans;Phonemic,ix̌es
+70-11-120-1,,70,11-120,ихьес,ихьес,,,,,,,,CyrillTrans;Phonemic,ix̌es
+70-11-130-1,,70,11-130,апятІас,апятІас,,,,,,,,CyrillTrans;Phonemic,apyatʼas
+70-11-140-1,,70,11-140,аххъас,аххъас,,,,,,,,CyrillTrans;Phonemic,axqas
+70-11-150-1,,70,11-150,аххъас,аххъас,,,,,,,,CyrillTrans;Phonemic,axqas
+70-11-160-1,,70,11-160,апетІас,апетІас,,,,,,,,CyrillTrans;Phonemic,apetʼas
+70-11-170-1,,70,11-170,гьиваджес,гьиваджес,,,,,,,,CyrillTrans;Phonemic,hiwaǯes
+70-11-180-1,,70,11-180,кар,кар,,,,,,,,CyrillTrans;Phonemic,kar
+70-11-210-1,,70,11-210,гьепес,гьепес,,,,,,,,CyrillTrans;Phonemic,hepes
+70-11-220-1,,70,11-220,сакІалаас,сакІалаас,,,,,,,,CyrillTrans;Phonemic,sakʼalaʔas
+70-11-240-1,,70,11-240,гьиваджес,гьиваджес,,,,,,,,CyrillTrans;Phonemic,hiwaǯes
+70-11-250-1,,70,11-250,къатихьанаас,къатихьанаас,,,,,,,,CyrillTrans;Phonemic,q̄atix̌anaʔas
+70-11-270-1,,70,11-270,дагъылмишаас,дагъылмишаас,,,,,,,,CyrillTrans;Phonemic,daɣɨlmišaʔas
+70-11-280-1,,70,11-280,зиян гьаъас,зиян гьаъас,,,,,,,,CyrillTrans;Phonemic,ziyan haʔas
+70-11-310-1,,70,11-310,тІабалаас,тІабалаас,,,,,,,,CyrillTrans;Phonemic,tʼabalaʔas
+70-11-320-1,,70,11-320,авайкес,авайкес,,,,,,,,CyrillTrans;Phonemic,awaykes
+70-11-330-1,,70,11-330,"окІанаас, акьапаас",окІанаас,,,,,,,,CyrillTrans;Phonemic,okʼanaʔas
+70-11-330-2,,70,11-330,"окІанаас, акьапаас",акьапаас,,,,,,,,CyrillTrans;Phonemic,aqʼapaʔas
+70-11-340-1,,70,11-340,къайиккас,къайиккас,,,,,,,,CyrillTrans;Phonemic,q̄ayik̄as
+70-11-430-1,,70,11-430,пыл,пыл,,,,,,,,CyrillTrans;Phonemic,pɨl
+70-11-440-1,,70,11-440,"маныт, манат",маныт,,,,,,,,CyrillTrans;Phonemic,manɨt
+70-11-440-2,,70,11-440,"маныт, манат",манат,,,,,,,,CyrillTrans;Phonemic,manat
+70-11-510-1,,70,11-510,катхуда,катхуда,,,,,,,,CyrillTrans;Phonemic,katxuda
+70-11-520-1,,70,11-520,касибна,касибна,,,,,,,,CyrillTrans;Phonemic,kasibna
+70-11-530-1,,70,11-530,дипенджий,дипенджий,,,,,,,,CyrillTrans;Phonemic,dipenǯiy
+70-11-540-1,,70,11-540,кьытІмыр,кьытІмыр,,,,,,,,CyrillTrans;Phonemic,qʼɨtʼmɨr
+70-11-610-1,,70,11-610,борджес гьивой,борджес гьивой,,,,,,,,CyrillTrans;Phonemic,borǯes hiwoy
+70-11-620-1,,70,11-620,борджес алятІуй,борджес алятІуй,,,,,,,,CyrillTrans;Phonemic,borǯes alyatʼuy
+70-11-630-1,,70,11-630,борджупы,борджупы,,,,,,,,CyrillTrans;Phonemic,borǯupɨ
+70-11-640-1,,70,11-640,бордж,бордж,,,,,,,,CyrillTrans;Phonemic,borǯ
+70-11-650-1,,70,11-650,алищес,алищес,,,,,,,,CyrillTrans;Phonemic,ališ̄es
+70-11-660-1,,70,11-660,гьысаб,гьысаб,,,,,,,,CyrillTrans;Phonemic,hɨsab
+70-11-690-1,,70,11-690,налог,налог,,,,,,,,CyrillTrans;Phonemic,nalog
+70-11-780-1,,70,11-780,доннугъ,доннугъ,,,,,,,,CyrillTrans;Phonemic,donnuɣ
+70-11-790-1,,70,11-790,къазанмишаъас,къазанмишаъас,,,,,,,,CyrillTrans;Phonemic,q̄azanmišaʔas
+70-11-810-1,,70,11-810,алищес,алищес,,,,,,,,CyrillTrans;Phonemic,ališ̄es
+70-11-820-1,,70,11-820,масса гьивой,масса гьивой,,,,,,,,CyrillTrans;Phonemic,mas̄a hiwoy
+70-11-830-1,,70,11-830,алвер,алвер,,,,,,,,CyrillTrans;Phonemic,alwer
+70-11-840-1,,70,11-840,алверчий,алверчий,,,,,,,,CyrillTrans;Phonemic,alwerčiy
+70-11-850-1,,70,11-850,базар,базар,,,,,,,,CyrillTrans;Phonemic,bazar
+70-11-860-1,,70,11-860,"дукан, капратилʼ",дукан,,,,,,,,CyrillTrans;Phonemic,dukan
+70-11-860-2,,70,11-860,"дукан, капратилʼ",капратилʼ,,,,,,,,CyrillTrans;Phonemic,kapratilʲ
+70-11-870-1,,70,11-870,кьиймат,кьиймат,,,,,,,,CyrillTrans;Phonemic,qʼiymat
+70-11-880-1,,70,11-880,гыранын,гыранын,,,,,,,,CyrillTrans;Phonemic,gɨranɨn
+70-11-890-1,,70,11-890,уджузын,уджузын,,,,,,,,CyrillTrans;Phonemic,uǯuzɨn
+70-11-910-1,,70,11-910,битІалаас,битІалаас,,,,,,,,CyrillTrans;Phonemic,bitʼalaʔas
+70-11-920-1,,70,11-920,гетхьес,гетхьес,,,,,,,,CyrillTrans;Phonemic,getx̌es
+70-12-10-1,,70,12-10,хъигъа,хъигъа,,,,,,,,CyrillTrans;Phonemic,qiɣa
+70-12-11-1,,70,12-11,йикьал,йикьал,,,,,,,,CyrillTrans;Phonemic,yiqʼal
+70-12-20-1,,70,12-20,кьане,кьане,,,,,,,,CyrillTrans;Phonemic,qʼane
+70-12-30-1,,70,12-30,авуд,авуд,,,,,,,,CyrillTrans;Phonemic,awud
+70-12-40-1,,70,12-40,гьийд,гьийд,,,,,,,,CyrillTrans;Phonemic,hiyd
+70-12-41-1,,70,12-41,гьийд,гьийд,,,,,,,,CyrillTrans;Phonemic,hiyd
+70-12-50-1,,70,12-50,ад,ад,,,,,,,,CyrillTrans;Phonemic,ad
+70-12-60-1,,70,12-60,къад,къад,,,,,,,,CyrillTrans;Phonemic,q̄ad
+70-12-70-1,,70,12-70,авуд,авуд,,,,,,,,CyrillTrans;Phonemic,awud
+70-12-80-1,,70,12-80,оад,оад,,,,,,,,CyrillTrans;Phonemic,oad
+70-12-110-1,,70,12-110,джига,джига,,,,,,,,CyrillTrans;Phonemic,ǯiga
+70-12-120-1,,70,12-120,гихьес,гихьес,,,,,,,,CyrillTrans;Phonemic,gix̌es
+70-12-130-1,,70,12-130,гюурас,гюурас,,,,,,,,CyrillTrans;Phonemic,gyuʔuras
+70-12-140-1,,70,12-140,къалихьас,къалихьас,,,,,,,,CyrillTrans;Phonemic,q̄alix̌as
+70-12-150-1,,70,12-150,ипеззарас,ипеззарас,,,,,,,,CyrillTrans;Phonemic,ipezzaras
+70-12-160-1,,70,12-160,ахвас,ахвас,,,,,,,,CyrillTrans;Phonemic,axʷas
+70-12-170-1,,70,12-170,ахцабы,ахцабы,,,,,,,,CyrillTrans;Phonemic,axcabɨ
+70-12-210-1,,70,12-210,саъас,саъас,,,,,,,,CyrillTrans;Phonemic,saʔas
+70-12-212-1,,70,12-212,"саъас, галхымишаас",саъас,,,,,,,,CyrillTrans;Phonemic,saʔas
+70-12-212-2,,70,12-212,"саъас, галхымишаас",галхымишаас,,,,,,,,CyrillTrans;Phonemic,galxɨmišaʔas
+70-12-213-1,,70,12-213,саъас,саъас,,,,,,,,CyrillTrans;Phonemic,saʔas
+70-12-220-1,,70,12-220,савалес,савалес,,,,,,,,CyrillTrans;Phonemic,sawales
+70-12-230-1,,70,12-230,джураас,джураас,,,,,,,,CyrillTrans;Phonemic,ǯuraʔas
+70-12-232-1,,70,12-232,битІалаъас,битІалаъас,,,,,,,,CyrillTrans;Phonemic,bitʼalaʔas
+70-12-240-1,,70,12-240,ачмишаъас,ачмишаъас,,,,,,,,CyrillTrans;Phonemic,ačmišaʔas
+70-12-250-1,,70,12-250,итумаас,итумаас,,,,,,,,CyrillTrans;Phonemic,itumaʔas
+70-12-260-1,,70,12-260,"оІртмишаас, аччес",оІртмишаас,,,,,,,,CyrillTrans;Phonemic,oˤrtmišaʔas
+70-12-260-2,,70,12-260,"оІртмишаас, аччес",аччес,,,,,,,,CyrillTrans;Phonemic,ač̄es
+70-12-270-1,,70,12-270,дюгулʼаас,дюгулʼаас,,,,,,,,CyrillTrans;Phonemic,dyugulʲaʔas
+70-12-310-1,,70,12-310,ахтыда,ахтыда,,,,,,,,CyrillTrans;Phonemic,axtɨda
+70-12-320-1,,70,12-320,гьикийда,гьикийда,,,,,,,,CyrillTrans;Phonemic,hikiyda
+70-12-330-1,,70,12-330,кьом,кьом,,,,,,,,CyrillTrans;Phonemic,qʼom
+70-12-340-1,,70,12-340,диб,диб,,,,,,,,CyrillTrans;Phonemic,dib
+70-12-350-1,,70,12-350,ахир,ахир,,,,,,,,CyrillTrans;Phonemic,axir
+70-12-352-1,,70,12-352,экІын,экІын,,,,,,,,CyrillTrans;Phonemic,ekʼɨn
+70-12-353-1,,70,12-353,къырагъ,къырагъ,,,,,,,,CyrillTrans;Phonemic,q̄ɨraɣ
+70-12-360-1,,70,12-360,къырагъ,къырагъ,,,,,,,,CyrillTrans;Phonemic,q̄ɨraɣ
+70-12-370-1,,70,12-370,марказ,марказ,,,,,,,,CyrillTrans;Phonemic,markaz
+70-12-410-1,,70,12-410,гьаттахъан,гьаттахъан,,,,,,,,CyrillTrans;Phonemic,hat̄aqan
+70-12-420-1,,70,12-420,солун,солун,,,,,,,,CyrillTrans;Phonemic,solun
+70-12-430-1,,70,12-430,кІане,кІане,,,,,,,,CyrillTrans;Phonemic,kʼane
+70-12-440-1,,70,12-440,акьаІна,акьаІна,,,,,,,,CyrillTrans;Phonemic,aqʼaˤna
+70-12-450-1,,70,12-450,машрикь,машрикь,,,,,,,,CyrillTrans;Phonemic,mašriqʼ
+70-12-460-1,,70,12-460,макьриб,макьриб,,,,,,,,CyrillTrans;Phonemic,maqʼrib
+70-12-470-1,,70,12-470,гузай,гузай,,,,,,,,CyrillTrans;Phonemic,guzay
+70-12-480-1,,70,12-480,гунай,гунай,,,,,,,,CyrillTrans;Phonemic,gunay
+70-12-530-1,,70,12-530,хаІрхъихьес,хаІрхъихьес,,,,,,,,CyrillTrans;Phonemic,xaˤrqix̌es
+70-12-540-1,,70,12-540,оІлгимишаас,оІлгимишаас,,,,,,,,CyrillTrans;Phonemic,oˤlgimišaʔas
+70-12-550-1,,70,12-550,хедын,хедын,,,,,,,,CyrillTrans;Phonemic,xedɨn
+70-12-560-1,,70,12-560,кІылин,кІылин,,,,,,,,CyrillTrans;Phonemic,kʼɨlin
+70-12-570-1,,70,12-570,хылийн,хылийн,,,,,,,,CyrillTrans;Phonemic,xɨliyn
+70-12-580-1,,70,12-580,ахтыйн,ахтыйн,,,,,,,,CyrillTrans;Phonemic,axtɨyn
+70-12-590-1,,70,12-590,джитІан,джитІан,,,,,,,,CyrillTrans;Phonemic,ǯitʼan
+70-12-610-1,,70,12-610,аІкьыІн,аІкьыІн,,,,,,,,CyrillTrans;Phonemic,aˤqʼɨˤn
+70-12-620-1,,70,12-620,дарын,дарын,,,,,,,,CyrillTrans;Phonemic,darɨn
+70-12-630-1,,70,12-630,кІыххьин,кІыххьин,,,,,,,,CyrillTrans;Phonemic,kʼɨxx̌in
+70-12-650-1,,70,12-650,"кІуІван, кІыІван",кІуІван,,,,,,,,CyrillTrans;Phonemic,kʼuˤwan
+70-12-650-2,,70,12-650,"кІуІван, кІыІван",кІыІван,,,,,,,,CyrillTrans;Phonemic,kʼɨˤwan
+70-12-670-1,,70,12-670,кІоран,кІоран,,,,,,,,CyrillTrans;Phonemic,kʼoran
+70-12-680-1,,70,12-680,хурун,хурун,,,,,,,,CyrillTrans;Phonemic,xurun
+70-12-710-1,,70,12-710,кьадан,кьадан,,,,,,,,CyrillTrans;Phonemic,qʼadan
+70-12-730-1,,70,12-730,дюзуда,дюзуда,,,,,,,,CyrillTrans;Phonemic,dyuzuda
+70-12-740-1,,70,12-740,хъигІоткур,хъигІоткур,,,,,,,,CyrillTrans;Phonemic,qiʕotkur
+70-12-750-1,,70,12-750,къармах,къармах,,,,,,,,CyrillTrans;Phonemic,q̄armax
+70-12-760-1,,70,12-760,хьошис,хьошис,,,,,,,,CyrillTrans;Phonemic,x̌ošis
+70-12-770-1,,70,12-770,хач,хач,,,,,,,,CyrillTrans;Phonemic,xač
+70-12-780-1,,70,12-780,квадрат,квадрат,,,,,,,,CyrillTrans;Phonemic,kwadrat
+70-12-810-1,,70,12-810,гыргыран,гыргыран,,,,,,,,CyrillTrans;Phonemic,gɨrgɨran
+70-12-820-1,,70,12-820,"гыр, круг",гыр,,,,,,,,CyrillTrans;Phonemic,gɨr
+70-12-820-2,,70,12-820,"гыр, круг",круг,,,,,,,,CyrillTrans;Phonemic,krug
+70-12-830-1,,70,12-830,гыргыр,гыргыр,,,,,,,,CyrillTrans;Phonemic,gɨrgɨr
+70-12-840-1,,70,12-840,хатІ,хатІ,,,,,,,,CyrillTrans;Phonemic,xatʼ
+70-12-850-1,,70,12-850,баІдже,баІдже,,,,,,,,CyrillTrans;Phonemic,baˤǯe
+70-12-920-1,,70,12-920,акаран,акаран,,,,,,,,CyrillTrans;Phonemic,akaran
+70-12-930-1,,70,12-930,бадалаас,бадалаас,,,,,,,,CyrillTrans;Phonemic,badalaʔas
+70-13-0-1,,70,13-0,сфыр,сфыр,,,,,,,,CyrillTrans;Phonemic,sfɨr
+70-13-10-1,,70,13-10,са,са,,,,,,,,CyrillTrans;Phonemic,sa
+70-13-20-1,,70,13-20,кьоІд,кьоІд,,,,,,,,CyrillTrans;Phonemic,qʼoˤd
+70-13-30-1,,70,13-30,хьебыд,хьебыд,,,,,,,,CyrillTrans;Phonemic,x̌ebɨd
+70-13-40-1,,70,13-40,йокьуд,йокьуд,,,,,,,,CyrillTrans;Phonemic,yoqʼud
+70-13-50-1,,70,13-50,хьод,хьод,,,,,,,,CyrillTrans;Phonemic,x̌od
+70-13-60-1,,70,13-60,"йихьыд, йыхьиле",йихьыд,,,,,,,,CyrillTrans;Phonemic,yix̌ɨd
+70-13-60-2,,70,13-60,"йихьыд, йыхьиле",йыхьиле,,,,,,,,CyrillTrans;Phonemic,yɨx̌ile
+70-13-70-1,,70,13-70,йигІыд,йигІыд,,,,,,,,CyrillTrans;Phonemic,yiʕɨd
+70-13-80-1,,70,13-80,молюд,молюд,,,,,,,,CyrillTrans;Phonemic,molyud
+70-13-90-1,,70,13-90,йичІуд,йичІуд,,,,,,,,CyrillTrans;Phonemic,yičʼud
+70-13-100-1,,70,13-100,йицІыд,йицІыд,,,,,,,,CyrillTrans;Phonemic,yicʼɨd
+70-13-101-1,,70,13-101,йицІысад,йицІысад,,,,,,,,CyrillTrans;Phonemic,yicʼɨsad
+70-13-102-1,,70,13-102,йицІыкьваІд,йицІыкьваІд,,,,,,,,CyrillTrans;Phonemic,yicʼɨqʼʷaˤd
+70-13-103-1,,70,13-103,йицІыхьвад,йицІыхьвад,,,,,,,,CyrillTrans;Phonemic,yicʼɨx̌ʷad
+70-13-104-1,,70,13-104,къад,къад,,,,,,,,CyrillTrans;Phonemic,q̄ad
+70-13-105-1,,70,13-105,ваІш,ваІш,,,,,,,,CyrillTrans;Phonemic,waˤš
+70-13-106-1,,70,13-106,аазыр,аазыр,,,,,,,,CyrillTrans;Phonemic,aʔazɨr
+70-13-107-1,,70,13-107,гьысабаас,гьысабаас,,,,,,,,CyrillTrans;Phonemic,hɨsabaʔas
+70-13-140-1,,70,13-140,гыргын,гыргын,,,,,,,,CyrillTrans;Phonemic,gɨrgɨn
+70-13-150-1,,70,13-150,"хедда, хетта",хедда,,,,,,,,CyrillTrans;Phonemic,xed̄a
+70-13-150-2,,70,13-150,"хедда, хетта",хетта,,,,,,,,CyrillTrans;Phonemic,xet̄a
+70-13-160-1,,70,13-160,хедын,хедын,,,,,,,,CyrillTrans;Phonemic,xedɨn
+70-13-170-1,,70,13-170,гІылда,гІылда,,,,,,,,CyrillTrans;Phonemic,ʕɨlda
+70-13-180-1,,70,13-180,чІав,чІав,,,,,,,,CyrillTrans;Phonemic,čʼaw
+70-13-181-1,,70,13-181,са-кьолле,са-кьолле,,,,,,,,CyrillTrans;Phonemic,sa-qʼolle
+70-13-190-1,,70,13-190,"хедда, хетта",хедда,,,,,,,,CyrillTrans;Phonemic,xed̄a
+70-13-190-2,,70,13-190,"хедда, хетта",хетта,,,,,,,,CyrillTrans;Phonemic,xet̄a
+70-13-210-1,,70,13-210,гяцІийн,гяцІийн,,,,,,,,CyrillTrans;Phonemic,gyacʼiyn
+70-13-220-1,,70,13-220,кьаран,кьаран,,,,,,,,CyrillTrans;Phonemic,qʼaran
+70-13-230-1,,70,13-230,тика,тика,,,,,,,,CyrillTrans;Phonemic,tika
+70-13-240-1,,70,13-240,сура,сура,,,,,,,,CyrillTrans;Phonemic,sura
+70-13-330-1,,70,13-330,са,са,,,,,,,,CyrillTrans;Phonemic,sa
+70-13-340-1,,70,13-340,цІеддийн,цІеддийн,,,,,,,,CyrillTrans;Phonemic,cʼed̄iyn
+70-13-350-1,,70,13-350,"аІлрейдын, ахыредын",аІлрейдын,,,,,,,,CyrillTrans;Phonemic,aˤlreydɨn
+70-13-350-2,,70,13-350,"аІлрейдын, ахыредын",ахыредын,,,,,,,,CyrillTrans;Phonemic,axɨredɨn
+70-13-360-1,,70,13-360,кьадэсда,кьадэсда,,,,,,,,CyrillTrans;Phonemic,qʼadʔesda
+70-13-370-1,,70,13-370,чуІт,чуІт,,,,,,,,CyrillTrans;Phonemic,čuˤt
+70-13-380-1,,70,13-380,"кьоІниэлес, къоІниякке",кьоІниэлес,,,,,,,,CyrillTrans;Phonemic,qʼoˤnieles
+70-13-380-2,,70,13-380,"кьоІниэлес, къоІниякке",къоІниякке,,,,,,,,CyrillTrans;Phonemic,q̄oˤniyak̄e
+70-13-420-1,,70,13-420,хьебыдъэсын,хьебыдъэсын,,,,,,,,CyrillTrans;Phonemic,x̌ebɨdʔesɨn
+70-13-440-1,,70,13-440,"хьебниэлес, хьебни йакъе",хьебниэлес,,,,,,,,CyrillTrans;Phonemic,x̌ebnieles
+70-13-440-2,,70,13-440,"хьебниэлес, хьебни йакъе",хьебни йакъе,,,,,,,,CyrillTrans;Phonemic,x̌ebni yaq̄e
+70-14-110-1,,70,14-110,вахт,вахт,,,,,,,,CyrillTrans;Phonemic,waxt
+70-14-120-1,,70,14-120,"асар, сен",асар,,,,,,,,CyrillTrans;Phonemic,asar
+70-14-120-2,,70,14-120,"асар, сен",сен,,,,,,,,CyrillTrans;Phonemic,sen
+70-14-130-1,,70,14-130,"тезе, цедып",тезе,,,,,,,,CyrillTrans;Phonemic,teze
+70-14-130-2,,70,14-130,"тезе, цедып",цедып,,,,,,,,CyrillTrans;Phonemic,cedɨp
+70-14-140-1,,70,14-140,мекІна,мекІна,,,,,,,,CyrillTrans;Phonemic,mekʼna
+70-14-150-1,,70,14-150,кьаІсда,кьаІсда,,,,,,,,CyrillTrans;Phonemic,qʼaˤsda
+70-14-160-1,,70,14-160,экІда,экІда,,,,,,,,CyrillTrans;Phonemic,ekʼda
+70-14-170-1,,70,14-170,геджда,геджда,,,,,,,,CyrillTrans;Phonemic,geǯda
+70-14-180-1,,70,14-180,гьаІшде,гьаІшде,,,,,,,,CyrillTrans;Phonemic,haˤšde
+70-14-190-1,,70,14-190,гьаІшде,гьаІшде,,,,,,,,CyrillTrans;Phonemic,haˤšde
+70-14-210-1,,70,14-210,дирина,дирина,,,,,,,,CyrillTrans;Phonemic,dirina
+70-14-220-1,,70,14-220,"йавашна, йавашда",йавашна,,,,,,,,CyrillTrans;Phonemic,yawašna
+70-14-220-2,,70,14-220,"йавашна, йавашда",йавашда,,,,,,,,CyrillTrans;Phonemic,yawašda
+70-14-230-1,,70,14-230,"телеамишхьас, телесмишхес",телеамишхьас,,,,,,,,CyrillTrans;Phonemic,teleamišx̌as
+70-14-230-2,,70,14-230,"телеамишхьас, телесмишхес",телесмишхес,,,,,,,,CyrillTrans;Phonemic,telesmišxes
+70-14-240-1,,70,14-240,даянмишаас,даянмишаас,,,,,,,,CyrillTrans;Phonemic,dayanmišaʔas
+70-14-250-1,,70,14-250,гигъапас,гигъапас,,,,,,,,CyrillTrans;Phonemic,giɣapas
+70-14-252-1,,70,14-252,давамихьес,давамихьес,,,,,,,,CyrillTrans;Phonemic,dawamix̌es
+70-14-260-1,,70,14-260,къатихьакас,къатихьакас,,,,,,,,CyrillTrans;Phonemic,q̄atix̌akas
+70-14-270-1,,70,14-270,къатийхьан,къатийхьан,,,,,,,,CyrillTrans;Phonemic,q̄atiyx̌an
+70-14-280-1,,70,14-280,тамгьаъас,тамгьаъас,,,,,,,,CyrillTrans;Phonemic,tamhaʔas
+70-14-290-1,,70,14-290,гьазирын,гьазирын,,,,,,,,CyrillTrans;Phonemic,hazirɨn
+70-14-310-1,,70,14-310,гьаІмаше,гьаІмаше,,,,,,,,CyrillTrans;Phonemic,haˤmaše
+70-14-320-1,,70,14-320,экІда-экІда,экІда-экІда,,,,,,,,CyrillTrans;Phonemic,ekʼda-ekʼda
+70-14-330-1,,70,14-330,"аІрабир, сейракда",аІрабир,,,,,,,,CyrillTrans;Phonemic,aˤrabir
+70-14-330-2,,70,14-330,"аІрабир, сейракда",сейракда,,,,,,,,CyrillTrans;Phonemic,seyrakda
+70-14-331-1,,70,14-331,сабара вахтыле,сабара вахтыле,,,,,,,,CyrillTrans;Phonemic,sabara waxtɨle
+70-14-332-1,,70,14-332,хыллийн,хыллийн,,,,,,,,CyrillTrans;Phonemic,xɨlliyn
+70-14-340-1,,70,14-340,"ненкеджад, мысаджад",ненкеджад,,,,,,,,CyrillTrans;Phonemic,nenkeǯad
+70-14-340-2,,70,14-340,"ненкеджад, мысаджад",мысаджад,,,,,,,,CyrillTrans;Phonemic,mɨsaǯad
+70-14-350-1,,70,14-350,мед,мед,,,,,,,,CyrillTrans;Phonemic,med
+70-14-410-1,,70,14-410,йыгъ,йыгъ,,,,,,,,CyrillTrans;Phonemic,yɨɣ
+70-14-420-1,,70,14-420,хаІм,хаІм,,,,,,,,CyrillTrans;Phonemic,xaˤm
+70-14-430-1,,70,14-430,суІпгь,суІпгь,,,,,,,,CyrillTrans;Phonemic,suˤph
+70-14-440-1,,70,14-440,мичІейд,мичІейд,,,,,,,,CyrillTrans;Phonemic,mičʼeyd
+70-14-450-1,,70,14-450,йыкъыІгьлин,йыкъыІгьлин,,,,,,,,CyrillTrans;Phonemic,yɨq̄ɨˤhlin
+70-14-451-1,,70,14-451,виригъен,виригъен,,,,,,,,CyrillTrans;Phonemic,wiriɣen
+70-14-460-1,,70,14-460,эхьа,эхьа,,,,,,,,CyrillTrans;Phonemic,ex̌a
+70-14-470-1,,70,14-470,къийна,къийна,,,,,,,,CyrillTrans;Phonemic,q̄iyna
+70-14-480-1,,70,14-480,къийхъа,къийхъа,,,,,,,,CyrillTrans;Phonemic,q̄iyqa
+70-14-481-1,,70,14-481,хъыцыхъ,хъыцыхъ,,,,,,,,CyrillTrans;Phonemic,qɨcɨq
+70-14-490-1,,70,14-490,санихьа,санихьа,,,,,,,,CyrillTrans;Phonemic,sanix̌a
+70-14-491-1,,70,14-491,гьигъына,гьигъына,,,,,,,,CyrillTrans;Phonemic,hiɣɨna
+70-14-510-1,,70,14-510,саъаІт,саъаІт,,,,,,,,CyrillTrans;Phonemic,saʔaˤt
+70-14-530-1,,70,14-530,саъаІт,саъаІт,,,,,,,,CyrillTrans;Phonemic,saʔaˤt
+70-14-610-1,,70,14-610,уІлʼджум,уІлʼджум,,,,,,,,CyrillTrans;Phonemic,uˤlʲǯum
+70-14-620-1,,70,14-620,ваджар,ваджар,,,,,,,,CyrillTrans;Phonemic,waǯar
+70-14-630-1,,70,14-630,итнайн,итнайн,,,,,,,,CyrillTrans;Phonemic,itnayn
+70-14-640-1,,70,14-640,далаттийн,далаттийн,,,,,,,,CyrillTrans;Phonemic,dalat̄iyn
+70-14-650-1,,70,14-650,аІрбаъан,аІрбаъан,,,,,,,,CyrillTrans;Phonemic,aˤrbaʔan
+70-14-660-1,,70,14-660,оІлʼджуманахоІш,оІлʼджуманахоІш,,,,,,,,CyrillTrans;Phonemic,oˤlʲǯumanaxoˤš
+70-14-670-1,,70,14-670,оІлʼджуман йигъ,оІлʼджуман йигъ,,,,,,,,CyrillTrans;Phonemic,oˤlʲǯuman yiɣ
+70-14-680-1,,70,14-680,сифтйин,сифтйин,,,,,,,,CyrillTrans;Phonemic,siftyin
+70-14-710-1,,70,14-710,ваз,ваз,,,,,,,,CyrillTrans;Phonemic,waz
+70-14-730-1,,70,14-730,сен,сен,,,,,,,,CyrillTrans;Phonemic,sen
+70-14-740-1,,70,14-740,кьыІдим,кьыІдим,,,,,,,,CyrillTrans;Phonemic,qʼɨˤdim
+70-14-750-1,,70,14-750,юххьан,юххьан,,,,,,,,CyrillTrans;Phonemic,yuxx̌an
+70-14-760-1,,70,14-760,къыІл,къыІл,,,,,,,,CyrillTrans;Phonemic,q̄ɨˤl
+70-14-770-1,,70,14-770,цывылʼ,цывылʼ,,,,,,,,CyrillTrans;Phonemic,cɨwɨlʲ
+70-14-780-1,,70,14-780,сенып вахтыбы,сенып вахтыбы,,,,,,,,CyrillTrans;Phonemic,senɨp waxtɨbɨ
+70-15-210-1,,70,15-210,эва къа,эва къа,,,,,,,,CyrillTrans;Phonemic,ewa q̄a
+70-15-212-1,,70,15-212,эва гьаъас,эва гьаъас,,,,,,,,CyrillTrans;Phonemic,ewa haʔas
+70-15-220-1,,70,15-220,эва гьаъас,эва гьаъас,,,,,,,,CyrillTrans;Phonemic,ewa haʔas
+70-15-250-1,,70,15-250,эва,эва,,,,,,,,CyrillTrans;Phonemic,ewa
+70-15-260-1,,70,15-260,"эва, чапалин эва",эва,,,,,,,,CyrillTrans;Phonemic,ewa
+70-15-260-2,,70,15-260,"эва, чапалин эва",чапалин эва,,,,,,,,CyrillTrans;Phonemic,čapalin ewa
+70-15-310-1,,70,15-310,дад,дад,,,,,,,,CyrillTrans;Phonemic,dad
+70-15-350-1,,70,15-350,иттун,иттун,,,,,,,,CyrillTrans;Phonemic,it̄un
+70-15-360-1,,70,15-360,кьызман,кьызман,,,,,,,,CyrillTrans;Phonemic,qʼɨzman
+70-15-370-1,,70,15-370,кьапІын,кьапІын,,,,,,,,CyrillTrans;Phonemic,qʼapʼɨn
+70-15-380-1,,70,15-380,чІургІуман,чІургІуман,,,,,,,,CyrillTrans;Phonemic,čʼurʕuman
+70-15-390-1,,70,15-390,кьызмадахьинне,кьызмадахьинне,,,,,,,,CyrillTrans;Phonemic,qʼɨzmadax̌inne
+70-15-410-1,,70,15-410,къайихьес,къайихьес,,,,,,,,CyrillTrans;Phonemic,q̄ayix̌es
+70-15-420-1,,70,15-420,кІырог гяххъый,кІырог гяххъый,,,,,,,,CyrillTrans;Phonemic,kʼɨrog gyaxqɨy
+70-15-440-1,,70,15-440,сес,сес,,,,,,,,CyrillTrans;Phonemic,ses
+70-15-450-1,,70,15-450,ахтыйн,ахтыйн,,,,,,,,CyrillTrans;Phonemic,axtɨyn
+70-15-460-1,,70,15-460,сакитна,сакитна,,,,,,,,CyrillTrans;Phonemic,sakitna
+70-15-510-1,,70,15-510,къаджес,къаджес,,,,,,,,CyrillTrans;Phonemic,q̄aǯes
+70-15-520-1,,70,15-520,"иляллас, иллякІас",иляллас,,,,,,,,CyrillTrans;Phonemic,ilyallas
+70-15-520-2,,70,15-520,"иляллас, иллякІас",иллякІас,,,,,,,,CyrillTrans;Phonemic,illyakʼas
+70-15-550-1,,70,15-550,гьагвас,гьагвас,,,,,,,,CyrillTrans;Phonemic,hagʷas
+70-15-560-1,,70,15-560,ишыгъеква,ишыгъеква,,,,,,,,CyrillTrans;Phonemic,išɨɣekʷa
+70-15-570-1,,70,15-570,алышмишвухьа,алышмишвухьа,,,,,,,,CyrillTrans;Phonemic,alɨšmišwux̌a
+70-15-610-1,,70,15-610,ранг,ранг,,,,,,,,CyrillTrans;Phonemic,rang
+70-15-620-1,,70,15-620,ачухун,ачухун,,,,,,,,CyrillTrans;Phonemic,ačuxun
+70-15-630-1,,70,15-630,вущен,вущен,,,,,,,,CyrillTrans;Phonemic,wuš̄en
+70-15-640-1,,70,15-640,джагваран,джагваран,,,,,,,,CyrillTrans;Phonemic,ǯagʷaran
+70-15-650-1,,70,15-650,кІарын,кІарын,,,,,,,,CyrillTrans;Phonemic,kʼarɨn
+70-15-660-1,,70,15-660,чІаІран,чІаІран,,,,,,,,CyrillTrans;Phonemic,čʼaˤran
+70-15-670-1,,70,15-670,лезан,лезан,,,,,,,,CyrillTrans;Phonemic,lezan
+70-15-680-1,,70,15-680,"кІатыпен, чыван",кІатыпен,,,,,,,,CyrillTrans;Phonemic,kʼatɨpen
+70-15-680-2,,70,15-680,"кІатыпен, чыван",чыван,,,,,,,,CyrillTrans;Phonemic,čɨwan
+70-15-690-1,,70,15-690,къыІбын,къыІбын,,,,,,,,CyrillTrans;Phonemic,q̄ɨˤbɨn
+70-15-710-1,,70,15-710,хъетас,хъетас,,,,,,,,CyrillTrans;Phonemic,qetas
+70-15-712-1,,70,15-712,гьочІанас,гьочІанас,,,,,,,,CyrillTrans;Phonemic,hočʼanas
+70-15-720-1,,70,15-720,ацІахьес,ацІахьес,,,,,,,,CyrillTrans;Phonemic,acʼax̌es
+70-15-740-1,,70,15-740,утІумын,утІумын,,,,,,,,CyrillTrans;Phonemic,utʼumɨn
+70-15-750-1,,70,15-750,къуІвнан,къуІвнан,,,,,,,,CyrillTrans;Phonemic,q̄uˤwnan
+70-15-760-1,,70,15-760,кобутун,кобутун,,,,,,,,CyrillTrans;Phonemic,kobutun
+70-15-770-1,,70,15-770,гьамаварын,гьамаварын,,,,,,,,CyrillTrans;Phonemic,hamawarɨn
+70-15-780-1,,70,15-780,экІын,экІын,,,,,,,,CyrillTrans;Phonemic,ekʼɨn
+70-15-790-1,,70,15-790,барада,барада,,,,,,,,CyrillTrans;Phonemic,barada
+70-15-810-1,,70,15-810,йыкьыІн,йыкьыІн,,,,,,,,CyrillTrans;Phonemic,yɨqʼɨˤn
+70-15-820-1,,70,15-820,"сибыкын, сибукын",сибыкын,,,,,,,,CyrillTrans;Phonemic,sibɨkɨn
+70-15-820-2,,70,15-820,"сибыкын, сибукын",сибукын,,,,,,,,CyrillTrans;Phonemic,sibukɨn
+70-15-830-1,,70,15-830,дуран,дуран,,,,,,,,CyrillTrans;Phonemic,duran
+70-15-840-1,,70,15-840,къурун,къурун,,,,,,,,CyrillTrans;Phonemic,q̄urun
+70-15-850-1,,70,15-850,къуІман,къуІман,,,,,,,,CyrillTrans;Phonemic,q̄uˤman
+70-15-851-1,,70,15-851,къуІман,къуІман,,,,,,,,CyrillTrans;Phonemic,q̄uˤman
+70-15-860-1,,70,15-860,мыкІан,мыкІан,,,,,,,,CyrillTrans;Phonemic,mɨkʼan
+70-15-870-1,,70,15-870,темизин,темизин,,,,,,,,CyrillTrans;Phonemic,temizin
+70-15-880-1,,70,15-880,чапапин,чапапин,,,,,,,,CyrillTrans;Phonemic,čapapin
+70-15-890-1,,70,15-890,"сачІыдхыІрий, сачвыдхынин",сачІыдхыІрий,,,,,,,,CyrillTrans;Phonemic,sačʼɨdxɨˤriy
+70-15-890-2,,70,15-890,"сачІыдхыІрий, сачвыдхынин",сачвыдхынин,,,,,,,,CyrillTrans;Phonemic,sačʷɨdxɨnin
+70-16-110-1,,70,16-110,рыІгь,рыІгь,,,,,,,,CyrillTrans;Phonemic,rɨˤh
+70-16-150-1,,70,16-150,матхана,матхана,,,,,,,,CyrillTrans;Phonemic,matxana
+70-16-180-1,,70,16-180,игъвалʼ,игъвалʼ,,,,,,,,CyrillTrans;Phonemic,iɣʷalʲ
+70-16-190-1,,70,16-190,игъвалʼдешвалла,игъвалʼдешвалла,,,,,,,,CyrillTrans;Phonemic,iɣʷalʲdešʷalla
+70-16-230-1,,70,16-230,мадна,мадна,,,,,,,,CyrillTrans;Phonemic,madna
+70-16-250-1,,70,16-250,аІхъа нагьаъа,аІхъа нагьаъа,,,,,,,,CyrillTrans;Phonemic,aˤqa nahaʔa
+70-16-251-1,,70,16-251,аІхъа наъаъа,аІхъа наъаъа,,,,,,,,CyrillTrans;Phonemic,aˤqa naʔaʔa
+70-16-260-1,,70,16-260,гьивагас,гьивагас,,,,,,,,CyrillTrans;Phonemic,hiwagas
+70-16-270-1,,70,16-270,ыкийканас,ыкийканас,,,,,,,,CyrillTrans;Phonemic,ɨkiykanas
+70-16-290-1,,70,16-290,убагьаас,убагьаас,,,,,,,,CyrillTrans;Phonemic,ubahaʔas
+70-16-300-1,,70,16-300,хуІваайихьас,хуІваайихьас,,,,,,,,CyrillTrans;Phonemic,xuˤwaʔayix̌as
+70-16-310-1,,70,16-310,ыкІар,ыкІар,,,,,,,,CyrillTrans;Phonemic,ɨkʼar
+70-16-320-1,,70,16-320,гъарыбийвалла,гъарыбийвалла,,,,,,,,CyrillTrans;Phonemic,ɣarɨbiywalla
+70-16-330-1,,70,16-330,орыкыр,орыкыр,,,,,,,,CyrillTrans;Phonemic,orɨkɨr
+70-16-340-1,,70,16-340,пашманийвалла,пашманийвалла,,,,,,,,CyrillTrans;Phonemic,pašmaniywalla
+70-16-350-1,,70,16-350,язухийвалла,язухийвалла,,,,,,,,CyrillTrans;Phonemic,yazuxiywalla
+70-16-370-1,,70,16-370,"гешмес, гешшес",гешмес,,,,,,,,CyrillTrans;Phonemic,gešmes
+70-16-370-2,,70,16-370,"гешмес, гешшес",гешшес,,,,,,,,CyrillTrans;Phonemic,geš̄es
+70-16-380-1,,70,16-380,нягъ,нягъ,,,,,,,,CyrillTrans;Phonemic,nyaɣ
+70-16-390-1,,70,16-390,офулдамишхьес,офулдамишхьес,,,,,,,,CyrillTrans;Phonemic,ofuldamišx̌es
+70-16-410-1,,70,16-410,"дикканас, дейкканас",дикканас,,,,,,,,CyrillTrans;Phonemic,dik̄anas
+70-16-410-2,,70,16-410,"дикканас, дейкканас",дейкканас,,,,,,,,CyrillTrans;Phonemic,deyk̄anas
+70-16-420-1,,70,16-420,"гьырс, къаІл",гьырс,,,,,,,,CyrillTrans;Phonemic,hɨrs
+70-16-420-2,,70,16-420,"гьырс, къаІл",къаІл,,,,,,,,CyrillTrans;Phonemic,q̄aˤl
+70-16-440-1,,70,16-440,пахылитйвалла,пахылитйвалла,,,,,,,,CyrillTrans;Phonemic,paxɨlitywalla
+70-16-450-1,,70,16-450,аІйиб,аІйиб,,,,,,,,CyrillTrans;Phonemic,aˤyib
+70-16-480-1,,70,16-480,дамах хьад,дамах хьад,,,,,,,,CyrillTrans;Phonemic,damax x̌ad
+70-16-510-1,,70,16-510,игит,игит,,,,,,,,CyrillTrans;Phonemic,igit
+70-16-520-1,,70,16-520,еІкъна,еІкъна,,,,,,,,CyrillTrans;Phonemic,yeˤq̄na
+70-16-530-1,,70,16-530,хъаІркьыний,хъаІркьыний,,,,,,,,CyrillTrans;Phonemic,qaˤrqʼɨniy
+70-16-540-1,,70,16-540,хата,хата,,,,,,,,CyrillTrans;Phonemic,xata
+70-16-620-1,,70,16-620,ыкыйкини,ыкыйкини,,,,,,,,CyrillTrans;Phonemic,ɨkɨykini
+70-16-622-1,,70,16-622,къайихкас,къайихкас,,,,,,,,CyrillTrans;Phonemic,q̄ayixkas
+70-16-630-1,,70,16-630,умудгьаъас,умудгьаъас,,,,,,,,CyrillTrans;Phonemic,umudhaʔas
+70-16-650-1,,70,16-650,гъирйатнана,гъирйатнана,,,,,,,,CyrillTrans;Phonemic,ɣiryatnana
+70-16-660-1,,70,16-660,гьаІкІена,гьаІкІена,,,,,,,,CyrillTrans;Phonemic,haˤkʼena
+70-16-670-1,,70,16-670,гьоргьаъас,гьоргьаъас,,,,,,,,CyrillTrans;Phonemic,horhaʔas
+70-16-680-1,,70,16-680,гьорбыгьаъас,гьорбыгьаъас,,,,,,,,CyrillTrans;Phonemic,horbɨhaʔas
+70-16-690-1,,70,16-690,багъышгьаъас,багъышгьаъас,,,,,,,,CyrillTrans;Phonemic,baɣɨšhaʔas
+70-16-710-1,,70,16-710,югна,югна,,,,,,,,CyrillTrans;Phonemic,yugna
+70-16-720-1,,70,16-720,"писда, писип",писда,,,,,,,,CyrillTrans;Phonemic,pisda
+70-16-720-2,,70,16-720,"писда, писип",писип,,,,,,,,CyrillTrans;Phonemic,pisip
+70-16-730-1,,70,16-730,дюзна,дюзна,,,,,,,,CyrillTrans;Phonemic,dyuzna
+70-16-740-1,,70,16-740,дюзна деш,дюзна деш,,,,,,,,CyrillTrans;Phonemic,dyuzna deš
+70-16-760-1,,70,16-760,саІгьв,саІгьв,,,,,,,,CyrillTrans;Phonemic,saˤhʷ
+70-16-770-1,,70,16-770,саІгьв,саІгьв,,,,,,,,CyrillTrans;Phonemic,saˤhʷ
+70-16-780-1,,70,16-780,"тахсиргьауй, тахсир гьиххес",тахсиргьауй,,,,,,,,CyrillTrans;Phonemic,taxsirhauy
+70-16-780-2,,70,16-780,"тахсиргьауй, тахсир гьиххес",тахсир гьиххес,,,,,,,,CyrillTrans;Phonemic,taxsir hix̄es
+70-16-790-1,,70,16-790,"агуммишаас, огъмишаас",агуммишаас,,,,,,,,CyrillTrans;Phonemic,agummišaʔas
+70-16-790-2,,70,16-790,"агуммишаас, огъмишаас",огъмишаас,,,,,,,,CyrillTrans;Phonemic,oɣmišaʔas
+70-16-810-1,,70,16-810,уфтанна,уфтанна,,,,,,,,CyrillTrans;Phonemic,uftanna
+70-16-820-1,,70,16-820,къалап,къалап,,,,,,,,CyrillTrans;Phonemic,q̄alap
+70-16-830-1,,70,16-830,хасисна,хасисна,,,,,,,,CyrillTrans;Phonemic,xasisna
+70-16-840-1,,70,16-840,аІкІелʼнана,аІкІелʼнана,,,,,,,,CyrillTrans;Phonemic,aˤkʼelʲnana
+70-17-110-1,,70,17-110,"аІкІолʼ, аІкьелʼ",аІкІолʼ,,,,,,,,CyrillTrans;Phonemic,aˤkʼolʲ
+70-17-110-2,,70,17-110,"аІкІолʼ, аІкьелʼ",аІкьелʼ,,,,,,,,CyrillTrans;Phonemic,aˤqʼelʲ
+70-17-130-1,,70,17-130,фыкыррамишес,фыкыррамишес,,,,,,,,CyrillTrans;Phonemic,fɨkɨrramišes
+70-17-140-1,,70,17-140,гьысабаас,гьысабаас,,,,,,,,CyrillTrans;Phonemic,hɨsabaʔas
+70-17-150-1,,70,17-150,инямишхьес,инямишхьес,,,,,,,,CyrillTrans;Phonemic,inyamišx̌es
+70-17-160-1,,70,17-160,къанмишхьай,къанмишхьай,,,,,,,,CyrillTrans;Phonemic,q̄anmišx̌ay
+70-17-170-1,,70,17-170,ацІахьес,ацІахьес,,,,,,,,CyrillTrans;Phonemic,acʼax̌es
+70-17-171-1,,70,17-171,фыкыр гьагас,фыкыр гьагас,,,,,,,,CyrillTrans;Phonemic,fɨkɨr hagas
+70-17-172-1,,70,17-172,апдамишаъан,апдамишаъан,,,,,,,,CyrillTrans;Phonemic,apdamišaʔan
+70-17-190-1,,70,17-190,фыкыр,фыкыр,,,,,,,,CyrillTrans;Phonemic,fɨkɨr
+70-17-210-1,,70,17-210,мерд,мерд,,,,,,,,CyrillTrans;Phonemic,merd
+70-17-220-1,,70,17-220,"быдала, бачІар",быдала,,,,,,,,CyrillTrans;Phonemic,bɨdala
+70-17-220-2,,70,17-220,"быдала, бачІар",бачІар,,,,,,,,CyrillTrans;Phonemic,bačʼar
+70-17-230-1,,70,17-230,"акІепдешда, бачар",акІепдешда,,,,,,,,CyrillTrans;Phonemic,akʼepdešda
+70-17-230-2,,70,17-230,"акІепдешда, бачар",бачар,,,,,,,,CyrillTrans;Phonemic,bačar
+70-17-240-1,,70,17-240,"ацахес, къакІаас",ацахес,,,,,,,,CyrillTrans;Phonemic,acaxes
+70-17-240-2,,70,17-240,"ацахес, къакІаас",къакІаас,,,,,,,,CyrillTrans;Phonemic,q̄akʼaʔas
+70-17-242-1,,70,17-242,хъаІдхъаІс,хъаІдхъаІс,,,,,,,,CyrillTrans;Phonemic,qaˤdqaˤs
+70-17-250-1,,70,17-250,ацІахьес,ацІахьес,,,,,,,,CyrillTrans;Phonemic,acʼax̌es
+70-17-260-1,,70,17-260,шигырт,шигырт,,,,,,,,CyrillTrans;Phonemic,šigɨrt
+70-17-270-1,,70,17-270,мааІллим,мааІллим,,,,,,,,CyrillTrans;Phonemic,maʔaˤllim
+70-17-280-1,,70,17-280,мактаб,мактаб,,,,,,,,CyrillTrans;Phonemic,maktab
+70-17-310-1,,70,17-310,кІелводон,кІелводон,,,,,,,,CyrillTrans;Phonemic,kʼelwodon
+70-17-320-1,,70,17-320,кІепиханас,кІепиханас,,,,,,,,CyrillTrans;Phonemic,kʼepixanas
+70-17-340-1,,70,17-340,ачухун,ачухун,,,,,,,,CyrillTrans;Phonemic,ačuxun
+70-17-350-1,,70,17-350,дяцІан кар,дяцІан кар,,,,,,,,CyrillTrans;Phonemic,dyacʼan kar
+70-17-360-1,,70,17-360,сир,сир,,,,,,,,CyrillTrans;Phonemic,sir
+70-17-370-1,,70,17-370,ацІан,ацІан,,,,,,,,CyrillTrans;Phonemic,acʼan
+70-17-380-1,,70,17-380,башдагьаъас,башдагьаъас,,,,,,,,CyrillTrans;Phonemic,bašdahaʔas
+70-17-410-1,,70,17-410,"макьсад, фыкыр",макьсад,,,,,,,,CyrillTrans;Phonemic,maqʼsad
+70-17-410-2,,70,17-410,"макьсад, фыкыр",фыкыр,,,,,,,,CyrillTrans;Phonemic,fɨkɨr
+70-17-420-1,,70,17-420,сабаб,сабаб,,,,,,,,CyrillTrans;Phonemic,sabab
+70-17-430-1,,70,17-430,шак,шак,,,,,,,,CyrillTrans;Phonemic,šak
+70-17-440-1,,70,17-440,шак гъаъас,шак гъаъас,,,,,,,,CyrillTrans;Phonemic,šak ɣaʔas
+70-17-441-1,,70,17-441,хъелес,хъелес,,,,,,,,CyrillTrans;Phonemic,qeles
+70-17-450-1,,70,17-450,эйхьи деш,эйхьи деш,,,,,,,,CyrillTrans;Phonemic,eyx̌i deš
+70-17-460-1,,70,17-460,сибыкын,сибыкын,,,,,,,,CyrillTrans;Phonemic,sibɨkɨn
+70-17-470-1,,70,17-470,дагъамын,дагъамын,,,,,,,,CyrillTrans;Phonemic,daɣamɨn
+70-17-490-1,,70,17-490,кьейд,кьейд,,,,,,,,CyrillTrans;Phonemic,qʼeyd
+70-17-510-1,,70,17-510,ва,ва,,,,,,,,CyrillTrans;Phonemic,wa
+70-17-520-1,,70,17-520,няъас ивгье,няъас ивгье,,,,,,,,CyrillTrans;Phonemic,nyaʔas iwhe
+70-17-530-1,,70,17-530,агар,агар,,,,,,,,CyrillTrans;Phonemic,agar
+70-17-540-1,,70,17-540,е,е,,,,,,,,CyrillTrans;Phonemic,ye
+70-17-550-1,,70,17-550,гьоо,гьоо,,,,,,,,CyrillTrans;Phonemic,hoʔo
+70-17-560-1,,70,17-560,"дееш, деииш",дееш,,,,,,,,CyrillTrans;Phonemic,deyeš
+70-17-560-2,,70,17-560,"дееш, деииш",деииш,,,,,,,,CyrillTrans;Phonemic,deiʔiš
+70-17-610-1,,70,17-610,"нягьад, няхъуд",нягьад,,,,,,,,CyrillTrans;Phonemic,nyahad
+70-17-610-2,,70,17-610,"нягьад, няхъуд",няхъуд,,,,,,,,CyrillTrans;Phonemic,nyaqud
+70-17-620-1,,70,17-620,"нимечан, нимеп",нимечан,,,,,,,,CyrillTrans;Phonemic,nimečan
+70-17-620-2,,70,17-620,"нимечан, нимеп",нимеп,,,,,,,,CyrillTrans;Phonemic,nimep
+70-17-630-1,,70,17-630,"нимечан, нимеп",нимечан,,,,,,,,CyrillTrans;Phonemic,nimečan
+70-17-630-2,,70,17-630,"нимечан, нимеп",нимеп,,,,,,,,CyrillTrans;Phonemic,nimep
+70-17-640-1,,70,17-640,гьиджо,гьиджо,,,,,,,,CyrillTrans;Phonemic,hiǯo
+70-17-650-1,,70,17-650,мыса,мыса,,,,,,,,CyrillTrans;Phonemic,mɨsa
+70-17-660-1,,70,17-660,"ненгене, ня, ненчепе",ненгене,,,,,,,,CyrillTrans;Phonemic,nengene
+70-17-660-2,,70,17-660,"ненгене, ня, ненчепе",ня,,,,,,,,CyrillTrans;Phonemic,nya
+70-17-660-3,,70,17-660,"ненгене, ня, ненчепе",ненчепе,,,,,,,,CyrillTrans;Phonemic,nenčepe
+70-17-670-1,,70,17-670,нягьадын,нягьадын,,,,,,,,CyrillTrans;Phonemic,nyahadɨn
+70-17-680-1,,70,17-680,вушу,вушу,,,,,,,,CyrillTrans;Phonemic,wušu
+70-17-690-1,,70,17-690,няъас,няъас,,,,,,,,CyrillTrans;Phonemic,nyaʔas
+70-18-110-1,,70,18-110,сес,сес,,,,,,,,CyrillTrans;Phonemic,ses
+70-18-120-1,,70,18-120,екІвас,екІвас,,,,,,,,CyrillTrans;Phonemic,yekʼʷas
+70-18-130-1,,70,18-130,гьаІрай,гьаІрай,,,,,,,,CyrillTrans;Phonemic,haˤray
+70-18-150-1,,70,18-150,кушкуш,кушкуш,,,,,,,,CyrillTrans;Phonemic,kuškuš
+70-18-160-1,,70,18-160,кушкуш,кушкуш,,,,,,,,CyrillTrans;Phonemic,kuškuš
+70-18-170-1,,70,18-170,фитаас,фитаас,,,,,,,,CyrillTrans;Phonemic,fitaʔas
+70-18-180-1,,70,18-180,упамашхьес,упамашхьес,,,,,,,,CyrillTrans;Phonemic,upamašx̌es
+70-18-190-1,,70,18-190,упамашхьес,упамашхьес,,,,,,,,CyrillTrans;Phonemic,upamašx̌es
+70-18-210-1,,70,18-210,йишенаас,йишенаас,,,,,,,,CyrillTrans;Phonemic,yišenaʔas
+70-18-211-1,,70,18-211,пелʼтек,пелʼтек,,,,,,,,CyrillTrans;Phonemic,pelʲtek
+70-18-220-1,,70,18-220,эгьес,эгьес,,,,,,,,CyrillTrans;Phonemic,ehes
+70-18-221-1,,70,18-221,хабар гьишонаъас,хабар гьишонаъас,,,,,,,,CyrillTrans;Phonemic,xabar hišonaʔas
+70-18-222-1,,70,18-222,гьишонхьес,гьишонхьес,,,,,,,,CyrillTrans;Phonemic,hišonx̌es
+70-18-230-1,,70,18-230,сесмаа,сесмаа,,,,,,,,CyrillTrans;Phonemic,sesmaʔa
+70-18-240-1,,70,18-240,миз,миз,,,,,,,,CyrillTrans;Phonemic,miz
+70-18-260-1,,70,18-260,джуваб,джуваб,,,,,,,,CyrillTrans;Phonemic,ǯuwab
+70-18-280-1,,70,18-280,до,до,,,,,,,,CyrillTrans;Phonemic,do
+70-18-310-1,,70,18-310,"къигІаныс, къидгьинас",къигІаныс,,,,,,,,CyrillTrans;Phonemic,q̄iʕanɨs
+70-18-310-2,,70,18-310,"къигІаныс, къидгьинас",къидгьинас,,,,,,,,CyrillTrans;Phonemic,q̄idhinas
+70-18-320-1,,70,18-320,джаваб гьепес,джаваб гьепес,,,,,,,,CyrillTrans;Phonemic,ǯawab hepes
+70-18-330-1,,70,18-330,гарданахъа апятІуй,гарданахъа апятІуй,,,,,,,,CyrillTrans;Phonemic,gardanaqa apyatʼuy
+70-18-340-1,,70,18-340,инкараъас,инкараъас,,,,,,,,CyrillTrans;Phonemic,inkaraʔas
+70-18-350-1,,70,18-350,гьеххъас,гьеххъас,,,,,,,,CyrillTrans;Phonemic,hexqas
+70-18-360-1,,70,18-360,джуваб гьелес,джуваб гьелес,,,,,,,,CyrillTrans;Phonemic,ǯuwab heles
+70-18-370-1,,70,18-370,инкар гьаъас,инкар гьаъас,,,,,,,,CyrillTrans;Phonemic,inkar haʔas
+70-18-380-1,,70,18-380,гадагъа,гадагъа,,,,,,,,CyrillTrans;Phonemic,gadaɣa
+70-18-390-1,,70,18-390,гьокас,гьокас,,,,,,,,CyrillTrans;Phonemic,hokas
+70-18-410-1,,70,18-410,хъотІалас,хъотІалас,,,,,,,,CyrillTrans;Phonemic,qotʼalas
+70-18-420-1,,70,18-420,ивгьес,ивгьес,,,,,,,,CyrillTrans;Phonemic,iwhes
+70-18-430-1,,70,18-430,ивгьес,ивгьес,,,,,,,,CyrillTrans;Phonemic,iwhes
+70-18-440-1,,70,18-440,хъакьанаас,хъакьанаас,,,,,,,,CyrillTrans;Phonemic,qaqʼanaʔas
+70-18-450-1,,70,18-450,"оганмишхьес, огмишхъас",оганмишхьес,,,,,,,,CyrillTrans;Phonemic,oganmišx̌es
+70-18-450-2,,70,18-450,"оганмишхьес, огмишхъас",огмишхъас,,,,,,,,CyrillTrans;Phonemic,ogmišqas
+70-18-510-1,,70,18-510,окІанас,окІанас,,,,,,,,CyrillTrans;Phonemic,okʼanas
+70-18-520-1,,70,18-520,хъаІдхъас,хъаІдхъас,,,,,,,,CyrillTrans;Phonemic,qaˤdqas
+70-18-560-1,,70,18-560,кагъыз,кагъыз,,,,,,,,CyrillTrans;Phonemic,kaɣɨz
+70-18-570-1,,70,18-570,кьалам,кьалам,,,,,,,,CyrillTrans;Phonemic,qʼalam
+70-18-610-1,,70,18-610,китаб,китаб,,,,,,,,CyrillTrans;Phonemic,kitab
+70-18-670-1,,70,18-670,шаир,шаир,,,,,,,,CyrillTrans;Phonemic,šair
+70-18-710-1,,70,18-710,дютякІ,дютякІ,,,,,,,,CyrillTrans;Phonemic,dyutyakʼ
+70-18-720-1,,70,18-720,накьра,накьра,,,,,,,,CyrillTrans;Phonemic,naqʼra
+70-18-730-1,,70,18-730,труба,труба,,,,,,,,CyrillTrans;Phonemic,truba
+70-19-110-1,,70,19-110,"оІлка, гьукмат",оІлка,,,,,,,,CyrillTrans;Phonemic,oˤlka
+70-19-110-2,,70,19-110,"оІлка, гьукмат",гьукмат,,,,,,,,CyrillTrans;Phonemic,hukmat
+70-19-120-1,,70,19-120,ватан,ватан,,,,,,,,CyrillTrans;Phonemic,watan
+70-19-150-1,,70,19-150,шагьар,шагьар,,,,,,,,CyrillTrans;Phonemic,šahar
+70-19-160-1,,70,19-160,хив,хив,,,,,,,,CyrillTrans;Phonemic,xiw
+70-19-170-1,,70,19-170,сергьад,сергьад,,,,,,,,CyrillTrans;Phonemic,serhad
+70-19-210-1,,70,19-210,халкь,халкь,,,,,,,,CyrillTrans;Phonemic,xalqʼ
+70-19-230-1,,70,19-230,тайфа,тайфа,,,,,,,,CyrillTrans;Phonemic,tayfa
+70-19-240-1,,70,19-240,вукъул’,вукъулʼ,,,,,,,,CyrillTrans;Phonemic,wuq̄ulʲ
+70-19-250-1,,70,19-250,аІса,аІса,,,,,,,,CyrillTrans;Phonemic,aˤsa
+70-19-310-1,,70,19-310,хъодкауй,хъодкауй,,,,,,,,CyrillTrans;Phonemic,qodkauy
+70-19-320-1,,70,19-320,паччагь,паччагь,,,,,,,,CyrillTrans;Phonemic,pač̄ah
+70-19-330-1,,70,19-330,"ханум, биче",ханум,,,,,,,,CyrillTrans;Phonemic,xanum
+70-19-330-2,,70,19-330,"ханум, биче",биче,,,,,,,,CyrillTrans;Phonemic,biče
+70-19-370-1,,70,19-370,шагьарди инсан,шагьарди инсан,,,,,,,,CyrillTrans;Phonemic,šahardi insan
+70-19-410-1,,70,19-410,агъа,агъа,,,,,,,,CyrillTrans;Phonemic,aɣa
+70-19-420-1,,70,19-420,къул,къул,,,,,,,,CyrillTrans;Phonemic,q̄ul
+70-19-430-1,,70,19-430,"гьаІшбал, кодкъул",гьаІшбал,,,,,,,,CyrillTrans;Phonemic,haˤšbal
+70-19-430-2,,70,19-430,"гьаІшбал, кодкъул",кодкъул,,,,,,,,CyrillTrans;Phonemic,kodq̄ul
+70-19-440-1,,70,19-440,селишна инсан,селишна инсан,,,,,,,,CyrillTrans;Phonemic,selišna insan
+70-19-450-1,,70,19-450,амыр гьевлес,амыр гьевлес,,,,,,,,CyrillTrans;Phonemic,amɨr hewles
+70-19-460-1,,70,19-460,мюкІур гьаъас,мюкІур гьаъас,,,,,,,,CyrillTrans;Phonemic,myukʼur haʔas
+70-19-470-1,,70,19-470,иджаза гьелес,иджаза гьелес,,,,,,,,CyrillTrans;Phonemic,iǯaza heles
+70-19-510-1,,70,19-510,"дост, хъаммаз",дост,,,,,,,,CyrillTrans;Phonemic,dost
+70-19-510-2,,70,19-510,"дост, хъаммаз",хъаммаз,,,,,,,,CyrillTrans;Phonemic,qammaz
+70-19-520-1,,70,19-520,душман,душман,,,,,,,,CyrillTrans;Phonemic,dušman
+70-19-540-1,,70,19-540,къонши,къонши,,,,,,,,CyrillTrans;Phonemic,q̄onši
+70-19-550-1,,70,19-550,дяцІана инсан,дяцІана инсан,,,,,,,,CyrillTrans;Phonemic,dyacʼana insan
+70-19-560-1,,70,19-560,мигьман,мигьман,,,,,,,,CyrillTrans;Phonemic,mihman
+70-19-570-1,,70,19-570,йесси,йесси,,,,,,,,CyrillTrans;Phonemic,yes̄i
+70-19-580-1,,70,19-580,кумаг,кумаг,,,,,,,,CyrillTrans;Phonemic,kumag
+70-19-590-1,,70,19-590,гьидяссарас,гьидяссарас,,,,,,,,CyrillTrans;Phonemic,hidyas̄aras
+70-19-610-1,,70,19-610,аІдат,аІдат,,,,,,,,CyrillTrans;Phonemic,aˤdat
+70-19-620-1,,70,19-620,саІвуххий,саІвуххий,,,,,,,,CyrillTrans;Phonemic,saˤwux̄iy
+70-19-630-1,,70,19-630,орит,орит,,,,,,,,CyrillTrans;Phonemic,orit
+70-19-650-1,,70,19-650,"горушмишхьес, гавчес",горушмишхьес,,,,,,,,CyrillTrans;Phonemic,gorušmišx̌es
+70-19-650-2,,70,19-650,"горушмишхьес, гавчес",гавчес,,,,,,,,CyrillTrans;Phonemic,gawčes
+70-19-720-1,,70,19-720,кьаІгьба,кьаІгьба,,,,,,,,CyrillTrans;Phonemic,qʼaˤhba
+70-20-110-1,,70,20-110,сачахарас,сачахарас,,,,,,,,CyrillTrans;Phonemic,sačaxaras
+70-20-130-1,,70,20-130,давъий,давъий,,,,,,,,CyrillTrans;Phonemic,dawʔiy
+70-20-140-1,,70,20-140,суІлгь,суІлгь,,,,,,,,CyrillTrans;Phonemic,suˤlh
+70-20-150-1,,70,20-150,орду,орду,,,,,,,,CyrillTrans;Phonemic,ordu
+70-20-170-1,,70,20-170,эскер,эскер,,,,,,,,CyrillTrans;Phonemic,esker
+70-20-210-1,,70,20-210,ярах,ярах,,,,,,,,CyrillTrans;Phonemic,yarax
+70-20-220-1,,70,20-220,дал,дал,,,,,,,,CyrillTrans;Phonemic,dal
+70-20-222-1,,70,20-222,давъийн якІв,давъийн якІв,,,,,,,,CyrillTrans;Phonemic,dawʔiyn yakʼʷ
+70-20-240-1,,70,20-240,вук,вук,,,,,,,,CyrillTrans;Phonemic,wuk
+70-20-250-1,,70,20-250,дарганакь,дарганакь,,,,,,,,CyrillTrans;Phonemic,darganaqʼ
+70-20-260-1,,70,20-260,ох,ох,,,,,,,,CyrillTrans;Phonemic,ox
+70-20-270-1,,70,20-270,томпуз,томпуз,,,,,,,,CyrillTrans;Phonemic,tompuz
+70-20-280-1,,70,20-280,"тюоранг, тифанг",тюоранг,,,,,,,,CyrillTrans;Phonemic,tyuorang
+70-20-280-2,,70,20-280,"тюоранг, тифанг",тифанг,,,,,,,,CyrillTrans;Phonemic,tifang
+70-20-310-1,,70,20-310,ярахбы,ярахбы,,,,,,,,CyrillTrans;Phonemic,yaraxbɨ
+70-20-330-1,,70,20-330,такьий,такьий,,,,,,,,CyrillTrans;Phonemic,taqʼiy
+70-20-340-1,,70,20-340,талкъан,талкъан,,,,,,,,CyrillTrans;Phonemic,talqan
+70-20-350-1,,70,20-350,къала,къала,,,,,,,,CyrillTrans;Phonemic,q̄ala
+70-20-360-1,,70,20-360,мырали,мырали,,,,,,,,CyrillTrans;Phonemic,mɨrali
+70-20-410-1,,70,20-410,къамхьай,къамхьай,,,,,,,,CyrillTrans;Phonemic,q̄amx̌ay
+70-20-420-1,,70,20-420,къамдехьай,къамдехьай,,,,,,,,CyrillTrans;Phonemic,q̄amdex̌ay
+70-20-430-1,,70,20-430,гьуджумаас,гьуджумаас,,,,,,,,CyrillTrans;Phonemic,huǯumaʔas
+70-20-440-1,,70,20-440,къорамихьес,къорамихьес,,,,,,,,CyrillTrans;Phonemic,q̄oramix̌es
+70-20-450-1,,70,20-450,йикьалхъа хъахьес,йикьалхъа хъахьес,,,,,,,,CyrillTrans;Phonemic,yiqʼalqa qax̌es
+70-20-460-1,,70,20-460,дустагъ гирхьуй,дустагъ гирхьуй,,,,,,,,CyrillTrans;Phonemic,dustaɣ girx̌uy
+70-20-470-1,,70,20-470,дустагъчий,дустагъчий,,,,,,,,CyrillTrans;Phonemic,dustaɣčiy
+70-20-471-1,,70,20-471,къаравулʼ,къаравулʼ,,,,,,,,CyrillTrans;Phonemic,q̄arawulʲ
+70-20-480-1,,70,20-480,давла,давла,,,,,,,,CyrillTrans;Phonemic,dawla
+70-20-510-1,,70,20-510,балугъчий,балугъчий,,,,,,,,CyrillTrans;Phonemic,baluɣčiy
+70-20-520-1,,70,20-520,къармах,къармах,,,,,,,,CyrillTrans;Phonemic,q̄armax
+70-20-530-1,,70,20-530,лескІа,лескІа,,,,,,,,CyrillTrans;Phonemic,leskʼa
+70-20-540-1,,70,20-540,сетка,сетка,,,,,,,,CyrillTrans;Phonemic,setka
+70-20-550-1,,70,20-550,чІанкІ,чІанкІ,,,,,,,,CyrillTrans;Phonemic,čʼankʼ
+70-20-610-1,,70,20-610,"кьонахъя, гьаркьыний",кьонахъя,,,,,,,,CyrillTrans;Phonemic,qʼonaqya
+70-20-610-2,,70,20-610,"кьонахъя, гьаркьыний",гьаркьыний,,,,,,,,CyrillTrans;Phonemic,harqʼɨniy
+70-20-620-1,,70,20-620,агьес,агьес,,,,,,,,CyrillTrans;Phonemic,ahes
+70-20-630-1,,70,20-630,хъидертІулна,хъидертІулна,,,,,,,,CyrillTrans;Phonemic,qidertʼulna
+70-20-640-1,,70,20-640,чІанкІ,чІанкІ,,,,,,,,CyrillTrans;Phonemic,čʼankʼ
+70-20-650-1,,70,20-650,аххъас,аххъас,,,,,,,,CyrillTrans;Phonemic,axqas
+70-21-110-1,,70,21-110,"къанун, закун",къанун,,,,,,,,CyrillTrans;Phonemic,q̄anun
+70-21-110-2,,70,21-110,"къанун, закун",закун,,,,,,,,CyrillTrans;Phonemic,zakun
+70-21-150-1,,70,21-150,суд,суд,,,,,,,,CyrillTrans;Phonemic,sud
+70-21-160-1,,70,21-160,иш гьевлес,иш гьевлес,,,,,,,,CyrillTrans;Phonemic,iš hewles
+70-21-170-1,,70,21-170,судын кьарар,судын кьарар,,,,,,,,CyrillTrans;Phonemic,sudɨn qʼarar
+70-21-180-1,,70,21-180,судья,судья,,,,,,,,CyrillTrans;Phonemic,sudya
+70-21-210-1,,70,21-210,тІалабкар,тІалабкар,,,,,,,,CyrillTrans;Phonemic,tʼalabkar
+70-21-220-1,,70,21-220,джавабкар,джавабкар,,,,,,,,CyrillTrans;Phonemic,ǯawabkar
+70-21-230-1,,70,21-230,шагьадкар,шагьадкар,,,,,,,,CyrillTrans;Phonemic,šahadkar
+70-21-240-1,,70,21-240,кьынʼ гьаъас,кьынʼ гьаъас,,,,,,,,CyrillTrans;Phonemic,qʼɨnʲ haʔas
+70-21-250-1,,70,21-250,кІынʼ,кІынʼ,,,,,,,,CyrillTrans;Phonemic,kʼɨnʲ
+70-21-310-1,,70,21-310,тахсир гьаас,тахсир гьаас,,,,,,,,CyrillTrans;Phonemic,taxsir haʔas
+70-21-320-1,,70,21-320,тахсир гиххьый,тахсир гиххьый,,,,,,,,CyrillTrans;Phonemic,taxsir gixqɨy
+70-21-330-1,,70,21-330,тахсиркар гьаас,тахсиркар гьаас,,,,,,,,CyrillTrans;Phonemic,taxsirkar haʔas
+70-21-340-1,,70,21-340,данмишхьес,данмишхьес,,,,,,,,CyrillTrans;Phonemic,danmišx̌es
+70-21-350-1,,70,21-350,тахсиркар,тахсиркар,,,,,,,,CyrillTrans;Phonemic,taxsirkar
+70-21-360-1,,70,21-360,тахсирдешда,тахсирдешда,,,,,,,,CyrillTrans;Phonemic,taxsirdešda
+70-21-370-1,,70,21-370,джаза,джаза,,,,,,,,CyrillTrans;Phonemic,ǯaza
+70-21-380-1,,70,21-380,пыпын штраф,пыпын штраф,,,,,,,,CyrillTrans;Phonemic,pɨpɨn štraf
+70-21-390-1,,70,21-390,дустагъ,дустагъ,,,,,,,,CyrillTrans;Phonemic,dustaɣ
+70-21-420-1,,70,21-420,гикІуий,гикІуий,,,,,,,,CyrillTrans;Phonemic,gikʼuiy
+70-21-430-1,,70,21-430,кьагьбевал,кьагьбевал,,,,,,,,CyrillTrans;Phonemic,qʼahbewal
+70-21-440-1,,70,21-440,зоррамишайий,зоррамишайий,,,,,,,,CyrillTrans;Phonemic,zorramišayiy
+70-21-460-1,,70,21-460,геххьанаас,геххьанаас,,,,,,,,CyrillTrans;Phonemic,gexqanaʔas
+70-21-470-1,,70,21-470,гьорбыгьауй,гьорбыгьауй,,,,,,,,CyrillTrans;Phonemic,horbɨhauy
+70-21-510-1,,70,21-510,хъоІхъас,хъоІхъас,,,,,,,,CyrillTrans;Phonemic,qoˤqas
+70-21-520-1,,70,21-520,сихнарий,сихнарий,,,,,,,,CyrillTrans;Phonemic,sixnariy
+70-22-110-1,,70,22-110,дин,дин,,,,,,,,CyrillTrans;Phonemic,din
+70-22-120-1,,70,22-120,"ГІыниш, Аллагь",ГІыниш,,,,,,,,CyrillTrans;Phonemic,ʕɨniš
+70-22-120-2,,70,22-120,"ГІыниш, Аллагь",Аллагь,,,,,,,,CyrillTrans;Phonemic,Аllah
+70-22-130-1,,70,22-130,"килса, мизер",килса,,,,,,,,CyrillTrans;Phonemic,kilsa
+70-22-130-2,,70,22-130,"килса, мизер",мизер,,,,,,,,CyrillTrans;Phonemic,mizer
+70-22-140-1,,70,22-140,мигьмар,мигьмар,,,,,,,,CyrillTrans;Phonemic,mihmar
+70-22-150-1,,70,22-150,кьурбан,кьурбан,,,,,,,,CyrillTrans;Phonemic,qʼurban
+70-22-160-1,,70,22-160,сужда гьаъас,сужда гьаъас,,,,,,,,CyrillTrans;Phonemic,sužda haʔas
+70-22-170-1,,70,22-170,ыІбадат гьаъас,ыІбадат гьаъас,,,,,,,,CyrillTrans;Phonemic,ɨˤbadat haʔas
+70-22-180-1,,70,22-180,кашиш,кашиш,,,,,,,,CyrillTrans;Phonemic,kašiš
+70-22-190-1,,70,22-190,иман гьацІад,иман гьацІад,,,,,,,,CyrillTrans;Phonemic,Iman hacʼad
+70-22-220-1,,70,22-220,насигьаІт,насигьаІт,,,,,,,,CyrillTrans;Phonemic,nasihaˤt
+70-22-230-1,,70,22-230,"ихтияр гьепес, рухсат гьепес",ихтияр гьепес,,,,,,,,CyrillTrans;Phonemic,Ixtiyar hepes
+70-22-230-2,,70,22-230,"ихтияр гьепес, рухсат гьепес",рухсат гьепес,,,,,,,,CyrillTrans;Phonemic,ruxsat hepes
+70-22-240-1,,70,22-240,къаргъышаас,къаргъышаас,,,,,,,,CyrillTrans;Phonemic,q̄arɣɨšaʔas
+70-22-260-1,,70,22-260,"ыбадат акъас, сив акъас",ыбадат акъас,,,,,,,,CyrillTrans;Phonemic,ɨbadat aq̄as
+70-22-260-2,,70,22-260,"ыбадат акъас, сив акъас",сив акъас,,,,,,,,CyrillTrans;Phonemic,siw aq̄as
+70-22-310-1,,70,22-310,"хаІйбы, дженнет",хаІйбы,,,,,,,,CyrillTrans;Phonemic,xaˤybɨ
+70-22-310-2,,70,22-310,"хаІйбы, дженнет",дженнет,,,,,,,,CyrillTrans;Phonemic,ǯennet
+70-22-320-1,,70,22-320,джегьеннем,джегьеннем,,,,,,,,CyrillTrans;Phonemic,ǯehennem
+70-22-350-1,,70,22-350,"иблис, шитап",иблис,,,,,,,,CyrillTrans;Phonemic,iblis
+70-22-350-2,,70,22-350,"иблис, шитап",шитап,,,,,,,,CyrillTrans;Phonemic,šitap
+70-22-370-1,,70,22-370,хач,хач,,,,,,,,CyrillTrans;Phonemic,xač
+70-22-420-1,,70,22-420,джадубы гьауй,джадубы гьауй,,,,,,,,CyrillTrans;Phonemic,ǯadubɨ hauy
+70-22-430-1,,70,22-430,албишда къарий,албишда къарий,,,,,,,,CyrillTrans;Phonemic,albišda q̄ariy
+70-22-440-1,,70,22-440,пери,пери,,,,,,,,CyrillTrans;Phonemic,peri
+70-22-450-1,,70,22-450,аІхъ,аІхъ,,,,,,,,CyrillTrans;Phonemic,aˤq
+70-22-470-1,,70,22-470,аІламат,аІламат,,,,,,,,CyrillTrans;Phonemic,aˤlamat
